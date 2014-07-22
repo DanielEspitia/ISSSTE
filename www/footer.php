@@ -18,7 +18,19 @@
                   
 
 
-	<strong>ISSSTE, MÉXICO - ALGUNOS DERECHOS RESERVADOS © 2014</strong><p></p>
+<div class="col-md-6"> <font size="-2"> AV. FRANCISCO JUÁREZ SIN ESQ. AMERICAS, COL. LOS LAURELES, PLAZA XOCHIPILLI </font></div>
+<div class="col-md-2"></div>
+<div class="col-md-6"> <font size="-2">CONMUTADOR: (01-461) 609-36-91, 609-35-08, 609-21-66, 609-25-29 </font></div>
+
+<div class="col-md-6"> <font size="-2"> CELAYA, GUANAJUATO, MÉXICO</font></div>
+<div class="col-md-2"></div>
+<div class="col-md-6"> <font size="-2">(01-461) 614-51-64, 614-26-63, 614-26-69, 615-11-49 </font></div>
+
+<div class="col-md-12">
+<hr>
+</div>
+	<div class="col-md-12"><strong>ISSSTE, MÉXICO - ALGUNOS DERECHOS RESERVADOS © 2014</strong><p></p></div>
+    
 
                     </div>
 </div>
