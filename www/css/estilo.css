@@ -2206,5 +2206,66 @@ ul.estrellas li.estrellas_5 a:hover {background-position:0 -240px}
 }
 
 
+#footer {
+	
+  width: 960px;
+	
+  margin-right: auto;
+	
+  margin-left: auto;
+	
+  padding-top: 10px;
+	
+  padding-bottom: 30px;
+	
+
+}
+
+#bodyCopyright {
+	
+  width: 960px;
+	
+  margin-right: auto;
+	
+  margin-left: auto;
+	
+  /*background-color: #00456C;
+	
+  border-bottom-width: 10px;
+	
+  border-bottom-style: solid;
+	
+  border-bottom-color: #333;
+	
+  border-top-width: 1px;
+	
+  border-top-style: solid;
+	
+  border-top-color: #002B42;
+	
+  */
+
+}
+
+#socialFooter {
+	
+  padding-top: 30px;
+	
+  padding-bottom: 10px;
+	
+
+}
+
+#copyright {
+	
+  color: #666;
+	
+  text-align: center;
+	
+  line-height: 20px;
+	
+
+}
+
 
 /* @end */

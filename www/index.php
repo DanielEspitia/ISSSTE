@@ -99,10 +99,13 @@ and open the template in the editor.
         </div>
     <!-- Cierre Contenedor carrusel-->
 
+
         
-        <?php
-        // put your code here
+      <?php
+         include('footer.php');
+       
         ?>
    
+  
     </body>
 </html>
