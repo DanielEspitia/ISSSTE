@@ -1,0 +1,209 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* --- Slideshow Container --- */
+#fpssContainer106.fpss-template-movies {
+	position:relative;
+	width:920px;
+	height:300px;
+	border:1px none #999;
+	padding:0px;
+	overflow:hidden;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+
+/* --- Loader --- */
+#fpssContainer106.fpss-template-movies .slide-loading {position:absolute;width:620px;height:300px;background:#000 url(/modules/mod_fpss/tmpl/Movies/images/loading_black.gif) no-repeat center center;z-index:100;}
+
+/* --- Timer (progress bar) --- */
+#fpssContainer106.fpss-template-movies .fpssTimerContainer,
+#fpssContainer106.fpss-template-movies .fpssTimerContainer .fpssTimer {display:none;}
+
+/* --- Slide Containers --- */
+#fpssContainer106.fpss-template-movies .slides-wrapper {width:620px;height:300px;margin:0;padding:0;float:left;position:relative;overflow:hidden;background:#3a3a3a;}
+.fpss-template-movies .slides-wrapper .slides {}
+#fpssContainer106.fpss-template-movies .slide {width:620px;height:300px;overflow:hidden;list-style:none;}
+.fpss-template-movies .slidetext {
+	margin-top:260px!important;/**/
+	position:absolute;
+	top:0;
+	left:0px;
+	width:100%;
+	height:40px;/**/
+	margin:0;
+	padding:0 8px;
+	background:url(/modules/mod_fpss/tmpl/Movies/images/transparent_bg.png);
+	z-index:1;
+}
+
+
+/* --- Slide Content --- */
+.fpss-template-movies .slidetext h1 {
+	padding-top: 10px;
+	padding-right: 0;
+	padding-bottom: 2px;
+	padding-left: 0;
+	font-weight:normal;
+	visibility:hidden;/**/
+}
+.fpss-template-movies .slidetext h1,
+.fpss-template-movies .slidetext h1 a {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:120%;
+	margin:0;
+	color:#fff;
+}
+.fpss-template-movies .slidetext h1 a {
+	color:#FFF!important;
+	padding:0;
+}
+.fpss-template-movies .slidetext h1 a:hover {
+	color:#FFF!important;
+	text-decoration:none;
+}
+.fpss-template-movies .slidetext h2 {font-size:11px;margin:0;padding:0;color:#bbb;font-weight:normal;}
+.fpss-template-movies .slidetext h3 {font-size:11px;margin:0 0 4px 0;padding:0;display:none;}
+.fpss-template-movies .slidetext h4 {font-size:11px;margin:0;padding:0;color:#999;font-style:italic;}
+.fpss-template-movies .slidetext p {
+	margin:0;
+	background:url(/modules/mod_fpss/tmpl/Movies/images/dotted.gif) repeat-x bottom;
+	color:#fff;
+	font-size: 12px;
+	width:520px;
+	padding-top: 5px;
+	padding-right: 0;
+	padding-bottom: 5px;
+	padding-left: 0;
+	line-height: 15px;
+	visibility:hidden;/**/
+}
+.fpss-template-movies .slidetext a.fpssReadMore {
+	position:absolute;
+	left:540px;
+	bottom:5px;/**/
+	width:70px;
+	margin:0;
+	color:#fff!important;
+	border:none;
+	text-decoration:none;
+	background-image: url(../images/backgrounds/button.png);
+	text-align: center;
+	display: block;
+	font-size: 11px;
+	font-weight: bold;
+	background-repeat: no-repeat;
+	background-position: 0px 0px;
+	height: 30px;
+	line-height: 30px;
+	padding: 0px;
+	text-transform: uppercase;
+}
+.fpss-template-movies .slidetext a.fpssReadMore:hover {
+	color:#fff!important;
+	text-decoration:none;
+	background-image: url(../images/backgrounds/button.png);
+	background-position: 0px -30px;
+}
+
+/* --- Navigation --- */
+#fpssContainer106.fpss-template-movies .navigation-wrapper {
+	width:300px;
+	height:300px;
+	margin:0;
+	padding:0;
+	float:left;
+	overflow-x:hidden;
+	overflow-y:auto;
+	background:none!important;
+}
+.fpss-template-movies .navigation {list-style:none;margin:0;padding:0;}
+.fpss-template-movies .navigation li {
+	z-index:7;
+	background:none!important;
+}
+.fpss-template-movies .navigation li.active,
+.fpss-template-movies .navigation li:hover,
+.fpss-template-movies .navigation-background {
+	background-color: #00456C;
+	background-image: none!important;
+}
+.fpss-template-movies .navigation-background {border:none;position:absolute;z-index:8;}
+#fpssContainer106.fpss-template-movies .navigation li.navigation-button a {
+	display:block;
+	margin:0;
+	text-decoration:none;
+	font-size:11px!important;
+	position:relative;
+	z-index:9;
+	height:64px!important;
+	overflow:hidden;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CFCFCF;
+	line-height: 13px;
+	padding-top: 5px!important;
+	padding-right: 2px!important;
+	padding-bottom: 5px!important;
+	padding-left: 5px!important;
+	border-top-style: none!important;
+	color:#FFF!important;
+}
+#fpssContainer106.fpss-template-movies .navigation li.active a,
+#fpssContainer106.fpss-template-movies .navigation li.navigation-button a:hover {border-top:1px solid #6a6a6a;}
+#fpssContainer106.fpss-template-movies .navigation li.navigation-button:first-child a {border-top:0;}
+#fpssContainer106.fpss-template-movies .navigation-thumbnail {
+	float:left;
+	width:80px;
+	height:50px;
+	margin:2px 8px 0 0;
+	overflow:hidden;
+	border:2px solid #FFF;
+	background-position:50% 50%;
+}
+.fpss-template-movies .navigation-info {clear:right;}
+.fpss-template-movies .navigation-title {
+	color:#333;
+	display:block;
+	font-size:10px;
+	font-weight:bold;
+	line-height:15px;
+	margin:0;
+	padding:0;
+}
+.fpss-template-movies .navigation-tagline {
+	color:#333;
+	font-size:11px;
+	font-weight:normal;
+	line-height:12px;
+	margin:0;
+	padding:0;
+}
+
+.fpss-template-movies .navigation li.active .navigation-tagline, .fpss-template-movies .navigation li:hover .navigation-tagline, .fpss-template-movies .navigation li.active .navigation-title, .fpss-template-movies .navigation li:hover .navigation-title {
+	color:#FFF;
+}
+
+/* --- Generic Styling (highly recommended) --- */
+.fpss-template-movies a {cursor:pointer;}
+.fpss-template-movies a:active,
+.fpss-template-movies a:focus {outline:0;outline:expression(hideFocus='true');}
+.fpss-template-movies img {border:none;}
+.fpss-template-movies .slidetext img,
+.fpss-template-movies .slidetext p img {display:none;}
+.fpss-clr {clear:both;float:none;height:0;line-height:0;margin:0;padding:0;border:0;}
+
+
+/********** Nivo Slider *********/
+.nivo-heading {
+	text-transform: none!important;
+	font-weight: normal!important;
+	color: #FFF;
+	font-size:15px!important;
+	line-height:20px!important;
+}

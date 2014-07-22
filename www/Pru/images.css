@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+#banner img {
+	
+	padding-bottom: 0px;
+	
+
+}
+
+
+
+.news img, .info img {
+	
+	float: left;
+	
+	padding-right: 10px;
+	
+
+}
+
+
+img.photoLeft {
+	
+	float: left;
+	
+	margin-left: 10px;
+	
+	margin-right: 10px;
+	
+	margin-top: 5px;
+	
+	margin-bottom: 5px;
+	
+
+}
+
+
+
+
+#galleryFull img {
+	
+	float: left;
+	
+	padding-left: 0px;
+	
+	padding-right: 10px;
+	
+
+}
+
+
+#galleryFull img.galleryDate {
+	
+	float: right;
+	
+	padding-left: 10px;
+	
+	padding-right: 0px;
+	
+
+}
+
+
+.blog img{
+	
+	width:50%;
+	
+	height:50%;
+	
+	text-align:center;
+	
+	margin-right:10px;
+	
+	
+}

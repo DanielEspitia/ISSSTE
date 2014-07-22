@@ -1,0 +1,542 @@
+@charset "utf-8";
+
+/* CSS Document */
+h1, h2, h3, h4, h5, h6, p, ul, li, ol {
+	
+     font-style: normal;
+	
+     font-weight: normal;
+	
+     margin: 0;
+	
+     padding: 0;
+	
+
+}
+
+
+
+a {
+	
+     color: #3A3A3A;
+	
+     text-decoration: none;
+	
+
+}
+
+
+
+a:hover {
+	
+     text-decoration: none;
+	
+
+}
+
+
+
+#carrusel {
+	
+     width: 100%;
+	
+	 margin:0;
+	
+
+}
+
+
+
+#carrusel .imagen_carrusel img {
+	
+     background-color: #666666;
+	
+     padding: 1%;
+	
+     width: 98%;
+	
+
+}
+
+
+
+#carrusel .textos_carrusel {
+	
+     padding: 0.5em;
+	
+
+}
+
+
+
+#carrusel h3 {
+	
+     font-weight: bold;
+	
+
+}
+
+
+
+ul.barra_botones li {
+	
+     display: inline-block;
+	
+
+}
+
+
+
+#navega_carrusel {
+	
+     border-bottom-style: solid;
+	
+     border-bottom-width: 1px;
+	
+     margin-top: -5px;
+	
+     text-align: center;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones {
+	
+     background-color: #DBDCE0;
+	
+     border: 1px solid white;
+	
+     display: table;
+	
+     margin-left: auto;
+	
+     margin-right: auto;
+	
+     padding: 5px;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones li {
+	
+     border-right: 1px solid white;
+	
+     display: inline-block;
+	
+     list-style-image: none;
+	
+     margin-left: 0;
+	
+
+}
+
+
+
+#carrusel .ultimo {
+	
+     border-right-style: none ! important;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones li a {
+	
+     color: #838584;
+	
+     font-size: 0.8em;
+	
+	 padding-left:10px;
+	
+	 padding-right:10px;
+	
+     text-decoration: none;
+	
+     text-transform: uppercase;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones li a:hover {
+	
+     background-color: #909090;
+	
+     color: white;
+	
+
+}
+
+
+
+ul.barra_botones li a {
+	
+     border-radius: 12px 12px 12px 12px;
+	
+     color: #666666;
+	
+     display: inline-block;
+	
+     font-size: 14px;
+	
+     font-weight: normal;
+	
+     line-height: 100%;
+	
+     text-decoration: none;
+	
+     text-shadow: 0pt 1px 0pt #FFFFFF;
+	
+     vertical-align: middle;
+	
+
+}
+
+
+
+ul.barra_botones li a:hover {
+	
+     background-color: #909090;
+	
+     color: white;
+	
+
+}
+
+
+
+#tiptip_holder.tip_bottom #tiptip_arrow_inner {
+	
+border-bottom-color:rgba(45, 45, 45, 0.88);
+	
+
+}
+
+
+
+#tiptip_holder.tip_top #tiptip_arrow_inner {
+	
+border-top-color:rgba(20, 20, 20, 0.92);
+	
+
+}
+
+
+
+.str,.atv {
+	
+color:#080;
+	
+
+}
+
+
+
+.pun,.opn,.clo,.tag,.dec,.var {
+	
+color:#6DB7FF;
+	
+
+}
+
+
+
+body {
+	
+font-size:.9em;
+	
+
+
+}
+
+
+
+#principal {
+	
+border:5px solid #909090;
+	
+width:910px;
+	
+
+}
+
+
+
+#carrusel {
+	
+background:url("imagenes/fondo_carrusel.jpg") repeat-x scroll 0 0 transparent;
+	
+overflow:auto;
+	
+width:100%;
+	
+margin-bottom:2px;
+	
+
+}
+
+
+
+#carrusel h3 a {
+	
+color:#636363;
+	
+text-decoration:none;
+	
+
+}
+
+
+
+#carrusel h2 {
+	
+margin-bottom:0;
+	
+
+}
+
+
+
+#carrusel h3 {
+	
+font:bold 1.5em Arial;
+	
+height:inherit;
+	
+margin-bottom:0;
+	
+text-align:center;
+	
+border-style:none;
+	
+padding:1em;
+	
+margin-top:20px;
+	
+
+}
+
+
+
+#carrusel p {
+	
+padding-bottom:1em;
+	
+padding-left:1em;
+	
+padding-right:1em;
+	
+text-align:center;
+	
+
+}
+
+
+
+#carrusel .imagen_carrusel {
+	
+float:left;
+	
+width:65%;
+	
+
+}
+
+
+
+#carrusel .imagen_carrusel img {
+	
+width:100%;
+	
+margin-bottom:3px;
+	
+display:block;
+	
+padding:0;
+	
+
+}
+
+
+
+#carrusel .textos_carrusel {
+	
+background:url("imagenes/fondo_carrusel.jpg") repeat-x scroll 0 0 transparent;
+	
+float:right;
+	
+width:35%;
+	
+padding:0 0 0.5em;
+	
+
+}
+
+
+
+#navega_carrusel {
+	
+margin-top:-5px;
+	
+text-align:center;
+	
+background-color:#909090;
+	
+padding-top:.5em;
+	
+border-bottom-style:none;
+	
+padding-bottom:0;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones {
+	
+margin-right:auto;
+	
+margin-left:auto;
+	
+display:table;
+	
+border:1px solid #FFF;
+	
+background-color:#909090;
+	
+height:1.55em;
+	
+border-radius:3px 3px 3px 3px;
+	
+color:#FFF;
+	
+padding:.2em 0 0;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones li {
+	
+border-right:1px solid #FFF;
+	
+display:inline-block;
+	
+list-style-image:none;
+	
+margin-left:0;
+	
+
+}
+
+
+
+#carrusel .ultimo {
+	
+border-right-style:none !important;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones li a {
+	
+color:#ffffff;
+	
+font-size:0.8em;
+	
+text-decoration:none;
+	
+text-transform:uppercase;
+	
+padding:0.5em;
+	
+
+}
+
+
+
+#carrusel .carrusel_botones li a:hover {
+	
+color:#ffffff;
+	
+font-size:0.8em;
+	
+text-decoration:none;
+	
+text-transform:uppercase;
+	
+padding:0.5em;
+	
+
+}
+
+
+
+ul.barra_botones li {
+	
+background:none repeat scroll 0 0 #E0E0E0;
+	
+border-radius:18px 18px 18px 18px;
+	
+border:1px solid #CCC;
+	
+display:inline-block;
+	
+list-style-image:none;
+	
+margin-left:0;
+	
+margin-right:0.5em;
+	
+
+}
+
+
+
+ul.barra_botones li a {
+	
+border-radius:12px 12px 12px 12px;
+	
+color:#666;
+	
+display:inline-block;
+	
+font-size:14px;
+	
+font-weight:400;
+	
+line-height:100%;
+	
+text-decoration:none;
+	
+text-shadow:0 1px 0 #FFF;
+	
+vertical-align:middle;
+	
+margin:-1px 0 0;
+	
+padding:3px 7px;
+	
+
+}
+
+
+
+ul.barra_botones li a:hover {
+	
+background-color:#404040;
+	
+color:white !important;
+	
+
+}

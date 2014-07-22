@@ -1,0 +1,805 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+
+#formWrapper {
+	
+  background-color: #F7F7F7;
+	
+  background-image: url(../images/backgrounds/formWrapper.png);
+	
+  background-position: bottom;
+	
+  padding-top: 30px;
+	
+  padding-bottom: 80px;
+	
+  background-repeat: no-repeat;
+	
+  width: 500px;
+	
+  margin-right: auto;
+	
+  margin-left: auto;
+	
+  margin-top: 20px;
+	
+  margin-bottom: 20px;
+	
+
+}
+
+
+
+form {
+	
+  margin: 0px;
+	
+  padding-top: 0px;
+	
+  padding-right: 0px;
+	
+  padding-bottom: 0px;
+	
+  padding-left: 0px;
+	
+
+}
+
+
+
+/********* Tableless forms general layout **********/
+
+form br {
+	
+  clear: left;
+	
+
+}
+
+
+
+form label, form .input, form .textarea, form .button, form .buttonLarge, form .checkbox, form .radio, form .select {
+	
+  float: left;
+	
+  margin-bottom: 10px;
+	
+  display: block;
+	
+
+}
+
+
+
+
+/********* Form Contact Skin *********/
+#formContact, #formContact input[type="text"], #formContact input[type="password"], #formContact textarea, #formContact select {
+	
+  font-size: 12px;
+	
+  font-family: Arial, Helvetica, sans-serif;
+	
+  color:#666;
+	
+
+}
+
+
+
+#formContact label {
+	
+  text-align:right;
+	
+  border:0px;
+	
+  width: 160px;
+	
+  line-height:25px;
+	
+  margin-right:10px;
+	
+  color: #00456C;
+	
+
+}
+
+
+
+#formContact .input {
+	
+  height: 23px;
+	
+  width: 168px;
+	 /*** 10 px larger than element ***/
+  /* Border */
+  border: 1px solid #C3C3C3;
+	
+  -moz-border-radius: 5px;
+	
+  -webkit-border-radius: 5px;
+	
+  border-radius: 5px;
+	 /* future proofing */
+  -khtml-border-radius: 5px;
+	 /* for old Konqueror browsers */
+  /* Gradient Background */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#D4D4D4));
+	
+  background: -webkit-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* Safari 5.1, Chrome 10+ */
+  background: -moz-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* Firefox 3.6+ */
+  background: -ms-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* IE 10 */
+  background-image: -o-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* Opera */
+
+}
+
+
+
+#formContact input[type="text"], #formContact input[type="password"] {
+	
+  height: 23px;
+	
+  width: 158px;
+	
+  line-height: 23px;
+	
+  border:none;
+	
+  background:transparent;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  display:block;
+	
+  margin: 0px;
+	
+  padding-top: 0px;
+	
+  padding-bottom: 0px;
+	
+
+}
+
+
+
+#formContact .textarea {
+	
+  height: 78px;
+	
+  width: 248px;
+	 /*** 10 px larger than element ***/
+  /* Border */
+  border: 1px solid #C3C3C3;
+	
+  -moz-border-radius: 5px;
+	
+  -webkit-border-radius: 5px;
+	
+  border-radius: 5px;
+	 /* future proofing */
+  -khtml-border-radius: 5px;
+	 /* for old Konqueror browsers */
+  /* Gradient Background */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FFFFFF), to(#D4D4D4));
+	
+  background: -webkit-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* Safari 5.1, Chrome 10+ */
+  background: -moz-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* Firefox 3.6+ */
+  background: -ms-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* IE 10 */
+  background-image: -o-linear-gradient(top, #FFFFFF 0%, #D4D4D4 100%);
+	 /* Opera */
+
+}
+
+
+
+#formContact textarea {
+	
+  height: 78px;
+	
+  width: 238px;
+	
+  line-height: 20px;
+	
+  border:none;
+	
+  background:transparent;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  display:block;
+	
+  margin: 0px;
+	
+  padding-top: 0px;
+	
+  padding-bottom: 0px;
+	
+
+}
+
+
+
+#formContact .button {
+	
+  height: 28px;
+	
+  width: 78px;
+	 /*** 10 px larger than element ***/
+
+}
+
+
+
+#formContact input.buttonSend {
+	
+  height: 28px;
+	
+  width: 68px;
+	
+  line-height: 28px;
+	
+  background:transparent;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  display:block;
+	
+  margin: 0px;
+	
+  padding-top: 0px;
+	
+  padding-bottom: 0px;
+	
+  /* Border */
+  border: 1px solid #00456C;
+	
+  -moz-border-radius: 5px;
+	
+  -webkit-border-radius: 5px;
+	
+  border-radius: 5px;
+	 /* future proofing */
+  -khtml-border-radius: 5px;
+	 /* for old Konqueror browsers */
+  /* Gradient Background */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#245F81), to(#00456C));
+	
+  background: -webkit-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* Safari 5.1, Chrome 10+ */
+  background: -moz-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* Firefox 3.6+ */
+  background: -ms-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* IE 10 */
+  background-image: -o-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* Opera */
+  color: #FFF;
+	
+
+}
+
+
+#formContact .buttonSend:hover {
+	
+  /* Border */
+  border: 1px solid #333333;
+	
+  -moz-border-radius: 5px;
+	
+  -webkit-border-radius: 5px;
+	
+  border-radius: 5px;
+	 /* future proofing */
+  -khtml-border-radius: 5px;
+	 /* for old Konqueror browsers */
+  /* Gradient Background */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#666666), to(#333333));
+	
+  background: -webkit-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* Safari 5.1, Chrome 10+ */
+  background: -moz-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* Firefox 3.6+ */
+  background: -ms-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* IE 10 */
+  background-image: -o-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* Opera */
+
+}
+
+
+
+
+#formContact .buttonLarge {
+	
+  height: 28px;
+	
+  width: 128px;
+	 /*** 10 px larger than element ***/
+
+}
+
+
+
+#formContact input.buttonLargeSend {
+	
+  height: 28px;
+	
+  width: 118px;
+	
+  line-height: 28px;
+	
+  background:transparent;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  display:block;
+	
+  margin: 0px;
+	
+  padding-top: 0px;
+	
+  padding-bottom: 0px;
+	
+  /* Border */
+  border: 1px solid #00456C;
+	
+  -moz-border-radius: 5px;
+	
+  -webkit-border-radius: 5px;
+	
+  border-radius: 5px;
+	 /* future proofing */
+  -khtml-border-radius: 5px;
+	 /* for old Konqueror browsers */
+  /* Gradient Background */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#245F81), to(#00456C));
+	
+  background: -webkit-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* Safari 5.1, Chrome 10+ */
+  background: -moz-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* Firefox 3.6+ */
+  background: -ms-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* IE 10 */
+  background-image: -o-linear-gradient(top, #245F81 0%, #00456C 100%);
+	 /* Opera */
+  color: #FFF;
+	
+
+}
+
+
+#formContact .buttonLargeSend:hover {
+	
+  /* Border */
+  border: 1px solid #333333;
+	
+  -moz-border-radius: 5px;
+	
+  -webkit-border-radius: 5px;
+	
+  border-radius: 5px;
+	 /* future proofing */
+  -khtml-border-radius: 5px;
+	 /* for old Konqueror browsers */
+  /* Gradient Background */
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#666666), to(#333333));
+	
+  background: -webkit-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* Safari 5.1, Chrome 10+ */
+  background: -moz-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* Firefox 3.6+ */
+  background: -ms-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* IE 10 */
+  background-image: -o-linear-gradient(top, #666666 0%, #333333 100%);
+	 /* Opera */
+
+}
+
+
+
+
+
+/**** Optional elements *****/
+
+#formContact .radio, #formContact .checkbox {
+	
+  padding-top: 1px;
+	 /*** Top padding adjust ***/
+
+}
+
+
+
+#formContact .select {
+	
+  height: 25px;
+	
+  width: 180px;
+	
+  background: url(../images/backgrounds/select.png);
+	
+  background-repeat: no-repeat;
+	
+  overflow:hidden;
+	
+
+}
+
+
+
+#formContact select {
+	
+  height: 25px;
+	
+  border:none;
+	
+  background:transparent;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  padding-top:2px;
+	 /*** ajustar ***/
+  margin: 0px;
+	
+  padding-bottom: 0px;
+	
+  -webkit-appearance: none;
+	 /*** Elimina interfaz ***/
+  -moz-appearance:none;
+	 /*** Elimina interfaz ***/
+  appearance: none;
+	 /*** Elimina interfaz ***/
+  overflow:hidden;
+	
+  width: 120%;
+	
+
+}
+
+
+#formContact option {
+	
+  background-color:#F4F4F4;
+	  
+
+}
+
+
+
+
+
+
+#formContact #captcha {
+	
+  float: left;
+	
+  margin-bottom: 10px;
+	
+  display: block;
+	
+  border-top-width: 1px;
+	
+  border-right-width: 1px;
+	
+  border-bottom-width: 1px;
+	
+  border-left-width: 1px;
+	
+  border-top-style: solid;
+	
+  border-right-style: solid;
+	
+  border-bottom-style: solid;
+	
+  border-left-style: solid;
+	
+
+}
+
+
+
+#formContact input.hidde {
+	
+  background-color: none;
+	
+  background-image: none;
+	
+  border: 0px;
+	
+  margin: 0px;
+	
+  padding: 0px;
+	
+  height: 0px;
+	
+  width: 0px;
+	
+
+}
+
+
+
+
+/********* Search *********/
+#search .input {
+	
+  height: 23px;
+	
+  width: 168px;
+	 /*** 10 px larger than element ***/
+  /* Border */
+  border: 1px solid #E1E1E1;
+	
+  float: left;
+	
+  display: block;
+	
+  margin-left: 10px;
+	
+  margin-right: 10px;
+	
+
+}
+
+
+#search input[type="text"] {
+	
+  height: 23px;
+	
+  width: 158px;
+	
+  line-height: 23px;
+	
+  border: 1px solid #E1E1E1;
+	
+  background:#FFFF;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  display:block;
+	
+  margin: 1px;
+	
+  padding-top: 0px;
+	
+  padding-bottom: 0px;
+	
+  font-size: 14px;
+	
+  font-family: Arial, Helvetica, sans-serif;
+	
+  color:#6F6F6F;
+	
+
+}
+
+
+
+#search .button {
+	
+  height: 27px;
+	
+  width: 38px;
+	 /*** 10 px larger than element ***/
+  float: left;
+	
+
+}
+
+
+
+#search input.buttonSend {
+	
+  height: 27px;
+	
+  width: 28px;
+	
+  line-height: 27px;
+	
+  background-color:#676767;
+	
+  padding-right: 5px;
+	
+  padding-left: 5px;
+	
+  display:block;
+	
+  margin: 0px;
+	
+  padding-top: 0px;
+	
+  padding-bottom: 0px;
+	
+  /* Border */
+  border: 1px solid #E1E1E1;
+	
+  color: #CCC;
+	
+  font-weight:bold;
+	
+  
+
+}
+
+
+#search .buttonSend:hover {
+	
+  /* Border */
+  border: 1px solid #E1E1E1;
+	
+  background-color:#979797;
+	
+
+}
+
+
+
+/*********** formato de párrafo acordeon ***************/
+/********** Agregado por Miguel Murueta ************/
+
+.accordion dd.current {
+	
+display:block;
+	
+
+}
+
+
+
+.accordion {
+	
+font-size:12px;
+	
+margin-left:0;
+	
+
+}
+
+
+
+.accordion dt {
+	
+width:92%;
+	
+border:1px solid #e9e9e9;
+	
+border-radius:5px;
+	
+margin-bottom:4px;
+	
+font-weight: bold;
+	
+font-size:14px;
+	
+background-color:#FFF;
+	
+background-image:url(../images/accordion-BG.png);
+	
+background-position:bottom left;
+	
+background-repeat:repeat-x;
+	
+position:relative;
+	
+cursor:pointer;
+	
+padding:20px 20px 20px 50px;
+	
+color: #DCA521;
+	
+text-align:right;
+	
+
+}
+
+
+
+#content .one_third .accordion dt {
+	
+width:74%;
+	
+
+}
+
+
+
+#content-sub .one_third .accordion dt {
+	
+width:63%;
+	
+
+}
+
+
+
+.accordion dd {
+	
+display:none;
+	
+padding:0 11px;
+	
+margin-bottom:0;
+	
+
+}
+
+
+
+.accordion dd p:first-child {
+	
+margin-top:8px;
+	
+
+}
+
+
+
+.accordion dt:before {
+	
+content:url(../images/accordion-plus-sign.png);
+	
+position:absolute;
+	
+left:15px;
+	
+top:50%;
+	
+margin-top:-12px;
+	
+
+}
+
+
+
+.accordion dt.current:before {
+	
+content:url(../images/accordion-minus-sign.png);
+	
+
+}
+
+
+
+.one_half .accordion dt {
+	
+width:83%;
+	
+
+}
+
+
+
+.one_third .accordion dt {
+	
+width:74%;
+	
+
+}
+
+
+
+.one_fourth .accordion dt {
+	
+width:65%;
+	
+
+}
