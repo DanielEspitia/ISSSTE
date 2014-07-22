@@ -1,0 +1,65 @@
+a:hover {
+	color: #03719C;
+}
+
+#herramientas {
+	color: #666666;
+}
+
+#herramientas a {
+	text-decoration: none;
+	font-size: .8em;
+	color: #666666C;
+}
+
+#firma_busqueda {
+	height: 5em;
+	display: block;
+	overflow: hidden;
+	background-image: url(../imagenes/encabezado.jpg);
+}
+
+.menu_principal li ul{
+	background-color: #03719C;
+}
+
+.lista_tipo_D li a:hover {
+	color: #03719C;
+}
+
+/* Ejemplo */
+
+.cuadro_notas_inicio a {
+	display: block;
+	width: 18em;
+	height: 3em;
+	padding: .5em .5em .5em 1.5em;
+	color: #F54C00;
+	line-height: 1em;
+}
+
+.titulo_seccion {
+	border-left-style: solid;
+	border-left-width: 2px;
+	padding-left: .3em;
+	border-width: 2px;
+	border-color: #e4e3e3;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #F54C00;
+	margin-bottom: .5em;
+	font-size: 1em;
+}
+
+.lista_tipo_B a:hover {
+	color: #F54C00;
+}
+
+.marco_cuadro_I2 a:hover {
+	color: #F54C00;
+	text-decoration: underline;
+}
+
+.marco_cuadro_I img {
+	border-color: #d78329;
+}

@@ -7,6 +7,24 @@ and open the template in the editor.
 <html lang="en">
     
     <head>
+    
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
+<link href="css/estilo.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {font-size: 0.9em}
+-->
+</style>
+<link href="css/estilo_stps.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Estilo2 {color: #666666}
+-->
+</style>
+
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -25,15 +43,17 @@ and open the template in the editor.
     </head>
 
     <body>
+
      <?php
          include('header.php');
        
         ?>
+        
 
         <!-- Carrusel-->
         <div class="container-fluid">
         <div class="row"> <!--Renglon con carrusel-->
-        <div class="col-md-1"></div>
+        <div class="col-md-2"></div>
         <div class="col-md-6">
         <div id="MiCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">

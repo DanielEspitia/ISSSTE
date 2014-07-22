@@ -1,0 +1,16 @@
+/* Sistema Internet de Presidencia 2010 Correciones para IE7 */
+
+.menu_principal li{
+	display: inline-block;
+	float: left;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.horizontal li {
+	display: inline-block;
+	float: left;
+	margin-right: .5em;
+	margin-bottom: 1em;
+}
