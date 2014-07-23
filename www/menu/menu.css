@@ -567,3 +567,8 @@ p.counter{
 	
   
 }
+
+#logo_pos{
+position: absolute; 
+top: 45px;	
+}

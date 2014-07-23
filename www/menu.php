@@ -6,8 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <title>ISSSTE GUANAJUATO</title>
 
-       <link rel="stylesheet" href="styles.css">
-	   <link rel="stylesheet" href="allmode-default.css">
+       <link rel="stylesheet" href="menu/styles.css">
+	   <link rel="stylesheet" href="menu/allmode-default.css">
 </head>
 
 <body>
@@ -35,7 +35,7 @@
                 <!-- Logo Module -->
                          
 <div class="custom">
-	<a href="../images/issste2013-header_2.jpg" class="tooltip_arriba"><img src="../images/issste2013-header_2.jpg" border="0" alt="Logo ISSSTE"></a></div>
+	<a href="imagenes/issste2013-header_2.jpg" class="tooltip_arriba"><img id="logo_pos" src="imagenes/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
 
                           </div>
     <!-- ENTRADA cuadro de búsqueda -->

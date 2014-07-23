@@ -12,18 +12,8 @@ and open the template in the editor.
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
 <!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
-<link href="css/estilo.css" rel="stylesheet" type="text/css" />
-<style type="text/css">
-<!--
-.style1 {font-size: 0.9em}
--->
-</style>
-<link href="css/estilo_stps.css" rel="stylesheet" type="text/css" />
-<style type="text/css">
-<!--
-.Estilo2 {color: #666666}
--->
-</style>
+
+
 
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +21,7 @@ and open the template in the editor.
         
         <title>ISSSTE GUANAJUATO</title>
         
-        <!--loading Bootstrap-->
+        <!--loading Bootstrap  -->
         <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.css">
         <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
@@ -45,7 +35,7 @@ and open the template in the editor.
     <body>
 
      <?php
-         include('header.php');
+         include('menu.php');
        
         ?>
         
