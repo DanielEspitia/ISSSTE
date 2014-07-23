@@ -28,6 +28,8 @@ and open the template in the editor.
         <script src="bootstrap-3.2.0-dist/js/jquery.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
+		<link rel="stylesheet" href="menu/styles.css">
+	    <link rel="stylesheet" href="menu/allmode-default.css">
         
     
     </head>
@@ -35,7 +37,7 @@ and open the template in the editor.
     <body>
 
      <?php
-         include('menu.php');
+         include('header.php');
        
         ?>
         
@@ -44,7 +46,7 @@ and open the template in the editor.
         <div class="container-fluid">
         <div class="row"> <!--Renglon con carrusel-->
         <div class="col-md-2"></div>
-        <div class="col-md-6">
+        <div class="col-md-5">
         <div id="MiCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#MiCarousel" data-slide-to="0" class="active"></li>
