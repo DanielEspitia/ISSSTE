@@ -1,18 +1,10 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html lang="en">
     
     <head>
     
     <link rel="icon" type="image/ico" href="favicon.ico" />
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
-
 
 
         <meta charset="UTF-8">
