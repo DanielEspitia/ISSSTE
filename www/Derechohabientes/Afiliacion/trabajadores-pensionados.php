@@ -1,12 +1,9 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Documento sin título</title>
-<link rel="icon" type="image/ico" href="favicon.ico" />
+<html lang="es">
+    
+    <head>
+    
+    <link rel="icon" type="image/ico" href="favicon.ico" />
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
 
 
 
@@ -14,22 +11,58 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         
-        <title>ISSSTE GUANAJUATO</title>
+        <title>ISSSTE GUANAJUATO- Trabajadores y Extrabajadores</title>
         
         <!--loading Bootstrap  -->
-        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.css">
-        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.min.css">
-        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
-        <script src="bootstrap-3.2.0-dist/js/jquery.js"></script>
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
+        <script src="../../bootstrap-3.2.0-dist/js/jquery.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
-        
-        
+		
+        <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="contenedores.css">
-</head>
+        
+    
+    </head>
 
-<body>
-<table class="table table-striped table-hover ">
+    <body>
+
+     <?php
+         include('../../header2.php');
+       
+        ?>
+        
+
+        <!-- Contenedor Principal-->
+        <div class="container-fluid">
+        <div class="col-md-2"></div>
+        <div id="contentLeft">
+
+        <h1>Afiliación y Vigencia de Derechos</h1>  
+
+        <br><br>
+       
+      
+        <h2>Trabajador pensionado, directo, extrabajador en conservación de derechos y extrabajador en continuación voluntaria</h2>
+ 
+        <br><br>
+        
+        
+        <p>
+
+Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que pertenece a tus Familiares Derechohabientes, registrándolos para que reciban atención médica inmediata y digna, a través de los servicios que el ISSSTE les ofrece.
+
+</p>
+<br>
+<p>
+Recuerda que este trámite es gratuito e indispensable para adquirir el carácter de Derechohabiente y tener acceso a las Clínicas y Unidades de Medicina Familiar. 
+</p>
+ 
+        <br><br>
+        
+        <table class="table table-striped table-hover ">
                 <tbody>
                   <tr>
                     <td width="165">¿Cómo saber si soy Derechohabiente?</td>
@@ -71,5 +104,17 @@
        
                 </tbody>
               </table>
-</body>
-</html>
+        </div>
+        </div>
+    <!-- Cierre Contenedor Principal-->
+
+
+        
+      <?php
+         include('../../footer2.php');
+       
+        ?>
+   
+  
+    </body>
+

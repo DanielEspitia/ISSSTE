@@ -31,8 +31,6 @@
          include('header1.php');
        
         ?>
-        
-         <hr>
         <!-- Carrusel-->
         <div class="container-fluid">
         <div class="row"> <!--Renglon con carrusel-->
