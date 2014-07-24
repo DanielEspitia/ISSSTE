@@ -30,6 +30,7 @@ and open the template in the editor.
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		
         <link rel="stylesheet" href="../../css/format.css">
+        <link rel="stylesheet" href="contenedores.css">
         
     
     </head>
@@ -45,25 +46,20 @@ and open the template in the editor.
         <!-- Contenedor Principal-->
         <hr>
         <div class="container-fluid">
-         <div class="row"> <!--Renglon con carrusel-->
+        <div class="row">
         <div class="col-md-2"></div>
-        <div class="col-md-5">
+        <div id="contentLeft">
+
         <h1>Afiliación y Vigencia de Derechos</h1>  
-        </div>
-        </div> <!-- cierre row --> 
+
         <br><br>
        
-        <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-6">
+      
         <h2>Orientación de Servicios y Trámites de Afiliación y Vigencia de Derechos Ante el ISSSTE</h2>
-        </div>
-        </div>
+ 
         <br><br>
         
-        <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-6">
+        
         <p>
 
 Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que pertenece a tus Familiares Derechohabientes, registrándolos para que reciban atención médica inmediata y digna, a través de los servicios que el ISSSTE les ofrece.
@@ -73,10 +69,9 @@ Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que
 <p>
 Recuerda que este trámite es gratuito e indispensable para adquirir el carácter de Derechohabiente y tener acceso a las Clínicas y Unidades de Medicina Familiar. 
 </p>
-        </div>
+ 
         <br><br>
-        
-        
+         </div>
         </div>
     <!-- Cierre Contenedor Principal-->
 
