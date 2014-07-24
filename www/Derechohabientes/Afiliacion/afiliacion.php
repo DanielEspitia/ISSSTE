@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+﻿
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
-<html lang="en">
+<html lang="es">
     
     <head>
     
@@ -22,14 +22,14 @@ and open the template in the editor.
         <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
         
         <!--loading Bootstrap  -->
-        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.css">
-        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap.min.css">
-        <link rel="stylesheet" href="bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
-        <script src="bootstrap-3.2.0-dist/js/jquery.js"></script>
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
+        <script src="../../bootstrap-3.2.0-dist/js/jquery.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		
-        <link rel="stylesheet" href="css/format.css">
+        <link rel="stylesheet" href="../../css/format.css">
         
     
     </head>
@@ -37,7 +37,7 @@ and open the template in the editor.
     <body>
 
      <?php
-         include('header.php');
+         include('../../header2.php');
        
         ?>
         
@@ -79,10 +79,10 @@ Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que
 
         
       <?php
-         include('footer.php');
+         include('../../footer2.php');
        
         ?>
    
   
     </body>
-</html>
+

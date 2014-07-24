@@ -25,7 +25,7 @@
                 <!-- Logo Module -->
                          
 <div class="custom">
-<a href="imagenes/issste2013-header_2.jpg" class="tooltip_arriba"><img id="logo_pos" src="imagenes/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
+<a href="images/issste2013-header_2.jpg" class="tooltip_arriba"><img id="logo_pos" src="images/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
 
                           </div>
     <!-- ENTRADA cuadro de búsqueda -->

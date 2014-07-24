@@ -36,11 +36,11 @@ and open the template in the editor.
     <body>
 
      <?php
-         include('header.php');
+         include('header1.php');
        
         ?>
         
-
+         <hr>
         <!-- Carrusel-->
         <div class="container-fluid">
         <div class="row"> <!--Renglon con carrusel-->
@@ -93,7 +93,7 @@ and open the template in the editor.
 
         
       <?php
-         include('footer.php');
+         include('footer1.php');
        
         ?>
    

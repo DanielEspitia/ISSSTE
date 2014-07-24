@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../menu/styles.css">
 <!--MENUS-->
+
 <div id="container">
 <!-- Header -->
   <div id="header">
@@ -16,20 +17,29 @@
                 <li class="item-473 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/mapadelsitio" class="tooltip_arriba">Mapa del sitio</a></li>
 			</ul>
 
-            <br class="clear">
+			<br class="clear"> 
+								
             </div>
             
-			<div id="issste">
-			<!-- Logo Module -->
-				<div class="custom">
-				<a href="../images/issste2013-header_2.jpg" class="tooltip_arriba"><img src="../images/issste2013-header_2.jpg" border="0" alt="Logo ISSSTE"></a>
-                </div> <!-- fin DIV custom -->
-			</div> <!-- FIN div logo del ISSSTE-->
-                        
+             <div id="issste">
+                <!-- Logo Module -->
+                         
+<div class="custom">
+<a href="../../images/issste2013-header_2.jpg" class="tooltip_arriba"><img id="logo_pos" src="../../images/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
+
+                          </div>
+    <!-- ENTRADA cuadro de búsqueda -->
+             <div id="search">
+                <div id="gobmx-searchbox-container-issste">
+                 <script type="text/javascript">_gmx.loadGobMXsearchAPI({container:'gobmx-searchbox-container-issste',client:'issste',newWindow:true});</script>
+               </div> 
+    </div>
+               <!-- <div id="search">
+                                </div> -->
+    <!-- termina ENTRADA cuadro de búsqueda -->
           <br class="clear">
     
-
-		<div id="menu">
+          <div id="menu">
               <!-- Menu Module -->
                           
 		<ul class="menu" id="nav">
@@ -120,5 +130,8 @@
         
   </div>             
 </div>
+<br class="clear">
 <!-- Content -->
 <!--FIN MENUS-->
+
+
