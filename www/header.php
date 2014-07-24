@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="menu/styles.css">
 <!--MENUS-->
 
 <div id="container">

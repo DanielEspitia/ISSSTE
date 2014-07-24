@@ -28,8 +28,7 @@ and open the template in the editor.
         <script src="bootstrap-3.2.0-dist/js/jquery.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
-		<link rel="stylesheet" href="menu/styles.css">
-	    <link rel="stylesheet" href="menu/allmode-default.css">
+
         
     
     </head>
