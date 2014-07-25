@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <title>Prueba de Menu Derecho</title>
-<link rel="stylesheet" href="../../menu/styles.css">
-<link rel="stylesheet" href="../../menu/linea#3.css">
-<link rel="stylesheet" href="../../menu/allmode-default.css">
+<link rel="stylesheet" href="menu/styles.css">
+<link rel="stylesheet" href="menu/linea#3.css">
+<link rel="stylesheet" href="menu/allmode-default.css">
 </head>
 
 <body>
@@ -42,7 +42,7 @@
 
 	<div class="allmode_item">
 
-				<div class="allmode_img"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018"><img src="../../images/tb.jpg" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" height="60" width="80"></a></div>
+				<div class="allmode_img"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018"><img src="images/tb.jpg" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" height="60" width="80"></a></div>
 		
 		
 				<h4 class="allmode_title"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018">UN ISSSTE SIN REZAGO EDUCATIVO </a></h4>
@@ -53,7 +53,7 @@
 
 	<div class="allmode_item">
 
-				<div class="allmode_img"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018"><img src="../../images/tb.jpg" title="ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX" alt="" height="60" width="80"></a></div>
+				<div class="allmode_img"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018"><img src="images/tb.jpg" title="ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX" alt="" height="60" width="80"></a></div>
 		
 		
 				<h4 class="allmode_title"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018">ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a></h4>

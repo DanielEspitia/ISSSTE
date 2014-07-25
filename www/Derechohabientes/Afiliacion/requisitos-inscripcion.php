@@ -1,8 +1,8 @@
-﻿<html lang="es">
+<html lang="es">
     
     <head>
     
-    <link href="../../images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
+    <link href="images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
 <!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
@@ -24,7 +24,7 @@
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		
         <link rel="stylesheet" href="../../css/format.css">
-        <link rel="stylesheet" href="../../css/contenedores.css">
+        <link rel="stylesheet" href="contenedores.css">
         
     
     </head>
@@ -64,14 +64,11 @@ Recuerda que este trámite es gratuito e indispensable para adquirir el carácte
  
         <br><br>
          </div>
-       
-       <div class="col-md-3">
+         
          <?php
 		 include('../../plantillaMenuD.php');
 		 ?>
          
-         
-         </div>
         </div>
     <!-- Cierre Contenedor Principal-->
 
