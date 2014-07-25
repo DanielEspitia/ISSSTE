@@ -256,7 +256,7 @@ h3 {
 
 h3.green, #contentLeft01 h3, #contentLeft02 h3, #newsRight h3{
 	
-  background-image: url(../images/backgrounds/h3Gray.png);
+  background-image: url(../images/h3Gray.png);
 	
   /* background-image: url(../images/backgrounds/h3Green.png);
 	 */
@@ -266,7 +266,7 @@ h3.green, #contentLeft01 h3, #contentLeft02 h3, #newsRight h3{
 
 h3.blue, #issstemergencias h3, #galleryIndexContainer h3 {
 	
-  background-image: url(../images/backgrounds/h3Gray.png);
+  background-image: url(../images/h3Gray.png);
 	
   /* background-image: url(../images/backgrounds/h3Blue.png);
 	*/
@@ -276,7 +276,7 @@ h3.blue, #issstemergencias h3, #galleryIndexContainer h3 {
 
 h3.gray, #programs h3 {
 	
-  background-image: url(../images/backgrounds/h3Gray.png);
+  background-image: url(../images/h3Gray.png);
 	
 
 }

@@ -64,6 +64,11 @@ Recuerda que este trámite es gratuito e indispensable para adquirir el carácte
  
         <br><br>
          </div>
+         
+         <?php
+		 include('../../plantillaMenuD.php');
+		 ?>
+         
         </div>
     <!-- Cierre Contenedor Principal-->
 
