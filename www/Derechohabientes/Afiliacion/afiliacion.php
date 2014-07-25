@@ -2,7 +2,7 @@
     
     <head>
     
-    <link rel="icon" type="image/ico" href="favicon.ico" />
+    <link href="images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
 <!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
 <!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
