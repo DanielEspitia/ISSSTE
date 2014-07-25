@@ -33,8 +33,8 @@
         <!-- Carrusel-->
         <div class="container-fluid">
         <div class="row"> <!--Renglon con carrusel-->
-        <div class="col-md-2"></div>
-        <div class="col-md-5">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
         <div id="MiCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#MiCarousel" data-slide-to="0" class="active"></li>
@@ -70,13 +70,20 @@
         
  </div>
         
-        <div class="col-md-4">
+        <div class="col-md-3"></div>
+		</div>
+		</div>
+		<br>
+		
+		<div class="row"> 
+        <div class="col-md-8"></div>
+		<div class="col-md-4">
         <a href="http://www.fovissste.gob.mx/" target="_blank"><img src="imagenes/Imagen_pagina_web/i_fovissste.jpg" alt="fovissste" width="300" height="170" class="img-thumbnail" ></a>
         <a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="imagenes/Imagen_pagina_web/i_pensionissste.jpg" alt="pensionissste" width="300" height="170" class="img-thumbnail" ></a>
         <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="imagenes/Imagen_pagina_web/i_turissste.jpg" alt="turissste" width="300" height="170" class="img-thumbnail"></a>
         </div>
-        </div>
-        </div>
+		</div>
+       
     <!-- Cierre Contenedor carrusel-->
 
 
