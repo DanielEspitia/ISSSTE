@@ -40,7 +40,7 @@
         <!-- Contenedor Principal-->
         <div class="container-fluid">
         <div class="col-md-2"></div>
-        <div id="contentLeft">
+        <div class="col-md-6">
 
         <h1>Afiliación y Vigencia de Derechos</h1>  
 
@@ -63,8 +63,8 @@ Recuerda que este trámite es gratuito e indispensable para adquirir el carácte
 </p>
  
         <br><br>
-         </div>
-       
+         
+       </div>
        <div class="col-md-3">
          <?php
 		 include('../../plantillaMenuD.php');
