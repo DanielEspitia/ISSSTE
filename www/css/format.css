@@ -296,3 +296,16 @@ h4.green {
 	
 
 }
+
+strong {
+	font-size:14px;
+	font-weight: bold;
+}
+
+li{
+	text-align:justify;
+font-size:12px;
+ margin: 0px;
+padding: 0px 0px 15px;
+line-height: 20px;
+}
