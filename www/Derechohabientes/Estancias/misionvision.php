@@ -49,6 +49,13 @@
 		</div>
 
 	</div>
+	 <div class="col-md-3">
+         <?php
+		 include('../../plantillaMenuD.php');
+		 ?>
+         
+         
+         </div>
 </div>
 	  
 	  

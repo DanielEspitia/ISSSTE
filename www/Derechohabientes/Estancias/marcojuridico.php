@@ -75,6 +75,13 @@ El instituto atenderá de acuerdo con esta Ley, a las necesidades básicas del T
 </div>
 
 	</div>
+	 <div class="col-md-3">
+         <?php
+		 include('../../plantillaMenuD.php');
+		 ?>
+         
+         
+         </div>
 </div>
   
       <?php
