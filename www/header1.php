@@ -46,7 +46,7 @@
 		<ul class="menu" id="nav">
 			<li class="item-475 deeper parent primera"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Derechohabientes</a>
             	<ul>
-                	<li class="item-476 primera"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/afiliacion-vigencia" class="tooltip_arriba">Afiliación</a></li>
+                	<li class="item-476 primera"><a href="Derechohabientes/Afiliacion/afiliacion.php" class="tooltip_arriba">Afiliación</a></li>
                     <li class="item-1498"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/infromacion-relevante" class="tooltip_arriba">Trámites</a></li>
                     <li class="item-477"><a href="http://www2.issste.gob.mx:8080/index.php/sad" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
                     <li class="item-478"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/cultura-deporte" class="tooltip_arriba">Cultura, Deporte y Recreación</a></li>

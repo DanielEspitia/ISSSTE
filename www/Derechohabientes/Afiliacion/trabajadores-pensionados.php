@@ -113,6 +113,7 @@
                     <td width="110"><b>¿Quién tiene derecho al Servicio Médico?</b></td>
                     <td width="403">
                     <p ><b>Trabajador, Pensionado directo, extrabajador en conservación de derechos y extrabajador en continuación voluntaria (art. 41 Ley del ISSSTE):</b></p>
+                    <blockquote>
                     <ul type="disc">
                        <li>Esposa o Esposo</li>
                        <li>Concubina ó Concubinario:</li>
@@ -129,17 +130,17 @@
                                <li>Padres, Abuelos, Bisabuelos etc.</li>
                             </ul>
                     </ul>
-                    
+                    </blockquote>
                     <p><b>Pensionista indirecto:</b></p>
                     
                     <p>Tiene derecho a los servicios médicos, durante el tiempo que le sea otorgada la Pensión por:</p>
-                    
+                   <blockquote 
                     <ul type="disc">
                     <li>Viudez</li>
                     <li>Orfandad</li>
                     <li>Ascendencia</li>
                     </ul>
-                    
+                    </blockquote>
                     <p><b>No tiene derechos a la inscripción de Familiares.</b></p>               
                     </td>
                   </tr>
@@ -166,7 +167,7 @@
                     <p>Después de prestar sus servicios en alguna Dependencia o Entidad y no tenga la calidad de Pensionado, podrá solicitar la continuación voluntaria en todos o alguno de los seguros del régimen obligatorio, con excepción del seguro de riesgos del trabajo. Para el caso del seguro de salud se requerirá que el Trabajador acredite haber laborado, cuando menos, cinco años en alguna Dependencia o Entidad incorporada al Instituto (art. 110 de la Ley del ISSSTE). <b> Sólo tiene sesenta días hábiles después de la baja para realizar el trámite.</b></p>
                     
                    <p>Al respecto, deberá realizar el trámite en el Departamento de Afiliación y Prestaciones Económicas de la Delegación del ISSSTE más cercana a su domicilio, con los siguientes documentos probatorios (original y copia):</p>
-                   
+                 <blockquote>  
                    <ul type="disc">
                    <li>Último recibo de pago de sueldo.</li>
                    <li>En caso de no tener registrada toda su historia laboral en la base de datos Única de derechohabientes, deberá presentar sus Hoja(s) Única(s) de Servicios o recibos de pago, para demostrar los cinco años de cotización al Instituto.</li>
@@ -184,6 +185,8 @@
                           <li>Pasaporte vigente Cédula Profesional</li>
                           </ul>                   
                    </ul>
+                   
+                   </blockquote>
                     </td>
                   </tr>
 
@@ -194,7 +197,7 @@
          </div>	 
        <div class="col-md-3">
          <?php
-		 include('../../plantillaMenuD.php');
+		 include('menuAfiliacion.php');
 		 ?>
          
          
