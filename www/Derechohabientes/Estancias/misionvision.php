@@ -32,6 +32,7 @@
 	  <div class="container-fluid">
         <div class="col-md-2"></div>
         <div id="contentLeft">
+		<div id="text"> 
 		
 		        
             <div class="item-page">
@@ -47,7 +48,7 @@
 <p>&nbsp;</p>
 	
 		</div>
-
+    </div>
 	</div>
 	 <div class="col-md-3">
          <?php

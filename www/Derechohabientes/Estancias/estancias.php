@@ -55,7 +55,6 @@
 <p></p>
 <p></p>
 <p> </p>
-<p align="right"><peke>Última actualización: Mayo.19.2014 - Esther Hernández Hernández </peke></p>
 	
 		</div>
 
