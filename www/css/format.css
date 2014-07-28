@@ -309,3 +309,87 @@ font-size:12px;
 padding: 0px 0px 15px;
 line-height: 20px;
 }
+
+
+/***** Tables *****/
+.table {
+	
+  width: 570px;
+	
+  font-size: 12px;
+	
+  border: 1px solid #E0E0E0;
+	
+  margin-right: auto;
+	
+  margin-left: auto;
+	
+
+}
+
+
+.table tr.tableHeader {
+	
+  text-transform: uppercase;
+	
+  color: #FFF;
+	
+  background-color: #7E7E7E;
+	
+  font-size: 11px;
+	
+  font-weight: bold;
+	
+
+}
+
+
+.table tr.tableHeader:hover {
+	
+  background-color: #333333;
+	
+
+}
+
+
+.table tr.tableHeader td {
+	
+
+}
+
+
+.table tr {
+	
+  color: #666;
+	
+
+}
+
+
+.table tr:hover {
+	
+  background-color: #F8F8F8;
+	
+
+}
+
+
+.table tr td {
+	
+  border-bottom-width: 1px;
+	
+  border-bottom-style: solid;
+	
+  border-bottom-color: #F2F2F2;
+	
+  padding-top: 1px;
+	
+  padding-right: 5px;
+	
+  padding-bottom: 1px;
+	
+  padding-left: 5px;
+	
+
+}
+
