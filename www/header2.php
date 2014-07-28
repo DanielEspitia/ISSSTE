@@ -49,11 +49,11 @@
                     <li class="item-1498"><a href="" class="tooltip_arriba">Trámites</a></li>
                     <li class="item-477"><a href="" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
                     <li class="item-478"><a href="estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
-                    <li class="item-481"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/pensionados" class="tooltip_arriba">Pensionados</a></li>
+                    <li class="item-481"><a href="" class="tooltip_arriba">Pensionados</a></li>
                     <li class="item-482"><a href="http://www.pensionissste.gob.mx/" target="_blank" class="ext tooltip_arriba">PENSIONISSSTE</a></li>
-                    <li class="item-483"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/prestamos" class="tooltip_arriba">Préstamos</a></li>
+                    <li class="item-483"><a href="" class="tooltip_arriba">Préstamos</a></li>
                     <li class="item-486"><a href="http://sgm.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Salud</a></li>
-                    <li class="item-487"><a href="http://www2.issste.gob.mx:8080/index.php/turissste/" class="tooltip_arriba">Turismo</a></li>
+                    <li class="item-487"><a href="http://www2.issste.gob.mx:8080/index.php/turissste/" target="_blank" class="tooltip_arriba">Turismo</a></li>
                     <li class="item-488 ultima"><a href="http://www.fovissste.gob.mx/wb/" target="_blank" class="ext tooltip_arriba">Vivienda</a></li>
 				</ul>
 			</li>
