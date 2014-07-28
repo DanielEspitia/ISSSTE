@@ -42,7 +42,22 @@
       
         <h2>Orientación de Servicios y Trámites de Afiliación y Vigencia de Derechos Ante el ISSSTE</h2>
  
+        <br><br>
+        
+        
+        <p>
 
+Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que pertenece a tus Familiares Derechohabientes, registrándolos para que reciban atención médica inmediata y digna, a través de los servicios que el ISSSTE les ofrece.
+
+</p>
+<br>
+<p>
+Recuerda que este trámite es gratuito e indispensable para adquirir el carácter de Derechohabiente y tener acceso a las Clínicas y Unidades de Medicina Familiar. 
+</p>
+ 
+        <br><br>
+	
+	
 		</div>
 
      </div>
