@@ -1,19 +1,19 @@
-﻿<html lang="es">
+<html lang="es">
     
     <head>
     
-    <link href="../../images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
-<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
+    
 
-
-
-        <meta charset="UTF-8">
+		<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		
+		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
+		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Pensionados</title>
-        
-        <!--loading Bootstrap  -->
+        <title>ISSSTE GUANAJUATO - Pensionados</title>
+		
+		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
@@ -24,28 +24,23 @@
         <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="../../css/contenedores.css">
         <link rel="stylesheet" href="../../menu/styles.css">
-    
-    </head>
+	</head>
 
-    <body>
-
-     <?php
+	<body>
+	<?php
          include('../../header2.php');
-       
-        ?>
-        
-
-        <!-- Contenedor Principal-->
-        <div class="container-fluid">
+      ?>
+	  <div class="container-fluid">
         <div class="col-md-2"></div>
-        <div class="col-md-5">
-
-        <h1>Pensionados</h1>  
+        <div id="contentLeft">
+	  
+	        <div id="text">        
+            <div class="item-page">
+  <h1>Pensionados</h1>  
 
         <br><br>
-       
-      
-        <h2>CANCELADA MODALIDAD PRESENCIAL DE LOS PENSIONADOS EN EL PASE DE VIGENCIA DE DERECHOS</h2>
+ 
+ <h2>CANCELADA MODALIDAD PRESENCIAL DE LOS PENSIONADOS EN EL PASE DE VIGENCIA DE DERECHOS</h2>
  
         <br><br>
         
@@ -68,24 +63,27 @@ Estimado Pensionado: Nos satisface informarle que hemos transformado  el pase de
   ·         Lo invitamos a registrarse a la oficina virtual del ISSSTE, en:<em><strong> <a class="tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" target="_blank">https://oficinavirtual.issste.gob.mx/</a> </strong></em>si el sistema no le permite ingresar, debe presentar su CURP en la Subdelegación de Prestaciones más cercana a su domicilio.<br>
 </p>
 
-         </div>	 
-       <div class="col-md-3">
+
+		</div>
+
+     </div>
+	</div>
+	 <div class="col-md-3">
          <?php
-		 include('../../plantillaMenuD.php');
+		 include('menuPensionados.php');
 		 ?>
          
          
          </div>
-        </div>
-    <!-- Cierre Contenedor Principal-->
+</div>
+	  
+	  
+	  
 
-
-        
+	   
       <?php
          include('../../footer2.php');
        
-        ?>
-   
-  
-    </body>
-
+        ?>	
+</body>
+</html>

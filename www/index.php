@@ -20,8 +20,8 @@
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 
-        
-    
+      	<link rel="stylesheet" type="text/css" href="engine1/style.css" />	<!--	css de wow slider	-->
+		<script type="text/javascript" src="engine1/jquery.js"></script>	<!--	css de wow slider	-->            
     </head>
 
     <body>
@@ -31,47 +31,26 @@
        
         ?>
         <!-- Carrusel-->
-        <div class="container-fluid">
-        <div class="row"> <!--Renglon con carrusel-->
-        <div class="col-md-3"></div>
-        <div class="col-md-6">
-        <div id="MiCarousel" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#MiCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#MiCarousel" data-slide-to="1" class=""></li>
-        <li data-target="#MiCarousel" data-slide-to="2" class=""></li>
-      </ol>
-            <div class="carousel-inner">
-                <div class="active item"><img  src="imagenes/carousel/prevenissste.jpg" alt="banner1" />
-             <div class="carousel-caption">
-                <h3> </h3>
-                <p>En PREVENISSSTE te decimos como cuidar tu salud</p>
-             </div></div>
-            <div class="item"><img  src="imagenes/carousel/taller.jpg" alt="banner2" />
-            <div class="carousel-caption">
-                <h3>Taller de Verano 2014</h3>
-                <p>Explora, inventa, crea y juega</p>
-             </div></div>
-                <div class="item"><img  src="imagenes/carousel/bicentenario.jpg" alt="banner3" />
-            <div class="carousel-caption">
-                <h3></h3>
-                <p>descripcion de la noticia </p>
-             </div></div>
-        </div>
-      
-      
-    <a class="left carousel-control" href="##MiCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-      </a>
-      <a class="right carousel-control" href="#MiCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-      </a>
-    </div>
-        
- </div>
-        
-        <div class="col-md-3"></div>
-		</div>
+            <!-- Start WOWSlider.com BODY section -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+<li><img src="data1/images/02.jpg" alt="02" title="02" id="wows1_0"/></li>
+<li><img src="data1/images/03.jpg" alt="03" title="03" id="wows1_1"/></li>
+<li><img src="data1/images/01.jpg" alt="01" title="01" id="wows1_2"/></li>
+</ul></div>
+<div class="ws_bullets"><div>
+<a href="#" title="02"><img src="data1/tooltips/02.jpg" alt="02"/>1</a>
+<a href="#" title="03"><img src="data1/tooltips/03.jpg" alt="03"/>2</a>
+<a href="#" title="01"><img src="data1/tooltips/01.jpg" alt="01"/>3</a>
+</div></div>
+<span class="wsl"><a href="http://wowslider.net">image slider jquery</a> by WOWSlider.com v5.5</span>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+        <!--FIN Carrusel-->
+        <div class="container-fluid">    
 		</div>
 		<br>
 		
