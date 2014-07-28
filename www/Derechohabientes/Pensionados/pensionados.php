@@ -4,8 +4,6 @@
     
     <link href="../../images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
 
 
 
@@ -13,7 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         
-        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
+        <title>ISSSTE GUANAJUATO- Pensionados</title>
         
         <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -25,7 +23,7 @@
 		
         <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="../../css/contenedores.css">
-        
+        <link rel="stylesheet" href="../../menu/styles.css">
     
     </head>
 
@@ -42,27 +40,34 @@
         <div class="col-md-2"></div>
         <div class="col-md-5">
 
-        <h1>Afiliación y Vigencia de Derechos</h1>  
+        <h1>Pensionados</h1>  
 
         <br><br>
        
       
-        <h2>Orientación de Servicios y Trámites de Afiliación y Vigencia de Derechos Ante el ISSSTE</h2>
+        <h2>CANCELADA MODALIDAD PRESENCIAL DE LOS PENSIONADOS EN EL PASE DE VIGENCIA DE DERECHOS</h2>
  
         <br><br>
         
         
         <p>
 
-Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que pertenece a tus Familiares Derechohabientes, registrándolos para que reciban atención médica inmediata y digna, a través de los servicios que el ISSSTE les ofrece.
 
+Estimado Pensionado: Nos satisface informarle que hemos transformado  el pase de vigencia, 
+<strong>eliminando la modalidad presencial, es decir, usted ya no debe trasladarse a ninguna oficina del ISSSTE a realizar el pase de vigencia,</strong>
+ ahora el registro de la supervivencia la realizará el personal del ISSSTE, a través de diversas modalidades como son:
 </p>
+<blockquote>
+  <p><br>
+    o    Visitas domiciliarias aleatorias<br>
 <br>
-<p>
-Recuerda que este trámite es gratuito e indispensable para adquirir el carácter de Derechohabiente y tener acceso a las Clínicas y Unidades de Medicina Familiar. 
+  o    A través de la validación de la CURP de los pensionados con la base de datos del Registro Nacional de Población (RENAPO).</p>
+</blockquote>
+<p><br>
+  <br>
+  ·         Lo invitamos a registrarse a la oficina virtual del ISSSTE, en:<em><strong> <a class="tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" target="_blank">https://oficinavirtual.issste.gob.mx/</a> </strong></em>si el sistema no le permite ingresar, debe presentar su CURP en la Subdelegación de Prestaciones más cercana a su domicilio.<br>
 </p>
- 
-        <br><br>
+
          </div>	 
        <div class="col-md-3">
          <?php
