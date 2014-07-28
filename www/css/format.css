@@ -3,27 +3,27 @@
 /* CSS Document */
 
 body {
-	
+
   font-family: Arial, Helvetica, sans-serif;
-	
+
   font-size: 14px;
   text-align:justify;
-	
+
   line-height: 1.4em;
-	
+
   color: #333;
-	
+
 
 }
 
 
 
 #issste p, #search p{
-	
+
   margin:0 !important;
-	
+
   padding:0 !important;
-	
+
   
 }
 
@@ -31,122 +31,122 @@ body {
 
 /*** Text ***/
 h1 {
-	
+
   font-size: 24px;
-	
+
   color: #002F48;
-	
+
   font-weight: normal;
-	
+
   line-height: 32px;
-	
+
   margin: 0px;
-	
+
   padding-top: 0px;
-	
+
   padding-right: 0px;
-	
+
   padding-bottom: 10px;
-	
+
   padding-left: 0px;
-	
+
 
 }
 
 
 h2 {
-	
+
   color: #4A4A4A;
-	
+
   font-size: 18px;
-	
+
   font-weight: normal;
-	
+
   line-height: 24px;
-	
+
   padding-bottom: 10px;
-	
+
 
 }
 
 
 
 h3 {
-	
+
   font-weight: bold;
-	
+
   color:#666;
-	
+
   font-size: 15px;
-	
+
   padding-top: 0px;
-	
+
   padding-right: 0px;
-	
+
   padding-bottom: 15px;
-	
+
   padding-left: 0px;
-	
+
   line-height: 20px;
-	
+
   text-transform: none;
-	
+
   margin: 0px;
-	
+
 
 }
 
 
 
 h4 {
-	
+
   font-weight: bold;
-	
+
   color: #666;
-	
+
   font-size: 14px;
-	
+
   padding-left: 0px;
-	
+
   text-transform: none;
-	
+
   line-height: 20px;
-	
+
   margin: 0px;
-	
+
   padding-top: 0px;
-	
+
   padding-right: 0px;
-	
+
   padding-bottom: 15px;
-	
+
 
 }
 
 
 
 #text blanco {
-	
+
   font-weight: bold;
-	
+
   color: #FFF;
-	
+
   font-size: 14px;
-	
+
   padding-left: 0px;
-	
+
   text-transform: none;
-	
+
   line-height: 20px;
-	
+
   margin: 0px;
-	
+
   padding-top: 0px;
-	
+
   padding-right: 0px;
-	
+
   padding-bottom: 15px;
-	
+
 
 }
 
@@ -159,23 +159,23 @@ font-size:12px;
 padding: 0px 0px 15px;
 line-height: 20px;
 
-	
+
 
 }
 
 
 
 #text verde {
-	
+
   color: #373;
-	
+
 
 }
 
 
 
 #text rojo {
-	
+
   color: #FE0F36
 
 }
@@ -183,18 +183,18 @@ line-height: 20px;
 
 
 #text rojo-24ptos {
-	
+
   color: #FE0F36;
-	
+
   font-size: 24px;
-	
+
 
 }
 
 
 
 #text cafe {
-	
+
   color: #663300
 
 }
@@ -202,7 +202,7 @@ line-height: 20px;
 
 
 #text dorado {
-	
+
   color: #CC9933
 
 }
@@ -210,9 +210,9 @@ line-height: 20px;
 
 
 #text verde-oscuro {
-	
+
   color: #003300;
-	
+
   font-size: 20px
 
 }
@@ -220,7 +220,7 @@ line-height: 20px;
 
 
 #text uva {
-	
+
   color: #6600FF
 
 }
@@ -228,13 +228,13 @@ line-height: 20px;
 
 
 #text peke {
-	
+
   font-weight: bold;
-	
+
   color: #ABABAB;
-	
+
   font-size: 10px;
-	
+
 
 }
 
@@ -242,57 +242,70 @@ line-height: 20px;
 
 /*** Headers ***/
 # text h3 {
-	
+
   font-size: 15px;
-	
+
   line-height: 40px;
-	
+
 
 }
 
 
 h3.green, #contentLeft01 h3, #contentLeft02 h3, #newsRight h3{
-	
+
   background-image: url(../images/backgrounds/h3Gray.png);
-	
+
   /* background-image: url(../images/backgrounds/h3Green.png);
-	 */
+*/
 
 }
 
 
 h3.blue, #issstemergencias h3, #galleryIndexContainer h3 {
-	
+
   background-image: url(../images/backgrounds/h3Gray.png);
-	
+
   /* background-image: url(../images/backgrounds/h3Blue.png);
-	*/
+*/
 
 }
 
 
 h3.gray, #programs h3 {
-	
+
   background-image: url(../images/backgrounds/h3Gray.png);
-	
+
 
 }
 
 
 
 h4 {
-	
+
   font-size: 12px;
-	
+
   line-height: 30px;
-	
+
 
 }
 
 
 h4.green {
-	
-  background-image: url(../images/backgrounds/h4Green.png);
-	
 
+  background-image: url(../images/backgrounds/h4Green.png);
+
+
+}
+
+strong {
+font-size:14px;
+font-weight: bold;
+}
+
+li{
+text-align:justify;
+font-size:12px;
+ margin: 0px;
+padding: 0px 0px 15px;
+line-height: 20px;
 }

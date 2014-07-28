@@ -2,7 +2,7 @@
     
     <head>
     
-    <link href="images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
+<link href="../../images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
 <link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
 
 
@@ -38,7 +38,7 @@
         <!-- Contenedor Principal-->
         <div class="container-fluid">
         <div class="col-md-2"></div>
-        <div id="contentLeft">   <!-- Contenido PRincipal-->
+        <div class="col-md-5">   <!-- Contenido PRincipal-->
 
           
         </div>   <!-- Fin contenido principal-->
