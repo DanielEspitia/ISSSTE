@@ -50,7 +50,7 @@
                     <li class="item-1498"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/infromacion-relevante" class="tooltip_arriba">Trámites</a></li>
                     <li class="item-477"><a href="http://www2.issste.gob.mx:8080/index.php/sad" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
                     <li class="item-478"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/cultura-deporte" class="tooltip_arriba">Cultura, Deporte y Recreación</a></li>
-                    <li class="item-480"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/estancias" class="tooltip_arriba">Estancias Infantiles</a></li>
+                    <li class="item-480"><a href="Derechohabientes/Estancias/estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
                     <li class="item-481"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/pensionados" class="tooltip_arriba">Pensionados</a></li>
                     <li class="item-482"><a href="http://www.pensionissste.gob.mx/" target="_blank" class="ext tooltip_arriba">PENSIONISSSTE</a></li>
                     <li class="item-483"><a href="http://www2.issste.gob.mx:8080/index.php/derechohabientes/prestamos" class="tooltip_arriba">Préstamos</a></li>
