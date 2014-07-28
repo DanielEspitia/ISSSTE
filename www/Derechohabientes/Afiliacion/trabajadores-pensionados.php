@@ -1,21 +1,19 @@
-﻿<html lang="es">
+<html lang="es">
     
     <head>
     
-    <link href="../../images/logo.jpg" type="image/x-icon" rel="shortcut icon" />
-<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="css/estiloIE7.css" /><![endif]-->
-<!--[if IE]><link rel="stylesheet" type="text/css" href="css/estilo.css" /><![endif]-->
+    
 
-
-
-        <meta charset="UTF-8">
+		<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		
+		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
+		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
         <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
-        
-        <!--loading Bootstrap  -->
+		
+		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
@@ -24,25 +22,20 @@
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		
         <link rel="stylesheet" href="../../css/format.css">
-       
-        
-    
-    </head>
+        <link rel="stylesheet" href="../../css/contenedores.css">
+	</head>
 
-    <body>
-
-     <?php
+	<body>
+	<?php
          include('../../header2.php');
-       
-        ?>
-        
-
-        <!-- Contenedor Principal-->
-        <div class="container-fluid">
+      ?>
+	  <div class="container-fluid">
         <div class="col-md-2"></div>
-        <div class="col-md-5">
-
-        <h1>Afiliación y Vigencia de Derechos</h1>  
+        <div id="contentLeft">
+	  
+	        <div id="text">        
+            <div class="item-page">
+    <h1>Afiliación y Vigencia de Derechos</h1>  
 
          <br><br>
        
@@ -193,25 +186,26 @@
                   
 </tbody>
 </table>
+		</div>
 
-         </div>	 
-       <div class="col-md-3">
+     </div>
+	</div>
+	 <div class="col-md-3">
          <?php
 		 include('menuAfiliacion.php');
 		 ?>
          
          
          </div>
-        </div>
-    <!-- Cierre Contenedor Principal-->
+</div>
+	  
+	  
+	  
 
-
-        
+	   
       <?php
          include('../../footer2.php');
        
-        ?>
-   
-  
-    </body>
-
+        ?>	
+</body>
+</html>
