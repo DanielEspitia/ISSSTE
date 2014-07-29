@@ -14,7 +14,7 @@
                 <li class="item-469"><a href="http://www2.issste.gob.mx:8080/index.php/movil" class="ext tooltip_arriba">Versión Móvil</a></li>
                 <li class="item-470"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-28-46" class="tooltip_arriba">Contacto</a></li>
                 <li class="item-471"><a href="http://www2.issste.gob.mx:8080/index.php/menutop-directorios-institucionales" class="tooltip_arriba">Directorios</a></li>
-                <li class="item-472"><a href="http://www2.issste.gob.mx:8080/index.php/welcome" class="tooltip_arriba">Ubicanos</a></li>
+                <li class="item-472"><a href="menuTop/Ubicanos/map.php" class="tooltip_arriba">Ubicanos</a></li>
                 <li class="item-473 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/mapadelsitio" class="tooltip_arriba">Mapa del sitio</a></li>
 			</ul>
 
