@@ -19,7 +19,7 @@
 	<ul class="menu">
 		<li class="item-563 primera"><a class="tooltip_arriba" href="misionvision.php">Misión y Visión</a></li>
         <li class="item-564"><a class="tooltip_arriba" href="marcojuridico.php">Marco Jurídico</a></li>
-        <li class="item-565"><a class="tooltip_arriba" href="">Eventos y Noticias</a></li>
+        <li class="item-565"><a class="tooltip_arriba" href="eventos_noticias.php">Eventos y Noticias</a></li>
 		<li class="item-565"><a class="tooltip_arriba" href="requisitos.php">Requisitos</a></li>
 		<li class="item-566"><a class="tooltip_arriba" href="http://ebdis.issste.gob.mx/pubconsEBDI.asp" target="_blank">Directorio</a></li>
         
