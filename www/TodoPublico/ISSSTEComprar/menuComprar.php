@@ -17,10 +17,10 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="trabajadores-pensionados.php">Trabajadores y Extrabajadores</a></li>
-        <li class="item-565"><a class="tooltip_arriba" href="requisitos-inscripcion.php">Requisitos para la inscripción de derechohabientes</a></li>
-        <li class="item-566"><a class="ext tooltip_arriba" href="http://oficinavirtual.issste.gob.mx/" target="_blank">Mi oficina virtual</a></li>
+	    <li class="item-563 primera"><a class="tooltip_arriba" href="issste-a-comprar.php">ISSSTE va a Comprar</a></li>
+		<li class="item-563 primera"><a class="tooltip_arriba" href="compromisos-issste-proveedores.php">Compromisos del ISSSTE con sus Proveedores</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href="#">Consulta Prebases</a></li>
+        <li class="item-565"><a class="tooltip_arriba" href="http://www.compranet.gob.mx/" target="_blank">Compranet</a></li>
 </li>
 	</ul> <!-- FIN de <UL> MENU	-->
 

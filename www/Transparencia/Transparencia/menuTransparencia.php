@@ -17,12 +17,14 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="trabajadores-pensionados.php">Trabajadores y Extrabajadores</a></li>
-        <li class="item-565"><a class="tooltip_arriba" href="requisitos-inscripcion.php">Requisitos para la inscripción de derechohabientes</a></li>
-        <li class="item-566"><a class="ext tooltip_arriba" href="http://oficinavirtual.issste.gob.mx/" target="_blank">Mi oficina virtual</a></li>
-</li>
-	</ul> <!-- FIN de <UL> MENU	-->
+<li class="item-1363 current active primera"><a href="normatividad.php" class="tooltip_arriba">Normatividad</a></li>
+<li class="item-1364"><a href="#" class="tooltip_arriba">Comité de Información</a></li>
+<li class="item-1365"><a href="#" class="tooltip_arriba">Transparencia Focalizada</a></li>
+<li class="item-1366"><a href="#" class="tooltip_arriba">Indicadores de Programas Presupuestarios</a></li>
+<li class="item-1367"><a href="#" class="tooltip_arriba">Recomendaciones emitidas por la CNDH, INMUJERES y CONAPRED</a></li>
+<li class="item-1368"><a href="#" class="tooltip_arriba">Estudios y Opiniones</a></li><li class="item-1370"><a href="/index.php/mder-transp-rendicion-cuentas" class="tooltip_arriba">Rendición de Cuentas</a></li>
+<li class="item-1371 ultima"><a href="#" class="tooltip_arriba">Participación Ciudadana</a></li>
+</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
                      

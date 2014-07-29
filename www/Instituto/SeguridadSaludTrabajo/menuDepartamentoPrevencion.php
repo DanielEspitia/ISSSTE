@@ -17,11 +17,12 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="trabajadores-pensionados.php">Trabajadores y Extrabajadores</a></li>
-        <li class="item-565"><a class="tooltip_arriba" href="requisitos-inscripcion.php">Requisitos para la inscripción de derechohabientes</a></li>
-        <li class="item-566"><a class="ext tooltip_arriba" href="http://oficinavirtual.issste.gob.mx/" target="_blank">Mi oficina virtual</a></li>
-</li>
+		<li class="item-563 primera"><a class="tooltip_arriba" href="organosConsultivos.php">Órganos Consultivos en Seguridad y Salud en el Trabajo</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href=".php">Programa de Prevención</a></li>
+        <li class="item-565"><a class="tooltip_arriba" href=".php">Comisiones de Seguridad y Salud en el Trabajo</a></li>
+        <li class="item-566"><a class="tooltip_arriba" href=".php">Estadística Nacional de Accidentes de Trabajo</a></li>
+        <li class="item-567"><a class="tooltip_arriba" href=".php">Promoción y Material de Difusión</a></li>
+        <li class="item-568"><a class="tooltip_arriba" href="seguridad.php">Seguridad e Higiene en el Trabajo</a></li>
 	</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
@@ -33,8 +34,6 @@
                   		<div class="moduletableNews">
 					<h3>Noticias</h3>
 					<div class="allmode_box allmode-default News">
-
-
 
 
 <div class="allmode_itemsbox">

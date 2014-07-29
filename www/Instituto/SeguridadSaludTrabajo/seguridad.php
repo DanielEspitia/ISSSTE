@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
+        <title>ISSSTE GUANAJUATO - Seguridad y Salud en el Trabajo</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -23,6 +23,7 @@
 		
         <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="../../css/contenedores.css">
+        <link rel="stylesheet" href="../../menu/styles.css">
 	</head>
 
 	<body>
@@ -35,14 +36,22 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
+  <h1>Jefatura de Servicios de Seguridad e Higiene en el Trabajo</h1>  
+
+        <br><br>
+ 
+        <br><br>
+        
+	<p style="text-align: justify;">La Jefatura de Servicios de Seguridad e Higiene en el Trabajo, es el área del Instituto cuyo objetivo primordial es promover la prevención de riesgos del trabajo, mediante actividades, programas y campañas que deben realizar las Dependencias y Entidades afiliadas al régimen de la Ley, a fin de garantizar la seguridad y la salud de los trabajadores, así como nombrar, supervisar y evaluar el proceso de dictaminación de riesgos de trabajo e invalidez.
+    </p>
+
 		</div>
 
      </div>
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuAfiliacion.php');
+		 include('menuSeguridad.php');
 		 ?>
          
          

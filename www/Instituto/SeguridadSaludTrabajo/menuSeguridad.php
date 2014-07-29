@@ -17,11 +17,9 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="trabajadores-pensionados.php">Trabajadores y Extrabajadores</a></li>
-        <li class="item-565"><a class="tooltip_arriba" href="requisitos-inscripcion.php">Requisitos para la inscripción de derechohabientes</a></li>
-        <li class="item-566"><a class="ext tooltip_arriba" href="http://oficinavirtual.issste.gob.mx/" target="_blank">Mi oficina virtual</a></li>
-</li>
+		<li class="item-563 primera"><a class="tooltip_arriba" href="departamentoPrevencionRiesgos.php">Departamento de Prevención de Riesgos del Trabajo</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href=".php">Departamento de Medicina del Trabajo</a></li>
+        <li class="item-565"><a class="tooltip_arriba" href=".php">Organigrama</a></li>
 	</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
@@ -33,8 +31,6 @@
                   		<div class="moduletableNews">
 					<h3>Noticias</h3>
 					<div class="allmode_box allmode-default News">
-
-
 
 
 <div class="allmode_itemsbox">

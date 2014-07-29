@@ -36,34 +36,16 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Pensionados</h1>  
+  <h1>Prestaciones Adicionales</h1>  
 
         <br><br>
  
- <h2>CANCELADA MODALIDAD PRESENCIAL DE LOS PENSIONADOS EN EL PASE DE VIGENCIA DE DERECHOS</h2>
+ <h2>¡¡¡ATENCIÓN A JUBILADOS Y PENSIONADOS!!!</h2>
  
         <br><br>
         
-        
-        <p>
-
-
-Estimado Pensionado: Nos satisface informarle que hemos transformado  el pase de vigencia, 
-<strong>eliminando la modalidad presencial, es decir, usted ya no debe trasladarse a ninguna oficina del ISSSTE a realizar el pase de vigencia,</strong>
- ahora el registro de la supervivencia la realizará el personal del ISSSTE, a través de diversas modalidades como son:
-</p>
-<blockquote>
-  <p><br>
-    o    Visitas domiciliarias aleatorias<br>
-<br>
-  o    A través de la validación de la CURP de los pensionados con la base de datos del Registro Nacional de Población (RENAPO).</p>
-</blockquote>
-<p><br>
-  <br>
-  ·         Lo invitamos a registrarse a la oficina virtual del ISSSTE, en:<em><strong> <a class="tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" target="_blank">https://oficinavirtual.issste.gob.mx/</a> </strong></em>si el sistema no le permite ingresar, debe presentar su CURP en la Subdelegación de Prestaciones más cercana a su domicilio.<br>
-</p>
-
-
+	<p>Acuda al <strong><u><a class="ext tooltip_arriba" href="http://portaltransparencia.gob.mx/pot/directorio/begin.do?method=begin&amp;_idDependencia=00637" target="_blank">Departamento de Acción Social, Cultural y Deportiva</a></u></strong> de la Delegación del ISSSTE mas cercana a su domicilio, para apoyo en la obtención de diversas actividades que ofrece el Instituto.
+	</p>        
 		</div>
 
      </div>
