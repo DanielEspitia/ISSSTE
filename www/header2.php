@@ -13,7 +13,7 @@
                 <li class="item-469"><a href="http://www2.issste.gob.mx:8080/index.php/movil" class="ext tooltip_arriba">Versión Móvil</a></li>
                 <li class="item-470"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-28-46" class="tooltip_arriba">Contacto</a></li>
                 <li class="item-471"><a href="http://www2.issste.gob.mx:8080/index.php/menutop-directorios-institucionales" class="tooltip_arriba">Directorios</a></li>
-                <li class="item-472"><a href="http://www2.issste.gob.mx:8080/index.php/welcome" class="tooltip_arriba">English</a></li>
+                <li class="item-472"><a href="http://www2.issste.gob.mx:8080/index.php/welcome" class="tooltip_arriba">Ubicanos</a></li>
                 <li class="item-473 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/mapadelsitio" class="tooltip_arriba">Mapa del sitio</a></li>
 			</ul>
 
@@ -43,15 +43,15 @@
               <!-- Menu Module -->
                           
 		<ul class="menu" id="nav">
-			<li class="item-475 deeper parent primera"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Derechohabientes</a>
+			<li class="item-475 deeper parent primera"><a href="../../index.php" class="tooltip_arriba">Derechohabientes</a>
             	<ul>
-                	<li class="item-476 primera"><a href="afiliacion.php" class="tooltip_arriba">Afiliación</a></li>
-                    <li class="item-1498"><a href="" class="tooltip_arriba">Trámites</a></li>
-                    <li class="item-477"><a href="" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
-                    <li class="item-478"><a href="estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
-                    <li class="item-481"><a href="" class="tooltip_arriba">Pensionados</a></li>
+                	<li class="item-476 primera"><a href="../Afiliacion/afiliacion.php" class="tooltip_arriba">Afiliación</a></li>
+                    <li class="item-1498"><a href="#" class="tooltip_arriba">Trámites</a></li>
+                    <li class="item-477"><a href="#" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
+                    <li class="item-478"><a href="../Estancias/estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
+                    <li class="item-481"><a href="../Pensionados/pensiones.php" class="tooltip_arriba">Pensionados</a></li>
                     <li class="item-482"><a href="http://www.pensionissste.gob.mx/" target="_blank" class="ext tooltip_arriba">PENSIONISSSTE</a></li>
-                    <li class="item-483"><a href="" class="tooltip_arriba">Préstamos</a></li>
+                    <li class="item-483"><a href="../Prestamos/prestamos.php" class="tooltip_arriba">Préstamos</a></li>
                     <li class="item-486"><a href="http://sgm.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Salud</a></li>
                     <li class="item-487"><a href="http://www2.issste.gob.mx:8080/index.php/turissste/" target="_blank" class="tooltip_arriba">Turismo</a></li>
                     <li class="item-488 ultima"><a href="http://www.fovissste.gob.mx/wb/" target="_blank" class="ext tooltip_arriba">Vivienda</a></li>

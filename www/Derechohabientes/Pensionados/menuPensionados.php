@@ -17,8 +17,8 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Pensiones</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="trabajador-pensionado.php">Prestaciones Adicionales</a></li>       
+		<li class="item-563 primera"><a class="tooltip_arriba" href="pensiones.php">Pensiones</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href="prestacionesAdicionales.php">Prestaciones Adicionales</a></li>       
 	</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
