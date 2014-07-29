@@ -1,0 +1,29 @@
+"Aguascalientes", "Baja California", "Baja California Sur", "Campeche", "Chiapas", "Chihuahua", "Coahuila de Zaragoza", "Colima", "Distrito Federal", "Durango", "Guanajuato", "Guerrero", "Hidalgo", "Jalisco", "Mexico", "Michoacan de Ocampo", "Morelos", "Nayarit", "Nuevo Leon", "Oaxaca", "Puebla", "Queretaro de Arteaga", "Quintana Roo", "San Luis Potosi", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz-Llave", "Yucatan", "Zacatecas"
+
+1) Aguascalientes
+
+Aguascalientes|Asientos|Calvillo|Cosío|Jesús María|Pabellón de Arteaga|Rincón de Romos|San José de Gracia|Tepezalá|El Llano|San Francisco de los Romo|
+
+2)Baja California
+
+Ensenada|Mexicali|Playas de Rosarito|Tecate|Tijuana
+
+3)Baja California Sur
+
+Comondú|La Paz|Loreto|Los Cabos|Mulegé
+
+4)Campeche
+
+Calakmul|Calkiní|Campeche|Candelaria|Carmen|Champotón|Escárcega|Hecelchakán|Hopelchén|Palizada|Tenabo
+
+5)Chiapas
+
+Acacoyagua|Acala|Acapetahua|Aldama|Altamirano|Amatán|Amatenango de la Frontera|Amatenango del Valle|Ángel Albino Corzo|Arriaga|Bejucal de Ocampo|Bella Vista|Benemérito de las Américas|Berriozábal|Bochil|Cacahoatán|Chalchihuitán|Chamula|Chanal|Chapultenango|Catazajá|Chenalhó|Chiapa de Corzo|Chiapilla|Chicoasén|Chicomosuelo|Cintalpa|Chilón|Coapilla|Comitán de Domínguez|Copainalá|El Bosque|El Porvenir|Escuintla|Francisco León|Frontera Comalapa|Frontera Hidalgo|Huehuetán|Huitiupán|Huixtán|Huixtla|Ixhuatán|Ixtacomitán|Ixtapa|Ixtapangajoya|Jiquipilas|Jitotol|Juárez|La Concordia|La Grandeza|La Independencia|La Libertad|La Trinitaria|Larráinzar|Las Margaritas|Las Rosas|Mapastepec|Maravilla Tenejapa|Marqués de Comillas|Mazapa de Madero|Mazatán|Metapa|Mitontic|Montecristo de Guerrero|Motozintla|Nicolás Ruíz|Ocosingo|Ocotepec|Ocozocoautla de Espinosa|Ostuacán|Osumacinta|Oxchuc|Palenque|Pantelhó|Pantepec|Pichucalco|Pijijiapan|Pueblo Nuevo Solistahuacán|Rayón|Reforma|Sabanilla|Salto de Agua|San Andrés Duraznal|San Cristóbal de las Casas|San Fernando|San Juan Cancuc|San Lucas|Santiago el Pinar|Siltepec|Simojovel|Sitalá|Socoltenango|Solosuchiapa|Soyaló|Suchiapa|Suchiate|Sunuapa|Tapachula|Tapalapa|Tapilula|Tecpatán|Tenejapa|Teopisca|Tila|Tonalá|Totolapa|Tumbalá|Tuxtla Chico|Tuxtla Gutiérrez|Tuzantán|Tzimol|Unión Juárez|Venustiano Carranza|Villa Comaltitlán|Villa Corzo|Villaflores|Yajalón|Zinacantán
+
+6) Chihuahua
+
+Ahumada|Aldama|Allende|Aquiles Serdán|Ascensión|Bachíniva|Balleza|Batopilas|Bocoyna|Buenaventura|Camargo|Carichí|Casas Grandes|Chihuahua|Chínipas|Coronado|Coyame del Sotol|Cuauhtémoc|Cusihuiriachi|Delicias|Dr. Belisario Domínguez|El Tule|Galeana|Gómez Farías|Gran Morelos|Guachochi|Guadalupe D.B.|Guadalupe y Calvo|Guazapares|Guerrero|Hidalgo del Parral|Huejoitán|Ignacio Zaragoza|Janos|Jiménez|Juárez|Julimes|La Cruz|López|Madera|Maguarichi|Manuel Benavides|Matachí|Matamoros|Meoqui|Morelos|Moris|Namiquipa|Nonoava|Nuevo Casas Grandes|Ocampo|Ojinaga|Praxedis G. Guerrero|Riva Palacio|Rosales|Rosario|San Francisco de Borja|San Francisco de Conchos|San Francisco del Oro|Santa Bárabara|Santa Isabel|Satevó|Saucillo|Temósachi|Urique|Uriachi|Valle de Zaragoza
+
+7) Coahuila
+
+Abasolo|Acuña|Allende|Arteaga|Candela|Castaños|Cuatrociénegas|Escobedo|Francisco I. Madero|Frontera|General Cepeda|Guerrero|Hidalgo|Jiménez|Juárez|Lamadrid|Matamoros|Monclova|Morelos|Múzquiz|Nadadores|Nava|Ocampo|Parras|Piedras Negras|Progreso|Ramos Arizpe|Sabinas|Sacramento|Saltillo|San Buenaventura|San Juan de Sabinas|San Pedro|Sierra Mojada|Torreón|Viesca|Villa Unión|Zaragoza

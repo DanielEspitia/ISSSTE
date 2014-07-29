@@ -52,7 +52,7 @@
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuNormatividad.php');
+		 include('menuTransparencia.php');
 		 ?>
          
          
