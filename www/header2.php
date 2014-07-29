@@ -43,12 +43,13 @@
               <!-- Menu Module -->
                           
 		<ul class="menu" id="nav">
-			<li class="item-475 deeper parent primera"><a href="../../index.php" class="tooltip_arriba">Derechohabientes</a>
+			<li class="item-475 deeper parent primera"><a href="../../index.php#" class="tooltip_arriba">Derechohabientes</a>
             	<ul>
                 	<li class="item-476 primera"><a href="../Afiliacion/afiliacion.php" class="tooltip_arriba">Afiliación</a></li>
-                    <li class="item-1498"><a href="#" class="tooltip_arriba">Trámites</a></li>
-                    <li class="item-477"><a href="#" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
-                    <li class="item-478"><a href="../Estancias/estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
+                    <li class="item-1498"><a href="../Tramites/tramites.php" class="tooltip_arriba">Trámites</a></li>
+                    <li class="item-477"><a href="../Atencion/atencion.php" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
+					<li class="item-478"><a href="../Cultura/cultura.php" class="tooltip_arriba">Cultura, Deporte y Recreación</a></li>
+                    <li class="item-480"><a href="../Estancias/estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
                     <li class="item-481"><a href="../Pensionados/pensiones.php" class="tooltip_arriba">Pensionados</a></li>
                     <li class="item-482"><a href="http://www.pensionissste.gob.mx/" target="_blank" class="ext tooltip_arriba">PENSIONISSSTE</a></li>
                     <li class="item-483"><a href="../Prestamos/prestamos.php" class="tooltip_arriba">Préstamos</a></li>
@@ -80,9 +81,9 @@
                    <li class="item-503"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Ventanilla Electrónica de Servicios</a></li>
                    <li class="item-504 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/serviciosenlinea-issstenet-home" class="tooltip_arriba">Ver más servicios</a></li></ul></li>
 			
-            <li class="item-505 deeper parent"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Instituto</a>
+            <li class="item-505 deeper parent"><a href="../../index.php#" class="tooltip_arriba">Instituto</a>
             	<ul>
-                	<li class="item-506 primera"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/quienes-somos" class="tooltip_arriba">¿Quiénes Somos?</a></li>
+                	<li class="item-506 primera"><a href="../Quienes_somos/quienes_somos.php" class="tooltip_arriba">¿Quiénes Somos?</a></li>
                     <li class="item-507"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/admin01" class="tooltip_arriba">Administración</a></li>
                     <li class="item-508"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Sala de Prensa</a></li>
                     <li class="item-509"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/finanzas01" class="tooltip_arriba">Finanzas</a></li>

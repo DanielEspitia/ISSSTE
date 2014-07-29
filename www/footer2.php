@@ -2,8 +2,8 @@
    <div id="bodyCopyright">
         <div id="socialFooter">
 
-	<a href="http://www.facebook.com/pages/ISSSTE/383477189617" alt="_blank" class="ext tooltip_arriba"><img src="../../images/facebook.png" alt="Facebook"></a>
-<a href="https://twitter.com/issste_mx" alt="_blank" class="tooltip_arriba"><img src="../../images/twitter.png" alt="Twitter"></a>
+	<a href="http://www.facebook.com/pages/ISSSTE/383477189617" target="_blank" class="ext tooltip_arriba"><img src="../../images/facebook.png" alt="Facebook"></a>
+<a href="https://twitter.com/ISSSTEGuanajuat" target="_blank" class="tooltip_arriba"><img src="../../images/twitter.png" alt="Twitter"></a>
 
                     </div>
 
@@ -29,7 +29,7 @@
 <div class="col-md-12">
 <hr>
 </div>
-	<div class="col-md-12"><strong>ISSSTE, MÉXICO - ALGUNOS DERECHOS RESERVADOS © 2014</strong><p></p></div>
+	<div class="col-md-12"><strong>ISSSTE, GUANAJUATO - ALGUNOS DERECHOS RESERVADOS © 2014</strong><p></p></div>
     
 
                     </div>
