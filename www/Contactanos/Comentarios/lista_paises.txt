@@ -1,4 +1,4 @@
-"Aguascalientes", "Baja California", "Baja California Sur", "Campeche", "Chiapas", "Chihuahua", "Coahuila de Zaragoza", "Colima", "Distrito Federal", "Durango", "Guanajuato", "Guerrero", "Hidalgo", "Jalisco", "Mexico", "Michoacan de Ocampo", "Morelos", "Nayarit", "Nuevo Leon", "Oaxaca", "Puebla", "Queretaro de Arteaga", "Quintana Roo", "San Luis Potosi", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz-Llave", "Yucatan", "Zacatecas"
+﻿"Aguascalientes", "Baja California", "Baja California Sur", "Campeche", "Chiapas", "Chihuahua", "Coahuila de Zaragoza", "Colima", "Distrito Federal", "Durango", "Guanajuato", "Guerrero", "Hidalgo", "Jalisco", "Mexico", "Michoacan de Ocampo", "Morelos", "Nayarit", "Nuevo Leon", "Oaxaca", "Puebla", "Queretaro de Arteaga", "Quintana Roo", "San Luis Potosi", "Sinaloa", "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz-Llave", "Yucatan", "Zacatecas"
 
 1) Aguascalientes
 
@@ -25,5 +25,7 @@ Acacoyagua|Acala|Acapetahua|Aldama|Altamirano|Amatán|Amatenango de la Frontera|
 Ahumada|Aldama|Allende|Aquiles Serdán|Ascensión|Bachíniva|Balleza|Batopilas|Bocoyna|Buenaventura|Camargo|Carichí|Casas Grandes|Chihuahua|Chínipas|Coronado|Coyame del Sotol|Cuauhtémoc|Cusihuiriachi|Delicias|Dr. Belisario Domínguez|El Tule|Galeana|Gómez Farías|Gran Morelos|Guachochi|Guadalupe D.B.|Guadalupe y Calvo|Guazapares|Guerrero|Hidalgo del Parral|Huejoitán|Ignacio Zaragoza|Janos|Jiménez|Juárez|Julimes|La Cruz|López|Madera|Maguarichi|Manuel Benavides|Matachí|Matamoros|Meoqui|Morelos|Moris|Namiquipa|Nonoava|Nuevo Casas Grandes|Ocampo|Ojinaga|Praxedis G. Guerrero|Riva Palacio|Rosales|Rosario|San Francisco de Borja|San Francisco de Conchos|San Francisco del Oro|Santa Bárabara|Santa Isabel|Satevó|Saucillo|Temósachi|Urique|Uriachi|Valle de Zaragoza
 
 7) Coahuila
+
+http://www.municipios.mx/
 
 Abasolo|Acuña|Allende|Arteaga|Candela|Castaños|Cuatrociénegas|Escobedo|Francisco I. Madero|Frontera|General Cepeda|Guerrero|Hidalgo|Jiménez|Juárez|Lamadrid|Matamoros|Monclova|Morelos|Múzquiz|Nadadores|Nava|Ocampo|Parras|Piedras Negras|Progreso|Ramos Arizpe|Sabinas|Sacramento|Saltillo|San Buenaventura|San Juan de Sabinas|San Pedro|Sierra Mojada|Torreón|Viesca|Villa Unión|Zaragoza
