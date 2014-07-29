@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO - Pensionados</title>
+        <title>ISSSTE GUANAJUATO - Departamento de Prevención de Riesgos del Trabajo</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -36,23 +36,21 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Prestaciones Adicionales</h1>  
+  <h1>Departamento de Prevención de Riesgos del Trabajo</h1>  
 
         <br><br>
  
- <h2>¡¡¡ATENCIÓN A JUBILADOS Y PENSIONADOS!!!</h2>
- 
         <br><br>
         
-	<p>Acuda al <strong><u><a class="ext tooltip_arriba" href="http://portaltransparencia.gob.mx/pot/directorio/begin.do?method=begin&amp;_idDependencia=00637" target="_blank">Departamento de Acción Social, Cultural y Deportiva</a></u></strong> de la Delegación del ISSSTE mas cercana a su domicilio, para apoyo en la obtención de diversas actividades que ofrece el Instituto.
-	</p>        
+	<p style="text-align: justify;">El Departamento de Prevención de Riesgos del Trabajo, es el área del Instituto cuyo objetivo primordial es el de respaldar técnica y administrativamente el funcionamiento de los Órganos Consultivos a nivel nacional, coordinando la operación de las Comisiones de Seguridad y Salud en el Trabajo y los programas de promoción y difusión para incidir en la reducción de accidentes y enfermedades laborales, normar técnica y jurídicamente su prevención y control en el sector público afiliado a la Ley del ISSSTE.</p>
+
 		</div>
 
      </div>
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuPensionados.php');
+		 include('menuDepartamentoPrevencion.php');
 		 ?>
          
          
