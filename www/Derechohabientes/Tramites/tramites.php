@@ -13,7 +13,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         
-        <title>ISSSTE GUANAJUATO- Tramites</title>
+        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
         
         <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -40,15 +40,29 @@
         <!-- Contenedor Principal-->
         <div class="container-fluid">
         <div class="col-md-2"></div>
-        <div id="contentLeft">
-		<div id="text">        
-            <div class="item-page">
+        <div class="col-md-5">
 
-        <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
+        <h1>Afiliación y Vigencia de Derechos</h1>  
 
+        <br><br>
+       
+      
+        <h2>Orientación de Servicios y Trámites de Afiliación y Vigencia de Derechos Ante el ISSSTE</h2>
+ 
+        <br><br>
+        
+        
+        <p>
 
-		</div>
-		</div>
+Como Trabajador(a) o Pensionado(a) directo(a) responsable, ejerce el derecho que pertenece a tus Familiares Derechohabientes, registrándolos para que reciban atención médica inmediata y digna, a través de los servicios que el ISSSTE les ofrece.
+
+</p>
+<br>
+<p>
+Recuerda que este trámite es gratuito e indispensable para adquirir el carácter de Derechohabiente y tener acceso a las Clínicas y Unidades de Medicina Familiar. 
+</p>
+ 
+        <br><br>
          </div>	 
        <div class="col-md-3">
          <?php
