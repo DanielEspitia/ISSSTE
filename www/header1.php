@@ -47,9 +47,9 @@
 			<li class="item-475 deeper parent primera"><a href="index.php#" class="tooltip_arriba">Derechohabientes</a>
             	<ul>
                 	<li class="item-476 primera"><a href="Derechohabientes/Afiliacion/afiliacion.php" class="tooltip_arriba">Afiliación</a></li>
-                    <li class="item-1498"><a href="" class="tooltip_arriba">Trámites</a></li>
-                    <li class="item-477"><a href="" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
-                    <li class="item-478"><a href="" class="tooltip_arriba">Cultura, Deporte y Recreación</a></li>
+                    <li class="item-1498"><a href="Derechohabientes/Tramites/tramites.php" class="tooltip_arriba">Trámites</a></li>
+                    <li class="item-477"><a href="Derechohabientes/Atencion/atencion.php"  class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
+                    <li class="item-478"><a href="Derechohabientes/Cultura/cultura.php" class="tooltip_arriba">Cultura, Deporte y Recreación</a></li>
                     <li class="item-480"><a href="Derechohabientes/Estancias/estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
                     <li class="item-481"><a href="" class="tooltip_arriba">Pensionados</a></li>
                     <li class="item-482"><a href="http://www.pensionissste.gob.mx/" target="_blank" class="ext tooltip_arriba">PENSIONISSSTE</a></li>
@@ -60,30 +60,31 @@
 				</ul>
 			</li>
                     
-            <li class="item-489 deeper parent"><a href="#" class="tooltip_arriba">Todo el Público</a>
+            <li class="item-489 deeper parent"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Todo el Público</a>
 				<ul>
-                	<li class="item-490 primera"><a href="TodoPublico/ISSSTEComprar/issste-a-comprar.php" class="tooltip_arriba">El ISSSTE va a comprar</a></li>
+                	<li class="item-490 primera"><a href="http://www2.issste.gob.mx:8080/index.php/todo-el-publico/issste-a-a-comprar" class="tooltip_arriba">El ISSSTE va a comprar</a></li>
+	                <li class="item-491"><a href="http://www2.issste.gob.mx:8080/index.php/todo-el-publico/funerarias" class="tooltip_arriba">Funerarias</a></li>
     	            <li class="item-492"><a href="http://www.prevenissste.gob.mx/" target="_blank" class="ext tooltip_arriba">Prevenissste cerca de tí</a></li>
         	        <li class="item-493"><a href="http://www.superissste.gob.mx/" target="_blank" class="ext tooltip_arriba">SuperISSSTE</a></li>
-            	    <li class="item-905 ultima"><a href="index.php#" class="tooltip_arriba">Centro Recreativo y Cultural ISSSTEHUIXTLA</a></li></ul></li>
+            	    <li class="item-905 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/todo-el-publico/issstehuixtla" class="tooltip_arriba">Centro Recreativo y Cultural ISSSTEHUIXTLA</a></li></ul></li>
 			
 
-			<li class="item-494 deeper parent"><a href="#" class="tooltip_arriba">Servicios en Línea</a>				
+			<li class="item-494 deeper parent"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Servicios en Línea</a>				
                 <ul>
  	               <li class="item-495 primera"><a href="http://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Mi Oficina Virtual</a></li>
                    <li class="item-496"><a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank" class="ext tooltip_arriba">Agenda TU Cita Médica</a></li>
                    <li class="item-497"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servslinea-comppagopensionistas" class="tooltip_arriba">Comprobantes de Pago a Pensionistas</a></li>
                    <li class="item-498"><a href="http://issstenet.issste.gob.mx/cgi353/fglccgi/wa/r/menu_sp" target="_blank" class="ext tooltip_arriba">Consulta TU información</a></li>
                    <li class="item-499"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/serviciosenlinea-curp" target="_blank" class="tooltip_arriba">Consulta e imprime tu CURP</a></li>
-                   <li class="item-500"><a href="#" class="tooltip_arriba">Pago de Cuotas y Aportaciones</a></li>
+                   <li class="item-500"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servs-serica" class="tooltip_arriba">Pago de Cuotas y Aportaciones</a></li>
                    <li class="item-501"><a href="http://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Trámite de Préstamos Personales</a></li>
                    <li class="item-502"><a href="http://www.silodisa.com/ConteoPorUMU.aspx" target="_blank" class="ext tooltip_arriba">Inventario Medicamentos y Mat. de Curación</a></li>
                    <li class="item-503"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Ventanilla Electrónica de Servicios</a></li>
-                   <li class="item-504 ultima"><a href="#" class="tooltip_arriba">Ver más servicios</a></li></ul></li>
+                   <li class="item-504 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/serviciosenlinea-issstenet-home" class="tooltip_arriba">Ver más servicios</a></li></ul></li>
 			
-            <li class="item-505 deeper parent"><a href="index.php" class="tooltip_arriba">Instituto</a>
+            <li class="item-505 deeper parent"><a href="index.php#" class="tooltip_arriba">Instituto</a>
             	<ul>
-                	<li class="item-506 primera"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/quienes-somos" class="tooltip_arriba">¿Quiénes Somos?</a></li>
+                	<li class="item-506 primera"><a href="Instituto/Quienes_somos/quienes_somos.php" class="tooltip_arriba">¿Quiénes Somos?</a></li>
                     <li class="item-507"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/admin01" class="tooltip_arriba">Administración</a></li>
                     <li class="item-508"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Sala de Prensa</a></li>
                     <li class="item-509"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/finanzas01" class="tooltip_arriba">Finanzas</a></li>
@@ -92,13 +93,13 @@
                     <li class="item-484"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/mprincipal-prevencion-riesgos-trabajo" class="tooltip_arriba">Seguridad y Salud en el Trabajo</a></li>
                     <li class="item-512"><a href="http://normateca.issste.gob.mx/index.asp?usuario=Publico&pin=Consultivo2013" target="_blank" class="ext tooltip_arriba">Normateca</a></li>
                     <li class="item-513"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/organos-gobierno" class="tooltip_arriba">Órganos de Gobierno</a></li>
-                    <li class="item-514"><a href="Instituto/OIC/organo-interno-control.php" class="tooltip_arriba">Órgano Interno de Control</a></li>
+                    <li class="item-514"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/menu-inst-oic" class="tooltip_arriba">Órgano Interno de Control</a></li>
                     <li class="item-515"><a href="http://www2.issste.gob.mx:8080/index.php/instituto/2012-11-14-19-16-37" target="_blank" class="tooltip_arriba">Relaciones Internacionales</a></li>
                     <li class="item-516 ultima"><a href="http://www.issste.gob.mx/intranet/" target="_blank" class="ext tooltip_arriba">Intranet</a></li></ul></li>
 			
-            <li class="item-524 deeper parent"><a href="index.php" class="tooltip_arriba">Transparencia</a>			
+            <li class="item-524 deeper parent"><a href="http://www2.issste.gob.mx:8080/index.php/transparencia" class="tooltip_arriba">Transparencia</a>			
             	<ul>
-					<li class="item-525 primera"><a href="Transpariencia/Transpariencia/transpariencia.php" class="tooltip_arriba">Normatividad</a></li>
+					<li class="item-525 primera"><a href="http://www2.issste.gob.mx:8080/index.php/transparencia/normatividad-transparencia" class="tooltip_arriba">Normatividad</a></li>
                     <li class="item-526"><a href="http://www2.issste.gob.mx:8080/index.php/transparencia/comite-informacion" class="tooltip_arriba">Comité de Información</a></li>
                     <li class="item-527"><a href="http://www2.issste.gob.mx:8080/index.php/transparencia/transparencia-focalizada" class="tooltip_arriba">Transparencia Focalizada</a></li>
                     <li class="item-528"><a href="http://www2.issste.gob.mx:8080/index.php/transparencia/indicadores-programas" class="tooltip_arriba">Indicadores de Programas Presupuestarios</a></li>

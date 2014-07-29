@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Prueba de Menu Derecho</title>
+
 <link rel="stylesheet" href="../../menu/styles.css">
 <link rel="stylesheet" href="../../menu/linea#3.css">
 <link rel="stylesheet" href="../../menu/allmode-default.css">
@@ -17,14 +17,20 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-<li class="item-1363 current active primera"><a href="normatividad.php" class="tooltip_arriba">Normatividad</a></li>
-<li class="item-1364"><a href="#" class="tooltip_arriba">Comité de Información</a></li>
-<li class="item-1365"><a href="#" class="tooltip_arriba">Transparencia Focalizada</a></li>
-<li class="item-1366"><a href="#" class="tooltip_arriba">Indicadores de Programas Presupuestarios</a></li>
-<li class="item-1367"><a href="#" class="tooltip_arriba">Recomendaciones emitidas por la CNDH, INMUJERES y CONAPRED</a></li>
-<li class="item-1368"><a href="#" class="tooltip_arriba">Estudios y Opiniones</a></li><li class="item-1370"><a href="/index.php/mder-transp-rendicion-cuentas" class="tooltip_arriba">Rendición de Cuentas</a></li>
-<li class="item-1371 ultima"><a href="#" class="tooltip_arriba">Participación Ciudadana</a></li>
-</ul> <!-- FIN de <UL> MENU	-->
+		<li class="item-563 primera"><a class="tooltip_arriba" href="quienes_somos.php">Quiénes Somos</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href="antecedentes.php">Historia</a></li>
+        <li class="item-565"><a class="tooltip_arriba" href="mision.php">Misión</a></li>
+		<li class="item-566"><a class="tooltip_arriba" href="vision.php">Visión</a></li>
+		<li class="item-567"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/quienes-somos/leydelissste.pdf" target="_blank">Consulta la ley del ISSSTE</a></li>
+		<li class="item-568"><a class="tooltip_arriba" href="preguntas.php">Preguntas Frecuentes</a></li>
+		<li class="item-569"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/quienes-somos/seguros_prestaciones_y_servicios_030707.pdf" target="_blank">Seguros, Prestaciones y Servicios del ISSSTE </a></li>
+		<li class="item-570"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/quienes-somos/seguros_prestaciones_y_servicios_030707.pdf">Carta al Derechohabiente</a></li>
+		<li class="item-571"><a class="tooltip_arriba" href="">Directorios Institucionales</a></li>
+		<li class="item-572"><a class="tooltip_arriba" href="http://portaltransparencia.gob.mx/pot/estructura/showOrganigrama.do?method=showOrganigrama&_idDependencia=00637" target="_blank">Estructura Orgánica Operativa (POT)</a></li>
+		
+        
+</li>
+	</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
                      

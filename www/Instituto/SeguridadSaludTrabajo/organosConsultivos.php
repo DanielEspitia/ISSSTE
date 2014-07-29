@@ -53,51 +53,51 @@
 <div align="center">
 <table border="1" width="580">
   <tbody><tr class="alt primera">
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/AGS.pdf" target="blank">Aguascalientes </a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/BC.pdf" target="blank">Baja California </a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/BCS.pdf" target="blank">Baja California Sur</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CAMP.pdf" target="blank">Campeche</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/AGS.pdf" target="blank">Aguascalientes </a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/BC.pdf" target="blank">Baja California </a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/BCS.pdf" target="blank">Baja California Sur</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CAMP.pdf" target="blank">Campeche</a></td>
   </tr>
   <tr>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/COAH.pdf" target="blank">Coahuila</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/COL.pdf" target="blank">Colima</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CHIS.pdf" target="blank">Chiapas</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CHIH.pdf" target="blank">Chihuahua</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/COAH.pdf" target="blank">Coahuila</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/COL.pdf" target="blank">Colima</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CHIS.pdf" target="blank">Chiapas</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CHIH.pdf" target="blank">Chihuahua</a></td>
   </tr>
   <tr class="alt">
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/DGO.pdf" target="blank">Durango</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/MEX.pdf" target="blank">Estado de México</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/GTO.pdf" target="blank">Guanajuato</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/GRO.pdf" target="blank">Guerrero</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/DGO.pdf" target="blank">Durango</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/MEX.pdf" target="blank">Estado de México</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/GTO.pdf" target="blank">Guanajuato</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/GRO.pdf" target="blank">Guerrero</a></td>
   </tr>
   <tr>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/HGO.pdf" target="blank">Hidalgo</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/JAL.pdf" target="blank">Jalisco</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/MICH.pdf" target="blank">Michoacán</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/MOR.pdf" target="blank">Morelos</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/HGO.pdf" target="blank">Hidalgo</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/JAL.pdf" target="blank">Jalisco</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/MICH.pdf" target="blank">Michoacán</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/MOR.pdf" target="blank">Morelos</a></td>
   </tr>
   <tr class="alt">
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/NAY.pdf" target="blank">Nayarit</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/NL.pdf" target="blank">Nuevo León</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/OAX.pdf" target="blank">Oaxaca</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/PUE.pdf" target="blank">Puebla</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/NAY.pdf" target="blank">Nayarit</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/NL.pdf" target="blank">Nuevo León</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/OAX.pdf" target="blank">Oaxaca</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/PUE.pdf" target="blank">Puebla</a></td>
   </tr>
   <tr>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/QRO.pdf" target="blank">Querétaro</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/QROO.pdf" target="blank">Quintana Roo</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/SLP.pdf" target="blank">San Luis Potosí</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/SIN.pdf" target="blank">Sinaloa</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/QRO.pdf" target="blank">Querétaro</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/QROO.pdf" target="blank">Quintana Roo</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/SLP.pdf" target="blank">San Luis Potosí</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/SIN.pdf" target="blank">Sinaloa</a></td>
   </tr>
   <tr class="alt">
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/SON.pdf" target="blank">Sonora</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/TAB.pdf" target="blank">Tabasco</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/TMPS.pdf" target="blank">Tamaulipas</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/TLAX.pdf" target="blank">Tlaxcala</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/SON.pdf" target="blank">Sonora</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/TAB.pdf" target="blank">Tabasco</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/TMPS.pdf" target="blank">Tamaulipas</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/TLAX.pdf" target="blank">Tlaxcala</a></td>
   </tr>
   <tr class="ultima">
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/VER.pdf" target="blank">Veracruz</a></td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/YUC.pdf" target="blank">Yucatán</a> </td>
-    <td align="center"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/ZAC.pdf" target="blank">Zacatecas</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/VER.pdf" target="blank">Veracruz</a></td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/YUC.pdf" target="blank">Yucatán</a> </td>
+    <td align="center"><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/ZAC.pdf" target="blank">Zacatecas</a></td>
     <td align="center">&nbsp;</td> 
   </tr>
 </tbody></table>

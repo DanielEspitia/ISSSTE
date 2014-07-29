@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Transpariencia</title>
+        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -35,29 +35,21 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Normatividad</h1>  
-
-        <br><br>
+  
+<img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
+      
        
-     <blockquote>
-<ul>
-  <li class="primera"><a href="/images/redirect/portaltransparencia.html" target="_blank" class="tooltip_arriba">Ley Federal de Transparencia</a></li>
-  <li><a href="/images/redirect/portaltransparencia_lfarch.html" target="_blank" class="tooltip_arriba">Ley Federal de Archivos</a></li>
-  <li><a href="/images/redirect/portaltrans_reglamento.html" target="_blank" class="tooltip_arriba">Reglamento de la Ley Federal de Transparencia</a></li>
-  <li> <a href="/images/redirect/portaltransparencia_lin.html" target="_blank" class="tooltip_arriba">Lineamientos en Materia de Transparencia</a></li>
-  <li class="ultima"><a href="/images/redirect/portaltransparencia_man.html" target="_blank" class="tooltip_arriba">Manual  de Transparencia y Archivos</a></li>
-</ul>
-</blockquote>
-   <br><br>
-	
-	
+      
+        
+ 
+
 		</div>
 
      </div>
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuNormatividad.php');
+		 include('menuEstancias.php');
 		 ?>
          
          

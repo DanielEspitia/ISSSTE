@@ -1,13 +1,16 @@
 <html lang="es">
     
     <head>
-	<meta charset="UTF-8">
+    
+		<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-		<title>ISSSTE GUANAJUATO- Ubicanos</title>
+		
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
-        <!--loading Bootstrap  -->
+        
+        <title>ISSSTE GUANAJUATO- Visión</title>
+		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
@@ -25,35 +28,30 @@
       ?>
 	  <div class="container-fluid">
         <div class="col-md-2"></div>
-		<div id="contentLeft">
+	<div id="contentLeft">
             <div id="text">        
             <div class="item-page">
 
-	<h1>Ubicanos</h1>
+	<h1>Visión del ISSSTE</h1>
 
-
-<blockquote> 
-
-<p>Para mayor información nos puedes uibicar en: <br> </p>
-<p>Av. Francisco Juárez s/n col. Los Laureles. Celaya Gto C.P. 38014</p>
-</blockquote> 
+    	    <h2>Visión del ISSSTE</h2>
+    	    <p>Posicionar al ISSSTE como la institución que  garantice la protección integral de los trabajadores de la Administración  Pública Federal, pensionados, jubilados y sus familias de acuerdo al nuevo  perfil demográfico de la derechohabiencia, con el otorgamiento de seguros,  prestaciones y servicios de conformidad con la normatividad vigente, bajo  códigos normados de calidad y calidez, con solvencia financiera, que permitan  generar valores y prácticas que fomenten la mejora sostenida de bienestar,  calidad de vida y el desarrollo del capital humano.</p>
 	
 </div>
 
       </div>
-        
-           <iframe src="https://mapsengine.google.com/map/embed?mid=z2qC444_3RAk.kivNyN9FO_W0" width="640" height="480"></iframe>   
+            
+      
         </div>
-
-		
-		
-          
+	 <div class="col-md-3">
+         <?php
+		 include('menuInstituto.php');
+		 ?>
+ 
+         </div>
 </div>
 	  
-	  
-	  
-
-	   
+ 
       <?php
          include('../../footer2.php');
        

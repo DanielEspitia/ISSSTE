@@ -2,8 +2,6 @@
     
     <head>
     
-    
-
 		<meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -11,8 +9,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Instituto</title>
-		
+        <title>ISSSTE GUANAJUATO- Quiénes Somos</title>
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
@@ -32,49 +29,31 @@
 	  <div class="container-fluid">
         <div class="col-md-2"></div>
         <div id="contentLeft">
-	  
-	        <div id="text">        
+            <div id="text">        
             <div class="item-page">
-  <h1>Órgano Interno de Control</h1>  
 
-        <br><br>
-       
-      
-        <h2>Titular del Órgano Interno de Control</h2>
- 
-        <br><br>
-        
-        
-        <p>C.P. FRANCISCO GÓMEZ MILLA</p>
-		<p><a href="mailto:francisco,milla@issste.gob.mx" class="tooltip_arriba">francisco.milla@issste.gob.mx </a></p>
-        <p>Conmutador: 5481-6801 Y 5481-6802</p> 
-        <p>Ext. : 26402 Y 26403</p>
-   <br>
-   
-   <h2>Misión</h2>
-   <p>Contribuir al abatimiento de la corrupción en el ISSSTE, a la transparencia de su gestión y a su desempeño eficaz, eficiente y ético.</p>
-   <br>
-   <h2>Visión</h2>
-   <p>Constituirse en instancia que aporte valor agregado al buen funcionamiento del Instituto, que sea reconocida por su ética calidad y productividad y que contribuya a generar confianza y credibilidad de los derechohabientes y de la sociedad en general en función del ISSSTE y del sector público en su conjunto.</p>
-	
-	
-		</div>
+	<h1>¿Quiénes somos?</h1>
 
-     </div>
+<h2>A nuestros lectores:</h2>
+<p>En los últimos tiempos, mucho se ha hablado del ISSSTE, pero poco se sabe de sus antecedentes y de su historia, del marco legal que lo sustenta como una institución de seguridad social y de la misión que tiene con los trabajadores del Estado.</p>
+<p>En este momento, como es de su conocimiento, al igual que la mayoría de las instituciones de seguridad social en el mundo, estamos enfrentando importantes desafíos derivados de la transformación que hemos sufrido con los cambios demográficos y epidemiológicos de la población mexicana y, en especial, de la población derechohabiente del Instituto.</p>
+<p>Es por esta razón que se hace más importante mencionar que el ISSSTE es, y seguirá siendo, pilar del patrimonio de muchos trabajadores y derechohabientes en lo que a la seguridad social mexicana se refiere, por lo que me enorgullece, hoy y siempre, formar parte de su historia y ayudar a consolidar a nuestro querido Instituto.</p>
+<h3>EL DIRECTOR GENERAL</h3>
+	
 	</div>
+
+ </div>
+            
+</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuOIC.php');
+		 include('menuInstituto.php');
 		 ?>
-         
-         
+ 
          </div>
 </div>
 	  
-	  
-	  
-
-	   
+ 
       <?php
          include('../../footer2.php');
        

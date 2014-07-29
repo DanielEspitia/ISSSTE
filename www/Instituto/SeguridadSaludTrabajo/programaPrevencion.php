@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO - Seguridad y Salud en el Trabajo</title>
+        <title>ISSSTE GUANAJUATO - Programas de Prevención</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -36,14 +36,22 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Jefatura de Servicios de Seguridad e Higiene en el Trabajo</h1>  
+  <h1>Departamento de Prevención de Riesgos del Trabajo</h1>  
 
         <br><br>
- 
+ 	<h3>Programas de Prevención</h3>
         <br><br>
         
-	<p style="text-align: justify;">La Jefatura de Servicios de Seguridad e Higiene en el Trabajo, es el área del Instituto cuyo objetivo primordial es promover la prevención de riesgos del trabajo, mediante actividades, programas y campañas que deben realizar las Dependencias y Entidades afiliadas al régimen de la Ley, a fin de garantizar la seguridad y la salud de los trabajadores, así como nombrar, supervisar y evaluar el proceso de dictaminación de riesgos de trabajo e invalidez.
-    </p>
+	<blockquote>
+		<ul>
+			<li class="primera">Guía Programa de Prevención</li>
+			<li><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/CALENPPRT.doc" target="_blank">Calendario Programa de Prevención</a> <img src="../../images/icons/word.png" alt="Archivo de Ms Word"></li>
+			<li>Informe Programa de Prevención</li>
+			<li><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/PPRT.doc" target="_blank">Programa de Prevención</a> <img src="../../images/icons/word.png" alt="Archivo de Ms Word"></li>
+			<li class="ultima">Lineamientos Programa de Prevención</li>
+		</ul>
+	</blockquote>
+
 
 		</div>
 
@@ -51,7 +59,7 @@
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuSeguridad.php');
+		 include('menuDepartamentoPrevencion.php');
 		 ?>
          
          
