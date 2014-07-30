@@ -10,6 +10,7 @@
 		
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
+		<script type="text/javascript" src="countries.js"></script>
         
         <title>ISSSTE GUANAJUATO- Contáctanos</title>
 		
@@ -42,68 +43,148 @@
      <!-- Formulario   -->
 	 <form class="form-horizontal">
   <fieldset>
-   <center> <legend>Datos del Derechohabiente</legend> </center>
+   <center> <h1>Datos del Derechohabiente</h1> </center>
     <div class="form-group">
-      <label for="inputEmail" class="col-lg-2 control-label">Nombre</label>
+      <label for="inputApellidoPaterno" class="col-lg-2 control-label">Apellido Paterno : </label>
       <div class="col-lg-10">
-        <input type="text" class="form-control" id="inputEmail" placeholder="Nombre">
+        <input type="text" class="form-control" id="inputApellidoPaterno" placeholder="Apellido Paterno">
       </div>
     </div>
-    <div class="form-group">
-      <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+	
+	<div class="form-group">
+		        <label for="inputApellidoMaterno" class="col-lg-2 control-label">Apellido Materno : </label>
       <div class="col-lg-10">
-        <input type="password" class="form-control" id="inputPassword" placeholder="Password">
-        <div class="checkbox">
-          <label>
-            <input type="checkbox"> Checkbox
-          </label>
-        </div>
+        <input type="text" class="form-control" id="inputApellidoMaterno" placeholder="Apellido Materno">
       </div>
-    </div>
-    <div class="form-group">
-      <label for="textArea" class="col-lg-2 control-label">Textarea</label>
+	 </div>
+	 
+	 	<div class="form-group">
+		        <label for="inputNombre" class="col-lg-2 control-label">Nombre (s) : </label>
       <div class="col-lg-10">
-        <textarea class="form-control" rows="3" id="textArea"></textarea>
-        <span class="help-block">A longer block of help text that breaks onto a new line and may extend beyond one line.</span>
+        <input type="text" class="form-control" id="inputNombre" placeholder="Nombre (s)">
       </div>
-    </div>
+	 </div>
+	 
+	 
+	<div class="form-group">
+	        <label for="inputDomicilio" class="col-lg-2 control-label">Domicilio : </label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputDomicilio" placeholder="Domicilio">
+      </div>
+	 </div>
+	 
+		<div class="form-group">
+	        <label for="inputColonia" class="col-lg-2 control-label">Colonia :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputColonia" placeholder="Colonia">
+      </div>
+	 </div>
+	 
     <div class="form-group">
-      <label class="col-lg-2 control-label">Radios</label>
+      <label for="select" class="col-lg-2 control-label">Estado : </label>
+      <div class="col-lg-10">
+
+		
+		   <select class="form-control" onchange="print_state('state',this.selectedIndex);" id="estado" name="estado">
+			
+
+</select>
+</div>
+</div>
+
+<div class="form-group">
+<label for="select" class="col-lg-2 control-label">Ciudad : </label>		
+<div class="col-lg-10">	
+			<select class="form-control" name="ciudad" id="ciudad"></select>
+			 <script language="javascript">print_country("country");</script>
+            <script type="text/javascript">date_populate("date", "month", "year");</script>
+     </div>
+     
+    </div>
+	
+<div class="form-group">
+	        <label for="inputTelefono" class="col-lg-2 control-label">Teléfono y Extensión :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputTelefono" placeholder="Teléfono y Extensión">
+      </div>
+	 </div>
+	 
+	<div class="form-group">
+	        <label for="inputEmail" class="col-lg-2 control-label">E-mail (correo electrónico) :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputEmail" placeholder="E-mail (correo electrónico)">
+      </div>
+	 </div>
+	 
+	 
+	<div class="form-group">
+      <label class="col-lg-2 control-label">Tipo de Derechohabiente</label>
       <div class="col-lg-10">
         <div class="radio">
           <label>
-            <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked="">
-            Option one is this
+            <input type="radio" name="opciones" id="trabajador" value="trabajador" checked="">
+            <h5>Trabajador &nbsp &nbsp &nbsp &nbsp</h5>
           </label>
         </div>
+		
         <div class="radio">
           <label>
-            <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">
-            Option two can be something else
+            <input type="radio" name="opciones" id="pensionado" value="pensionado">
+            <h5>Pensionado &nbsp &nbsp &nbsp &nbsp </h5>
           </label>
         </div>
+		<div class="radio">
+          <label>
+            <input type="radio" name="opciones" id="jubilado" value="jubilado">
+           <h5> Jubilado &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+		<div class="radio">
+          <label>
+            <input type="radio" name="opciones" id="beneficiario" value="beneficiario">
+          <h5>  Beneficiario </h5>
+          </label>
+        </div>
+		
       </div>
     </div>
-    <div class="form-group">
-      <label for="select" class="col-lg-2 control-label">Selects</label>
+	
+	<div class="form-group">
+      <label class="col-lg-2 control-label">Tipo de Opinión</label>
       <div class="col-lg-10">
-        <select class="form-control" id="select">
-          <option>1</option>
-          <option>2</option>
-          <option>3</option>
-          <option>4</option>
-          <option>5</option>
-        </select>
-        <br>
-        <select multiple="" class="form-control">
-          <option>1</option>
-          <option>2</option>
-          <option>3</option>
-          <option>4</option>
-          <option>5</option>
-        </select>
+        <div class="radio">
+          <label>
+            <input type="radio" name="opinion" id="felicitacion" value="felicitacion" checked="">
+            <h5>Felicitación &nbsp &nbsp &nbsp &nbsp</h5>
+          </label>
+        </div>
+		
+        <div class="radio">
+          <label>
+            <input type="radio" name="opinion" id="sugerencia" value="sugerencia">
+            <h5>Sugerencia &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+		<div class="radio">
+          <label>
+            <input type="radio" name="opinion" id="inconformidad" value="inconformidad">
+           <h5> Inconformidad &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+			
       </div>
     </div>
+	 
+	 <div class="form-group">
+      <label for="textArea" class="col-lg-10 control-label"><h5> En el espacio siguiente, usted puede proporcionarnos sus comentarios : </h5></label> <br>
+      <div class="col-lg-11">
+        <center> <textarea class="form-control" rows="4" id="textArea"></textarea>
+        <span style="text-align:justify" class="help-block">La Subdirección de Atención al Derechohabiente le informa que los datos personales proporcionados por Usted están protegidos y serán incorporados y tratados en el sistema de datos personales denominado "Buzón de Comentarios y Sugerencias", con fundamento en los artículos 20 y 21 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, decimosexto, decimoséptimo, vigésimo séptimo, vigésimo octavo, vigésimo noveno, trigésimo primero, trigésimo segundo y trigésimo tercero de los Lineamientos de Protección de Datos Personales, cuya finalidad es recibir de los derechohabientes del ISSSTE comentarios y sugerencias que ayuden a mejorar los servicios que se propporcionan, mismo que está registrado en el Listado de Sistemas de Datos Personales ante el Instituto Federal de Acceso a la Información Pública (www.ifai.org.mx), y podrán ser transmitidos a instancias correspondientes dentro del Instituto y a las autoridades competentes con la finalidad de coadyuvar al ejercicio de las funciones propias de la Institución, además de otras transmisiones previstas en la Ley. La Subdirección de Atención al Derechohabiente es responsable de la información recibida en el Buzón de Comentarios y Sugerencias, y la dirección donde el interesado podrá ejercer los derechos de acceso y corrección ante la misma es Av. Insurgentes Sur N° 716, Col. Del Valle, Del. Benito Juárez, C.P. 03100, México D.F. Lo anterior se informa en cumplimiento al décimo séptimo de los Lineamientos de Protección de Datos Personales publicados en el Diario Oficial de la Federación el 30 de septiembre de 2005. </span>
+		</center>
+      </div>
+    </div>
+	
+	
     <div class="form-group">
       <div class="col-lg-10 col-lg-offset-2">
         <button class="btn btn-default">Cancel</button>

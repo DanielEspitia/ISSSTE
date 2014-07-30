@@ -29,3 +29,38 @@ Ahumada|Aldama|Allende|Aquiles Serdán|Ascensión|Bachíniva|Balleza|Batopilas|B
 http://www.municipios.mx/
 
 Abasolo|Acuña|Allende|Arteaga|Candela|Castaños|Cuatrociénegas|Escobedo|Francisco I. Madero|Frontera|General Cepeda|Guerrero|Hidalgo|Jiménez|Juárez|Lamadrid|Matamoros|Monclova|Morelos|Múzquiz|Nadadores|Nava|Ocampo|Parras|Piedras Negras|Progreso|Ramos Arizpe|Sabinas|Sacramento|Saltillo|San Buenaventura|San Juan de Sabinas|San Pedro|Sierra Mojada|Torreón|Viesca|Villa Unión|Zaragoza
+
+
+8)Colima
+
+Armería|Colima|Comala|Coquimatlán|Cuauhtémoc|Ixtlahuacán|Manzanillo|Minatitlán|Tecomán|Villa de Álvarez
+
+9)Distrito Federal
+
+Álvaro Obregón|Azcapotzalco|Benito Juárez|Coyoacán|Cuajimalpa de Morelos|Cuauhtémoc|Gustavo A. Madero|Iztacalco|Iztapalapa|Magdalena Contreras|Miguel Hidalgo|Milpa Alta|Tláhuac|Tlalpan|Venustiano Carranza|Xochimilco
+
+10) Durango
+
+Canatlán|Canelas|Coneto de Comonfort|Cuencamé|Durango|El Oro|Gómez Palacio|Gral. Simón Bolívar|Guadalupe Victoria|Guanaceví|Hidalgo|Indé|Lerdo|Mapimí|Mezquital|Nazas|Nombre de Dios|Nuevo Ideal|Ocampo|Otáez|Pánuco de Coronado|Peñón Blanco|Poanas|Pueblo Nuevo|Rodeo|San Bernardo|San Dimas|San Juan de Guadalupe|San Juan del Río|San Luis del Cordero|San Pedro del Gallo|Santa Clara|Santiago Papasquiaro|Súchil|Tamazula|Tepehuanes|Tlahualilo|Topia
+
+11)Guanajuato
+
+Abasolo|Acámbaro|Apaseo el Alto|Apaseo el Grande|Atarjea|Celaya|Comonfort|Coroneo|Cortazar|Cuerámaro|Doctor Mora|Dolores Hidalgo|Guanajuato|Huanímaro|Irapuato|Jaral del Progreso|Jerécuaro|León|Manuel Doblado|Moroleón|Ocampo|Pénjamo|Pueblo Nuevo|Purísima del Rincón|Romita|Salamanca|Salvatierra|San Diego de la Unión|San Felipe|San Francisco del Rincón|San José Iturbide|San Luis de la Paz|San Miguel de Allende|Santa Catarina|Santa Cruz de Juventino|Santiago Maravatío|Silao|Tarandacuao|Tarimoro|Tierra Blanca|Uruangato|Valle de Santiago|Victoria|Villagrán|Xichú|Yuriria
+
+12) Guerrero
+
+Acapulco de Juárez|Acatepec|Ahuacuotzingo|Ajuchitlán del Progreso|Alcozauca de Guerrero|Alpoyeca|Apaxtla de Castrejón|Arcelia|Atenango del Río|Atlamajalcingo del Monte|Atlixtac|Atoyac de Álvarez|Ayutla de los Libres|Azoyú|Benito Juárez|Buenavista de Cuéllar|Chilapa de Álvarez|Chilpancingo de los Bravo|Coahuayutla de José María Izazaga|Cochoapa el Grande|Cocula|Copala|Copalillo|Copanatoyac|Coyuca de Benítez|Coyuca de Catalán|Cuajinicuilapa|Cualác|Cuautepec|Cuetzala del Progreso|Cutzamala de Pinzón|Eduardo Neri|Florencio Villarreal|General Canuto A. Neri|General Heliodoro Castillo|Huamuxtitlán|Huitzuco de los Figueroa|Iguala de la Independencia|Igualapa|Iliatenco|Ixcateopan de Cuauhtémoc|José Joaquín de Herrera|Juan R. Escudero|Juchitán|La Unión de Isidoro Montes de Oca|Leonardo Bravo|Malinaltepec|Marquelia|Mártir de Cuilapan|Metlatónoc|Mochitlán|Olinalá|Ometepec|Pedro Ascencio Alquisiras|Petatlán|Pilcaya|Pungarabato|Quechultenango|San Luis Acatlán|San Marcos|San Miguel Totolapan|Taxco de Alarcón|Tecoanapa|Técpan de Galeana|Teloloapan|Tepecoacuilco de Trujano|Tetipac|Tixtla de Guerrero|Tlacoachistlahuaca|Tlacoapa|Tlalchapa|Tlalixtlaquilla de Maldanado|Tlapa de Comonfort|Tlapehuala|Xalpatláhuac|Xochihuehuetlán|Xochistlahuaca|Zapotitlán Tablas|Zihuatanejo de Azueta|Zirándaro de los Chávez|Zitlala
+
+13)Hidalgo
+
+14) Jalisco
+
+15) México
+
+16) Michoacán
+
+17 Morelos
+
+18) Nayarit
+
+19) 
