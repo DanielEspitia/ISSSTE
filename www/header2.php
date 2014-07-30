@@ -10,11 +10,10 @@
             <!-- Menu Top Module -->                            
 			<ul class="menu" id="navTop">
 				<li class="item-468 primera"><a href="../../index.php" class="tooltip_arriba">Inicio</a></li>
-                <li class="item-469"><a href="http://www2.issste.gob.mx:8080/index.php/movil" class="ext tooltip_arriba">Versión Móvil</a></li>
-                <li class="item-470"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-28-46" class="tooltip_arriba">Contacto</a></li>
+                <li class="item-470"><a href="#" class="tooltip_arriba">Contacto</a></li>
                 <li class="item-471"><a href="http://www2.issste.gob.mx:8080/index.php/menutop-directorios-institucionales" class="tooltip_arriba">Directorios</a></li>
                 <li class="item-472"><a href="../../menuTop/Ubicanos/map.php" class="tooltip_arriba">Ubicanos</a></li>
-                <li class="item-473 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/mapadelsitio" class="tooltip_arriba">Mapa del sitio</a></li>
+                <li class="item-473 ultima"><a href="#" class="tooltip_arriba">Mapa del sitio</a></li>
 			</ul>
 
 			<br class="clear"> 
@@ -25,7 +24,7 @@
                 <!-- Logo Module -->
                          
 <div class="custom">
-<a href="../../images/issste2013-header_2.jpg" class="tooltip_arriba"><img id="logo_pos" src="../../images/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
+<a href="http://www2.issste.gob.mx:8080" class="tooltip_arriba"><img id="logo_pos" src="../../images/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
 
                           </div>
 
@@ -53,7 +52,7 @@
                     
             <li class="item-489 deeper parent"><a href="#" class="tooltip_arriba">Todo el Público</a>
 				<ul>
-                	<li class="item-490 primera"><a href="#" class="tooltip_arriba">El ISSSTE va a comprar</a></li>
+                	<li class="item-490 primera"><a href="../../TodoPublico/ISSSTEComprar/issste-a-comprar.php" class="tooltip_arriba">El ISSSTE va a comprar</a></li>
     	            <li class="item-492"><a href="http://www.prevenissste.gob.mx/" target="_blank" class="ext tooltip_arriba">Prevenissste cerca de tí</a></li>
         	        <li class="item-493"><a href="http://www.superissste.gob.mx/" target="_blank" class="ext tooltip_arriba">SuperISSSTE</a></li>
             	    <li class="item-905 ultima"><a href="#" class="tooltip_arriba">Centro Recreativo y Cultural</a></li></ul></li>
@@ -74,7 +73,7 @@
 			
             <li class="item-505 deeper parent"><a href="#" class="tooltip_arriba">Instituto</a>
             	<ul>
-                	<li class="item-506 primera"><a href="../../Quienes_somos/quienes_somos.php" class="tooltip_arriba">¿Quiénes Somos?</a></li>
+                	<li class="item-506 primera"><a href="../../Instituto/Quienes_somos/quienes_somos.php" class="tooltip_arriba">¿Quiénes Somos?</a></li>
                     <li class="item-507"><a href="#" class="tooltip_arriba">Administración</a></li>
                     <li class="item-508"><a href="#" class="tooltip_arriba">Sala de Prensa</a></li>
                     <li class="item-509"><a href="#" class="tooltip_arriba">Finanzas</a></li>
@@ -106,13 +105,13 @@
                     <li class="item-522"><a href="http://sgm.issste.gob.mx/medica/ensenanza.php" target="_blank" class="ext tooltip_arriba">Formación de Rec. Humanos en Salud</a></li>
                     <li class="item-523"><a href="http://sgm.issste.gob.mx/medica/index.php" target="_blank" class="ext tooltip_arriba">Investigación en Áreas Médicas</a></li>
                     <li class="item-1197 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-19-17-11/minvestigacion-cacym" class="tooltip_arriba">Consejo Asesor Científico y Médico del ISSSTE</a></li></ul></li>
-				<li class="item-534 deeper parent ultima"><a href="../../menuTop/Ubicanos/map.php" class="tooltip_arriba">Contáctanos</a>
+				<li class="item-534 deeper parent ultima"><a href="#" class="tooltip_arriba">Contáctanos</a>
                     <ul>
-                    <li class="item-535 primera"><a href="#" target="_blank" class="tooltip_arriba">Comentarios y Sugerencias</a></li>
+                    <li class="item-535 primera"><a href="../../Contactanos/Comentarios/comentarios-sugerencias.php" target="_blank" class="tooltip_arriba">Comentarios y Sugerencias</a></li>
                     <li class="item-536"><a href="#" class="tooltip_arriba">Directorios Institucionales</a></li>
                     <li class="item-537"><a href="#" class="tooltip_arriba">ISSSTE-Tel | Orientación e Información</a></li>
                     <li class="item-538"><a href="#" target="_blank" class="ext tooltip_arriba">ISSSTE-Emergencias | Atención Médica Prehospitalaria</a></li>
-                    <li class="item-539 ultima"><a href="#" class="tooltip_arriba">Quejas y Denuncias al OIC</a></li></ul></li></ul>
+                    <li class="item-539 ultima"><a href="../../Contactanos/Comentarios/quejas-denuncias.php" class="tooltip_arriba">Quejas y Denuncias al OIC</a></li></ul></li></ul>
 
                                 <br class="clear">            
             </div>
