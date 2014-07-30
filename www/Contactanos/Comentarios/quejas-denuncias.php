@@ -36,11 +36,17 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Comentarios y Sugerencias</h1>  
+            <div id="logoheader"></div>
+  <center><h1>Quejas y Denuncias</h1> </center> 
 
         <br><br>
        
-     <!-- Formulario   -->
+       <h3>Formulario para la Atención de QUEJAS Y DENUNCIAS </h3>
+       
+       <div style="border-style:double; border-color:#F00">
+       <h4>Hola como esta </h4>
+       </div>
+     <!-- Formulario 1   -->
 	 <form class="form-horizontal">
   <fieldset>
    <center> <h1>Datos del Derechohabiente</h1> </center>
@@ -196,7 +202,7 @@
 	 
 	 
 	 
-	 <!-- Fin Formulario -->
+	 <!-- Fin Formulario 1 -->
 	
 		</div>
 

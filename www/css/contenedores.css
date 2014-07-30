@@ -33,3 +33,10 @@ td{
 #centrar{
 text-align:center;	
 }
+
+#logoheader {
+    background: url(../images/derechohabiente.png) no-repeat scroll center bottom #FFF;
+    color: #FFF;
+    min-height: 100px;
+    margin: 0em 10px 0px !important;
+}
