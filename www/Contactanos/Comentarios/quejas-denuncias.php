@@ -43,13 +43,146 @@
        
        <h3>Formulario para la Atención de QUEJAS Y DENUNCIAS </h3>
        
-       <div style="border-style:double; border-color:#F00">
-       <h4>Hola como esta </h4>
+       <div style="border-style:dotted; border-color:#F00">
+       <h5>Los datos personales por usted proporcionadosserán protegidos en términos de la Ley Federal de Transpariencia y Acceso a la Información Pública Gubernamental y los Lineamientos de Protección de Datos Personales emitidos por el IFAI, y se registrarán en el Sistema Electrónico de Atención Ciudadana cuya finalidad es supervisar, controlar y dar seguimiento a la atención que se brinde a la queja presuntada, lo anterior con fundamento en el articulo 37, fracciones IV y VII del Reglamento Interior de la Secretaría de la Función Pública.  </h5>
+<br>
+<h6  style="color:#F00">Para enviar su queja desde este formulario es necesario que tenga configurada una aplicación de correo electrónico en su equipo personal, de lo contrario, puede enviarla directamente a la cuenta <b>correo@issste.gob.mx</b></h6>
        </div>
+       <br><br><br>
+      <center><h3>Datos del servidor público denunciado</h3></center>
      <!-- Formulario 1   -->
-	 <form class="form-horizontal">
+	 <form class="form-horizontal" id="servidorPublico" name="servidorPublico">
   <fieldset>
-   <center> <h1>Datos del Derechohabiente</h1> </center>
+    <div class="form-group">
+      <label for="inputApellidoPaterno" class="col-lg-2 control-label">Apellido Paterno : </label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputApellidoPaterno" placeholder="Apellido Paterno">
+      </div>
+    </div>
+	
+	<div class="form-group">
+		        <label for="inputApellidoMaterno" class="col-lg-2 control-label">Apellido Materno : </label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputApellidoMaterno" placeholder="Apellido Materno">
+      </div>
+	 </div>
+	 
+	 	<div class="form-group">
+		        <label for="inputNombre" class="col-lg-2 control-label">Nombre (s) : </label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputNombre" placeholder="Nombre (s)">
+      </div>
+	 </div>
+	 
+	 
+	<div class="form-group">
+	        <label for="inputORganismo" class="col-lg-2 control-label">Organismo : </label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputOrganismo" placeholder="Organismo">
+      </div>
+	 </div>
+	 
+		<div class="form-group">
+	        <label for="inputArea" class="col-lg-2 control-label">Area :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputArea" placeholder="Area">
+      </div>
+	 </div>
+	 
+     		<div class="form-group">
+	        <label for="inputCarga" class="col-lg-2 control-label">Cargo que Desempeña :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputCarga" placeholder="Cargo que Desempeña">
+      </div>
+	 </div>
+     
+     <div class="form-group">
+	        <label for="inputTelefono" class="col-lg-2 control-label">Teléfono y Extensión :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputTelefono" placeholder="Teléfono y Extensión">
+      </div>
+	 </div>
+
+       <br><br><br>
+      <center> <h3>Datos generales sobre los hechos</h3> </center>
+
+       <div class="form-group">
+	        <label for="inputDia" class="col-lg-2 control-label">Dia de los Hechos :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputDia" placeholder="Día/Mes/Año">
+      </div>
+	 </div>
+     
+          <div class="form-group">
+	        <label for="inputHora" class="col-lg-2 control-label">Hora de los Hechos :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputHora" placeholder="12:00 pm/am">
+      </div>
+	 </div>
+     
+          <div class="form-group">
+	        <label for="inputLugar" class="col-lg-2 control-label">Lugar de los Hechos :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputLugar" placeholder="Lugar Específico">
+      </div>
+	 </div>
+  
+      <div class="form-group">
+                    <label for="descripcion" class="col-lg-2 control-label">Como ocurrieron los hechos (favor de describirlos) :</label>
+                        <div class="col-lg-10">
+                      <textarea class="form-control" rows="3" id="descripcion" placeholder="Descripción"></textarea>
+                        </div>
+                  </div>
+                  
+       <div class="form-group">
+      <label class="col-lg-2 control-label">¿ Existen pruebas de los hechos? :</label>
+      <div class="col-lg-10">
+        <div class="radio">
+          <label>
+            <input type="radio" name="pruebas" id="si" value="si" checked="">
+            <h5>Sí &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+		
+        <div class="radio">
+          <label>
+            <input type="radio" name="pruebas" id="no" value="no">
+            <h5>No &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+      </div>
+    </div>
+	            
+       <div class="form-group">
+      <label class="col-lg-2 control-label">¿ Existen testigos de los hechos? :</label>
+      <div class="col-lg-10">
+        <div class="radio">
+          <label>
+            <input type="radio" name="testigos" id="si" value="si" checked="">
+            <h5>Sí &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+		
+        <div class="radio">
+          <label>
+            <input type="radio" name="testigos" id="no" value="no">
+            <h5>No &nbsp &nbsp &nbsp &nbsp </h5>
+          </label>
+        </div>
+      </div>
+    </div>            
+                  
+   <div class="form-group">
+      <label for="textArea" class="col-lg-10 control-label"><h5> En caso afirmativo, favor de indicar sus nombres y forma de localizarlos : </h5></label> <br>
+      <div class="col-lg-11">
+        <center> <textarea class="form-control" rows="4" id="nombreTestigos"></textarea>
+        <br>
+        <p>Para dar un adecuado seguimiento a sus quejas o denuncias es necesario que proporcione sus datos personales, mismos que serán manejados en forma <b>estríctamente confidencial.</b> </p>
+		</center>
+      </div>
+    </div>               
+                  
+                  
     <div class="form-group">
       <label for="inputApellidoPaterno" class="col-lg-2 control-label">Apellido Paterno : </label>
       <div class="col-lg-10">
@@ -85,7 +218,21 @@
         <input type="text" class="form-control" id="inputColonia" placeholder="Colonia">
       </div>
 	 </div>
+     
+     		<div class="form-group">
+	        <label for="inputDelegacion" class="col-lg-2 control-label">Delegación/Municipio :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputDelegacion" placeholder="Delegación/Municipio">
+      </div>
+	 </div>
 	 
+     		<div class="form-group">
+	        <label for="inputCP" class="col-lg-2 control-label">Código Postal :</label>
+      <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputCP" placeholder="Código Postal">
+      </div>
+	 </div>
+     
     <div class="form-group">
       <label for="select" class="col-lg-2 control-label">Estado : </label>
       <div class="col-lg-10">
@@ -123,80 +270,13 @@
 	 </div>
 	 
 	 
-	<div class="form-group">
-      <label class="col-lg-2 control-label">Tipo de Derechohabiente</label>
-      <div class="col-lg-10">
-        <div class="radio">
-          <label>
-            <input type="radio" name="opciones" id="trabajador" value="trabajador" checked="">
-            <h5>Trabajador &nbsp &nbsp &nbsp &nbsp</h5>
-          </label>
-        </div>
-		
-        <div class="radio">
-          <label>
-            <input type="radio" name="opciones" id="pensionado" value="pensionado">
-            <h5>Pensionado &nbsp &nbsp &nbsp &nbsp </h5>
-          </label>
-        </div>
-		<div class="radio">
-          <label>
-            <input type="radio" name="opciones" id="jubilado" value="jubilado">
-           <h5> Jubilado &nbsp &nbsp &nbsp &nbsp </h5>
-          </label>
-        </div>
-		<div class="radio">
-          <label>
-            <input type="radio" name="opciones" id="beneficiario" value="beneficiario">
-          <h5>  Beneficiario </h5>
-          </label>
-        </div>
-		
-      </div>
-    </div>
-	
-	<div class="form-group">
-      <label class="col-lg-2 control-label">Tipo de Opinión</label>
-      <div class="col-lg-10">
-        <div class="radio">
-          <label>
-            <input type="radio" name="opinion" id="felicitacion" value="felicitacion" checked="">
-            <h5>Felicitación &nbsp &nbsp &nbsp &nbsp</h5>
-          </label>
-        </div>
-		
-        <div class="radio">
-          <label>
-            <input type="radio" name="opinion" id="sugerencia" value="sugerencia">
-            <h5>Sugerencia &nbsp &nbsp &nbsp &nbsp </h5>
-          </label>
-        </div>
-		<div class="radio">
-          <label>
-            <input type="radio" name="opinion" id="inconformidad" value="inconformidad">
-           <h5> Inconformidad &nbsp &nbsp &nbsp &nbsp </h5>
-          </label>
-        </div>
-			
-      </div>
-    </div>
-	 
-	 <div class="form-group">
-      <label for="textArea" class="col-lg-10 control-label"><h5> En el espacio siguiente, usted puede proporcionarnos sus comentarios : </h5></label> <br>
-      <div class="col-lg-11">
-        <center> <textarea class="form-control" rows="4" id="textArea"></textarea>
-        <span style="text-align:justify" class="help-block">La Subdirección de Atención al Derechohabiente le informa que los datos personales proporcionados por Usted están protegidos y serán incorporados y tratados en el sistema de datos personales denominado "Buzón de Comentarios y Sugerencias", con fundamento en los artículos 20 y 21 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, decimosexto, decimoséptimo, vigésimo séptimo, vigésimo octavo, vigésimo noveno, trigésimo primero, trigésimo segundo y trigésimo tercero de los Lineamientos de Protección de Datos Personales, cuya finalidad es recibir de los derechohabientes del ISSSTE comentarios y sugerencias que ayuden a mejorar los servicios que se propporcionan, mismo que está registrado en el Listado de Sistemas de Datos Personales ante el Instituto Federal de Acceso a la Información Pública (www.ifai.org.mx), y podrán ser transmitidos a instancias correspondientes dentro del Instituto y a las autoridades competentes con la finalidad de coadyuvar al ejercicio de las funciones propias de la Institución, además de otras transmisiones previstas en la Ley. La Subdirección de Atención al Derechohabiente es responsable de la información recibida en el Buzón de Comentarios y Sugerencias, y la dirección donde el interesado podrá ejercer los derechos de acceso y corrección ante la misma es Av. Insurgentes Sur N° 716, Col. Del Valle, Del. Benito Juárez, C.P. 03100, México D.F. Lo anterior se informa en cumplimiento al décimo séptimo de los Lineamientos de Protección de Datos Personales publicados en el Diario Oficial de la Federación el 30 de septiembre de 2005. </span>
-		</center>
-      </div>
-    </div>
-	
-	
-    <div class="form-group">
+ <div class="form-group">
       <div class="col-lg-10 col-lg-offset-2">
-        <button class="btn btn-default">Cancel</button>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button class="btn btn-default">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Enviar</button>
       </div>
     </div>
+    
   </fieldset>
 </form>
 	 

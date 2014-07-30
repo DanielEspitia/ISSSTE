@@ -187,8 +187,8 @@
 	
     <div class="form-group">
       <div class="col-lg-10 col-lg-offset-2">
-        <button class="btn btn-default">Cancel</button>
-        <button type="submit" class="btn btn-primary">Submit</button>
+        <button class="btn btn-default">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Enviar</button>
       </div>
     </div>
   </fieldset>
