@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO - Órganos Consultivos en Seguridad y Salud en el Trabajo</title>
+        <title>ISSSTE GUANAJUATO - Departamento de Prevención de Riesgos del Trabajo</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -36,23 +36,12 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-	<h1>Departamento de Prevención de Riesgos del Trabajo</h1>  
+  <h1>Departamento de Prevención de Riesgos del Trabajo</h1>  
 
         <br><br>
-	<h3>Órganos Consultivos en Seguridad y Salud en el Trabajo</h3>
         <br><br>
         
-	<blockquote>
-	  <ul>
-    <li class="primera"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CONTROL-SESIONES-ACUERDOS.pdf" target="blank">Sesiones y Acuerdos de las Comisiones Consultivas de Seguridad y Salud en el Trabajo </a></li>
-    <li class="ultima"><a class="tooltip_arriba" href="/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/CALENDARIO-SESIONES-2014.pdf" target="blank">Calendario de Sesiones 2014</a></li>
-  		</ul>
-	</blockquote>
-<br><br>
-<h3>Acuerdo Estatal 2010-2014 </h3>
-<div align="center">
-<li><a class="tooltip_arriba" href="http://www2.issste.gob.mx:8080/images/downloads/instituto/prevencion-riesgos-trabajo/sesiones-acuerdos/GTO.pdf" target="blank">Acuerdo Guanajuato</a><img src="../../images/icons/acrobat.png" alt="Archivo PDF"></li>
-</div>
+	<p style="text-align: justify;">El Departamento de Prevención de Riesgos del Trabajo, es el área del Instituto cuyo objetivo primordial es el de respaldar técnica y administrativamente el funcionamiento de los Órganos Consultivos a nivel nacional, coordinando la operación de las Comisiones de Seguridad y Salud en el Trabajo y los programas de promoción y difusión para incidir en la reducción de accidentes y enfermedades laborales, normar técnica y jurídicamente su prevención y control en el sector público afiliado a la Ley del ISSSTE.</p>
 
 		</div>
 

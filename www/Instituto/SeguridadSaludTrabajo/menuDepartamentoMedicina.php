@@ -16,12 +16,13 @@
     <h3 class="gray">Navegación</h3>
          <div id="menuRight">
                   
-	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="organosConsultivos.php">Órganos Consultivos en Seguridad y Salud en el Trabajo</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="programaPrevencion.php">Programa de Prevención</a></li>
-        <li class="item-565"><a class="tooltip_arriba" href="comisionesSeguridad.php">Comisiones de Seguridad y Salud en el Trabajo</a></li>
-        <li class="item-566"><a class="tooltip_arriba" href="estadisticaAccidentesTrabajo.php">Estadística Nacional de Accidentes de Trabajo</a></li>
-        <li class="item-567"><a class="tooltip_arriba" href="promocionMaterialDifusion.php">Promoción y Material de Difusión</a></li>
+	<ul class="menu">	
+        <li class="item-564"><a class="tooltip_arriba" href="departamentoMedicinaTrabajoC.php">Asesoría Jurídica</a></li>
+        <li class="item-565"><a class="tooltip_arriba" href="departamentoMedicinaTrabajoC.php">Supervisión a las S.P.</a></li>
+        <li class="item-566"><a class="tooltip_arriba" href="departamentoMedicinaTrabajoC.php">Atención y desahogo de requerimientos de la S.P.</a></li>
+        <li class="item-567"><a class="tooltip_arriba" href="departamentoMedicinaTrabajoC.php">Seguimiento a los asuntos del IFAI</a></li>
+        <li class="item-567"><a class="tooltip_arriba" href="departamentoMedicinaTrabajoC.php">Control y distribución de los RT-09</a></li>
+        <li class="item-567"><a class="tooltip_arriba" href="departamentoMedicinaTrabajoC.php">Salud en el trabajo</a></li>
         <li class="item-568"><a class="tooltip_arriba" href="seguridadHigiene.php">Seguridad e Higiene en el Trabajo</a></li>
 	</ul> <!-- FIN de <UL> MENU	-->
 
