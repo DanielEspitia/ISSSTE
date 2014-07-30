@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     
@@ -50,9 +51,8 @@
 	<script type="text/javascript" src="engine1/script.js"></script>
 	<!-- End WOWSlider.com BODY section -->
         <!--FIN Carrusel-->
-     
-       
-<!--2° bloque-->
+
+		<!--2° bloque-->
         <div class="container">   
 		<div class="row"><div class="col-md-1"></div>
 		<div id="contentLeft">
@@ -125,7 +125,6 @@
 		<div class="col-md-2"></div>
 		
 		</div></div><!-- Cierre Contenedor -->
-
 
 
         
