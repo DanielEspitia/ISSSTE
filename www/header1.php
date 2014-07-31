@@ -55,7 +55,7 @@
                 	<li class="item-490 primera"><a href="TodoPublico/ISSSTEComprar/issste-a-comprar.php" class="tooltip_arriba">El ISSSTE va a comprar</a></li>
     	            <li class="item-492"><a href="http://www.prevenissste.gob.mx/" target="_blank" class="ext tooltip_arriba">Prevenissste cerca de tí</a></li>
         	        <li class="item-493"><a href="http://www.superissste.gob.mx/" target="_blank" class="ext tooltip_arriba">SuperISSSTE</a></li>
-            	    <li class="item-905 ultima"><a href="#" class="tooltip_arriba">Centro Recreativo y Cultural</a></li></ul></li>
+            	    <li class="item-905 ultima"><a href="TodoPublico/CentroRecreativo/centro-cultural.php" class="tooltip_arriba">Centro Recreativo y Cultural</a></li></ul></li>
 			
 
 			<li class="item-494 deeper parent"><a href="#" class="tooltip_arriba">Servicios en Línea</a>				

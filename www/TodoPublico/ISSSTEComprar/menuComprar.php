@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Prueba de Menu Derecho</title>
+<title>Menu Comprar ISSSTE</title>
 <link rel="stylesheet" href="../../menu/styles.css">
 <link rel="stylesheet" href="../../menu/linea#3.css">
 <link rel="stylesheet" href="../../menu/allmode-default.css">
@@ -19,7 +19,7 @@
  <ul class="menu">
  <li class="item-563 primera"><a class="tooltip_arriba" href="issste-a-comprar.php">ISSSTE va a Comprar</a></li>
  <li class="item-563 primera"><a class="tooltip_arriba" href="compromisos-issste-proveedores.php">Compromisos del ISSSTE con sus Proveedores</a></li>
- <li class="item-564"><a class="tooltip_arriba" href="#">Consulta Prebases</a></li>
+ <li class="item-564"><a class="tooltip_arriba" href="consulta-prebases.php">Consulta Prebases</a></li>
  <li class="item-565"><a class="tooltip_arriba" href="http://www.compranet.gob.mx/" target="_blank">Compranet</a></li>
 </li>
  </ul> <!-- FIN de <UL> MENU -->

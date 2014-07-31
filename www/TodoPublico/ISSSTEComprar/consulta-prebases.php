@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
+        <title>ISSSTE GUANAJUATO- Todo Público</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -35,31 +35,24 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Sistema de Cita Médica Telefónica e Internet </h1>  
+  <h1>Consulta Prebases</h1>  
 
         <br><br>
-       
-	   <p align="center">
-	   <img src="../../images/afiliacion/agenda-tu-cita.jpg" width="560" height="270">
-	   </p>
-	   <br>
-	   <a href="requisitos-cita-medica.php"><button  type="button" class="btn btn-default btn-lg btn-block">Conoce los requisitos para agendar una cita médica <br> vía internet o telefónica</button></a>
-      
-        <br><br><br>
+     
+ 
 
-	  <a href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="_blank"><button type="button" class="btn btn-default btn-lg btn-block">ACCESSO A DERECHOHABIENTES</button></a>
-	  
-	  <br><br><br>
-	  
-	 <a href="http://187.141.168.70/webclinica/comun/login.aspx" target="_blank"> <button type="button" class="btn btn-default btn-lg btn-block">ACCESO A USUARIOS ADMVOS</button></a>
-      
-       	</div>
+        <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
+		<br><br><br>
+<div class="progress progress-striped active">
+  <div class="progress-bar" style="width: 45%"></div>
+</div>
+		</div>
 
      </div>
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuAfiliacion.php');
+		 include('menuComprar.php');
 		 ?>
          
          
