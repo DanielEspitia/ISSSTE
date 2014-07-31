@@ -17,9 +17,9 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="#">Comunicados</a></li>
-        <li class="item-564"><a class="tooltip_arriba" href="#">Directorios Institucionales</a></li>
-        <li class="item-565 ultimo"><a class="tooltip_arriba" href="#">Sala de Prensa</a></li>
+		<li class="item-563 primera"><a class="tooltip_arriba" href="sala-de-prensa.php">Comunicados</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href="directorios.php">Directorios Institucionales</a></li>
+        <li class="item-565 ultimo"><a class="tooltip_arriba" href="sala-de-prensa.php">Sala de Prensa</a></li>
 	</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
