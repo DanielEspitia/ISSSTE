@@ -19,6 +19,8 @@
         <script src="bootstrap-3.2.0-dist/js/jquery.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
+		<link rel="stylesheet" href="css/format.css">
+        <link rel="stylesheet" href="css/contenedores.css">
 
       	<link rel="stylesheet" type="text/css" href="engine1/style.css" />	<!--	css de wow slider	-->
 		<script type="text/javascript" src="engine1/jquery.js"></script>	<!--	css de wow slider	-->            
@@ -50,15 +52,15 @@
 	<script type="text/javascript" src="engine1/script.js"></script>
 	<!-- End WOWSlider.com BODY section -->
         <!--FIN Carrusel-->
-     
-       
-<!--2° bloque-->
+     <!--2° bloque-->
         <div class="container">   
-		<div class="row"><div class="col-md-1"></div>
-		<div id="contentLeft">
+		<div class="row"><div class="col-md-1"></div> <div class="col-md-3">
+		
+		<!--<div id="contentLeft">-->
 		<div id="contentLeft01">
-                  		<div class="moduletableNews">
-					<h3>Noticias</h3>
+                  	<div class="moduletableNews">
+					<h3 align="center">Noticias</h3>
+					<br>
 					<div class="allmode_box allmode-default News">
 
 
@@ -87,44 +89,100 @@
 
 	</div>
 </div>
-<div class="allmode_showall"><a href="/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Ver más comunicados</a></div></div>		</div>
+<br>
+<div class="allmode_showall"><a href="/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Ver más comunicados</a></div></div>		
+</div>
+<br>
 	<div class="moduletable">
-					<h3>Obligaciones de Transparencia</h3>
+			<h3>Obligaciones de Transparencia</h3>
 					
-<div class="custom">
+
 	<br>
-<div class="infoHeader">
-<p align="center"><a href="http://portaltransparencia.gob.mx/buscador/search/search.do?method=begin" target="_blank" class="ext tooltip_arriba"><img src="images/portal-transparencia.jpg" border="0" title="Pulsa aquí para conocer la información que publica el ISSSTE (contratos, directorios, sueldos, etc.). Los servidores públicos responsables de la información publicada en el Portal de Obligaciones de Transparencia, certifican la veracidad de la misma." alt="Banner con liga al POT" width="280px"></a></p>
-</div>
-<div class="infoHeader">
-<p align="center"><a href="https://www.infomex.org.mx/gobiernofederal/home.action" target="_blank" class="tooltip_arriba"><img src="images/banner_infomex.png" border="0" title="Acceso al Sistema Infomex" alt="Banner con liga al sistema INFOMEX" width="280px"></a></p>
-</div>
-<div class="infoHeader">
-<p align="center"><a href="http://inicio.ifai.org.mx/_catalogs/masterpage/ifai.aspx" target="_blank" class="ext tooltip_arriba"><img src="images/banner_ifai.png" border="0" title="Instituto Federal de Acceso a la Información y Protección de Datos" alt="Banner con liga al sitio del Instituto Federal de Acceso a la Información y Protección de Datos" width="280px"></a></p>
-</div></div>
-		</div>
+
+<p align="left"><a href="http://portaltransparencia.gob.mx/buscador/search/search.do?method=begin" target="_blank" class="ext tooltip_arriba"><img src="images/portal-transparencia.jpg" class="img-thumbnail" border="0" title="Pulsa aquí para conocer la información que publica el ISSSTE (contratos, directorios, sueldos, etc.). Los servidores públicos responsables de la información publicada en el Portal de Obligaciones de Transparencia, certifican la veracidad de la misma." alt="Banner con liga al POT" width="260px"></a></p>
+
+
+<p align="left"><a href="https://www.infomex.org.mx/gobiernofederal/home.action" target="_blank" class="tooltip_arriba"><img src="images/banner_infomex.png" class="img-thumbnail" border="0" title="Acceso al Sistema Infomex" alt="Banner con liga al sistema INFOMEX" width="260px"></a></p>
+
+
+<p align="left"><a href="http://inicio.ifai.org.mx/_catalogs/masterpage/ifai.aspx" target="_blank" class="ext tooltip_arriba"><img src="images/banner_ifai.png" class="img-thumbnail" border="0" title="Instituto Federal de Acceso a la Información y Protección de Datos" alt="Banner con liga al sitio del Instituto Federal de Acceso a la Información y Protección de Datos" width="260px" align="left"></a></p>
+
+	</div>
 	
-            </div></div>
+            </div>
+			
+			
+			  
+			  
+			
+			<!--Cierre</div> Contentleft de Noticias-->
+			 </div>  <!--fin col de Noticias-->
+		
+		<!--Información relevante-->
+		
+		<div class="col-md-4">
+		<div id="contentLeft02"> 
+                  		<!--<div class="moduletable">-->
+					<h3 align="center">Información Relevante </h3>
+					
+
+<div class="custom">
+	<div>
+<table width="352" border="0">
+<tbody>
+<tr class="alt primera ultima">
+
+<td>
+<p align="center"><strong>Estimado Pensionado:</strong></p>
+<br>
+<p align="justify">Nos satisface informarle que hemos transformado el pase de vigencia, <strong>eliminando la modalidad presencial, es decir, usted ya no debe trasladarse a ninguna oficina del ISSSTE a realizar el pase de vigencia</strong>, ahora el registro de la supervivencia la realizará el personal del ISSSTE, a través de diversas modalidades como son: Visitas domiciliarias aleatorias, y la validación de la CURP de los pensionados con la base de datos del Registro Nacional de Población (RENAPO). Lo invitamos a registrarse a la oficina virtual del ISSSTE, en: <a href="/images/redirect/oficinavirtual.html" target="_blank" class="tooltip_arriba"><strong><em>https://oficinavirtual.issste.gob.mx/</em></strong></a> si el sistema no le permite ingresar, debe presentar su CURP en la Subdelegación de Prestaciones más cercana a su domicilio. Mayor información ISSSTETEL (01800-710-4666) y 01800-pensión (01800-7367466) opción 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="info" >
+<p align="center"><a href="/images/redirect/convocatoriasmedicas.html" target="_blank" class="tooltip_arriba"><img src="images/ingreso-residencias-medicas.jpg" border="0" alt="Ingreso a Residencias Médicas" width="350" height="75" ></a></p>
+</div>
+<div class="info">
+<div align="center"><a href="/images/redirect/pensionissste.html" target="_blank" class="tooltip_arriba"><img src="images/estado-de-cuenta-SAR.jpg" border="0" alt="Donde consultar el estado de cuenta del SAR" width="350" height="75" ></a></div>
+</div>
+<div class="info">
+<p align="center"><a href="/images/redirect/directorioebdis.html" target="_blank" class="tooltip_arriba"><img src="images/directorio-estancias-infantiles.jpg" border="0" alt="Directorio de Estancias Infantiles" width="350" height="75" ></a></p>
+</div></div>
+		<!--</div>-->
+	
+         </div>
+		</div>
+			  
+	    <!--Fin Información relevante-->
 		
 	
 	<!--fin noticias-->
+		
 		<div class="col-md-2">
 		<div id="contentRight01">
 		 
-	
-	
+
   <div id="contentRight">
-	<a href="http://www.fovissste.gob.mx/" target="_blank"><img src="imagenes/Imagen_pagina_web/i_fovissste.jpg" alt="fovissste" width="300" height="170" class="img-thumbnail" ></a> 
-	<a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="imagenes/Imagen_pagina_web/i_pensionissste.jpg" alt="pensionissste" width="300" height="170" class="img-thumbnail" ></a>
-    <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="imagenes/Imagen_pagina_web/i_turissste.jpg" alt="turissste" width="300" height="170" class="img-thumbnail"></a> 
+	<a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank"><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="300" height="170" class="img-thumbnail" ></a> 
+	<a href="http://www.fovissste.gob.mx/" target="_blank"><img src="images/fovissste.jpg" alt="fovissste" width="300" height="170" class="img-thumbnail" ></a> 
+	<a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="images/pensionissste.jpg" alt="pensionissste" width="300" height="170" class="img-thumbnail" ></a>
+    <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="images/turissste.jpg" alt="turissste" width="300" height="170" class="img-thumbnail"></a>
+	<a href="http://www.superissste.gob.mx/" target="_blank"><img src="images/superissste.jpg" alt="superissste" width="300" height="170" class="img-thumbnail"></a> 	
+	<a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servs-serica" target="_blank"><img src="images/logoserica.jpg" alt="serica" width="300" height="170" class="img-thumbnail"></a> 	
 </div>
 
 		</div>
     
 		</div>
-		<div class="col-md-2"></div>
 		
-		</div></div><!-- Cierre Contenedor -->
+		<div class="col-md-2"></div> 
+		
+		</div><!-- Cierre row -->
+		</div><!-- Cierre Contenedor -->
+       
+
 
 
 
