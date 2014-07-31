@@ -34,7 +34,7 @@
 
 <blockquote> 
 
-<p>Para mayor información nos puedes uibicar en: <br> </p>
+<p>Para mayor información estamos para servirte en: <br> </p>
 <p>Av. Francisco Juárez s/n col. Los Laureles. Celaya Gto C.P. 38014</p>
 </blockquote> 
 	
