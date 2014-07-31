@@ -75,7 +75,7 @@
             	<ul>
                 	<li class="item-506 primera"><a href="Instituto/Quienes_somos/quienes_somos.php" class="tooltip_arriba">¿Quiénes Somos?</a></li>
                     <li class="item-507"><a href="Instituto/Administracion/administracion.php" class="tooltip_arriba">Administración</a></li>
-                    <li class="item-508"><a href="Instituto/SalaPrensa/sala-de-prensa.php" class="tooltip_arriba">Sala de Prensa</a></li>
+                    <li class="item-508"><a href="Instituto/Sala-de-Prensa/sala-de-prensa.php" class="tooltip_arriba">Sala de Prensa</a></li>
                     <li class="item-509"><a href="Instituto/Finanzas/finanzas.php" class="tooltip_arriba">Finanzas</a></li>
                     <li class="item-510"><a href="Instituto/Innovacion/innovacion.php" class="tooltip_arriba">Innovación y Calidad</a></li>
                     <li class="item-511"><a href="Instituto/ComiteMedicina/comite-medicina.php" class="tooltip_arriba">Comité de Medicina del Trabajo</a></li>
