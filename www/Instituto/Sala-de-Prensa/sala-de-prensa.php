@@ -36,9 +36,6 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Sala de Prensa</h1>
-<h2><span class="subheading-category">Comunicados 2014</span></h2>
-
 <div class="category-list">
 
 		<h1>
