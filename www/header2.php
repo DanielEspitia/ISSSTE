@@ -60,28 +60,27 @@
 
 			<li class="item-494 deeper parent"><a href="#" class="tooltip_arriba">Servicios en Línea</a>				
                 <ul>
- 	               <li class="item-495 primera"><a href="https://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Mi Oficina Virtual</a></li>
+ 	 <li class="item-495 primera"><a href="https://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Mi Oficina Virtual</a></li>
                    <li class="item-496"><a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank" class="ext tooltip_arriba">Agenda TU Cita Médica</a></li>
                    <li class="item-497"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servslinea-comppagopensionistas" class="tooltip_arriba">Comprobantes de Pago a Pensionistas</a></li>
                    <li class="item-498"><a href="http://issstenet.issste.gob.mx/cgi353/fglccgi/wa/r/menu_sp" target="_blank" class="ext tooltip_arriba">Consulta TU información</a></li>
                    <li class="item-499"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/serviciosenlinea-curp" target="_blank" class="tooltip_arriba">Consulta e imprime tu CURP</a></li>
-                   <li class="item-500"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servs-serica" target="_blank" class="tooltip_arriba">Pago de Cuotas y Aportaciones</a></li>
+                   <li class="item-500"><a href="#" class="tooltip_arriba">Pago de Cuotas y Aportaciones</a></li>
                    <li class="item-501"><a href="https://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Trámite de Préstamos Personales</a></li>
                    <li class="item-502"><a href="http://www.silodisa.com/ConteoPorUMU.aspx" target="_blank" class="ext tooltip_arriba">Inventario Medicamentos y Mat. de Curación</a></li>
                    <li class="item-503"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Ventanilla Electrónica de Servicios</a></li>
-                   <li class="item-504 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/serviciosenlinea-issstenet-home" class="tooltip_arriba">Ver más servicios</a></li></ul></li>
-			
+                   <li class="item-504 ultima"><a href="#" class="tooltip_arriba">Ver más servicios</a></li></ul></li>
             <li class="item-505 deeper parent"><a href="#" class="tooltip_arriba">Instituto</a>
             	<ul>
                 	<li class="item-506 primera"><a href="../../Instituto/Quienes_somos/quienes_somos.php" class="tooltip_arriba">¿Quiénes Somos?</a></li>
-                    <li class="item-507"><a href="#" class="tooltip_arriba">Administración</a></li>
-                    <li class="item-508"><a href="#" class="tooltip_arriba">Sala de Prensa</a></li>
-                    <li class="item-509"><a href="#" class="tooltip_arriba">Finanzas</a></li>
-                    <li class="item-510"><a href="#" class="tooltip_arriba">Innovación y Calidad</a></li>
-                    <li class="item-511"><a href="#" class="tooltip_arriba">Comité de Medicina del Trabajo</a></li>
+                    <li class="item-507"><a href="../../Instituto/Administracion/administracion.php" class="tooltip_arriba">Administración</a></li>
+                    <li class="item-508"><a href="../../Instituto/Sala-de-Prensa/sala-de-prensa.php" class="tooltip_arriba">Sala de Prensa</a></li>
+                    <li class="item-509"><a href="../../Instituto/Finanzas/finanzas.php" class="tooltip_arriba">Finanzas</a></li>
+                    <li class="item-510"><a href="../../Instituto/Innovacion/innovacion.php" class="tooltip_arriba">Innovación y Calidad</a></li>
+                    <li class="item-511"><a href="../../Instituto/ComiteMedicina/comite-medicina.php" class="tooltip_arriba">Comité de Medicina del Trabajo</a></li>
                     <li class="item-512"><a href="../../Instituto/SeguridadSaludTrabajo/seguridadHigiene.php" class="tooltip_arriba">Seguridad y Salud en el Trabajo</a></li>
                     <li class="item-513"><a href="http://normateca.issste.gob.mx/index.asp?usuario=Publico&pin=Consultivo2013" target="_blank" class="ext tooltip_arriba">Normateca</a></li>
-                    <li class="item-514"><a href="../../Instituto/#" class="tooltip_arriba">Órgano Interno de Control</a></li>
+                    <li class="item-514"><a href="../../Instituto/OrganoInternoControl/organo-interno-control.php" class="tooltip_arriba">Órgano Interno de Control</a></li>
                     <li class="item-515 ultima"><a href="http://www.issste.gob.mx/intranet/" target="_blank" class="ext tooltip_arriba">Intranet</a></li></ul></li>
 			
             <li class="item-524 deeper parent"><a href="../../Transparencia/Transparencia/transparencia.php" class="tooltip_arriba">Transparencia</a>			
