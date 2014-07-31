@@ -85,14 +85,14 @@
 			
             <li class="item-524 deeper parent"><a href="../../Transparencia/Transparencia/transparencia.php" class="tooltip_arriba">Transparencia</a>			
             	<ul>
-					<li class="item-525 primera"><a href="#" class="tooltip_arriba">Normatividad</a></li>
-                    <li class="item-526"><a href="#" class="tooltip_arriba">Comité de Información</a></li>
-                    <li class="item-527"><a href="#" class="tooltip_arriba">Transparencia Focalizada</a></li>
-                    <li class="item-528"><a href="#" class="tooltip_arriba">Indicadores de Programas Presupuestarios</a></li>
-                    <li class="item-529"><a href="#" class="tooltip_arriba">Recomendaciones emitidas por la CNDH, INMUJERES y CONAPRED</a></li>
-                    <li class="item-530"><a href="#" class="tooltip_arriba">Estudios y Opiniones</a></li>
-                    <li class="item-532"><a href="#" class="tooltip_arriba">Rendición de Cuentas</a></li>
-                    <li class="item-533 ultima"><a href="#" class="tooltip_arriba">Participación Ciudadana</a></li>
+					<li class="item-525 primera"><a href="../../Transparencia/Normatividad/normatividad.php" class="tooltip_arriba">Normatividad</a></li>
+                    <li class="item-526"><a href="../../Transparencia/ComiteInformacion/comite-informacion.php" class="tooltip_arriba">Comité de Información</a></li>
+                    <li class="item-527"><a href="../../Transparencia/TransparenciaFocalizada/transparencia-focalizada.php" class="tooltip_arriba">Transparencia Focalizada</a></li>
+                    <li class="item-528"><a href="../../Transparencia/IndicadoresProgramas/indicadores-programas.php" class="tooltip_arriba">Indicadores de Programas Presupuestarios</a></li>
+                    <li class="item-529"><a href="../../Transparencia/Recomendaciones/recomendaciones.php" class="tooltip_arriba">Recomendaciones emitidas por la CNDH, INMUJERES y CONAPRED</a></li>
+                    <li class="item-530"><a href="../../Transparencia/Estudios/estudios-opiniones.php" class="tooltip_arriba">Estudios y Opiniones</a></li>
+                    <li class="item-532"><a href="../../Transparencia/RendicionCuentas/rendicion-cuentas.php" class="tooltip_arriba">Rendición de Cuentas</a></li>
+                    <li class="item-533 ultima"><a href="../../Transparencia/Participacion/participacion-ciudadana.php" class="tooltip_arriba">Participación Ciudadana</a></li>
                     </ul></li>
                     
 			<li class="item-517 deeper parent"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">ISSSTEduca e Investiga</a>
