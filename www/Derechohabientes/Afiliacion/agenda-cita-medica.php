@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO - Pensionados</title>
+        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -23,7 +23,6 @@
 		
         <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="../../css/contenedores.css">
-        <link rel="stylesheet" href="../../menu/styles.css">
 	</head>
 
 	<body>
@@ -36,41 +35,31 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Pensionados</h1>  
+  <h1>Sistema de Cita Médica Telefónica e Internet </h1>  
 
         <br><br>
- 
- <h2>CANCELADA MODALIDAD PRESENCIAL DE LOS PENSIONADOS EN EL PASE DE VIGENCIA DE DERECHOS</h2>
- 
-        <br><br>
-        
-        
-        <p>
+       
+	   <p align="center">
+	   <img src="../../images/afiliacion/agenda-tu-cita.jpg" width="560" height="270">
+	   </p>
+	   <br>
+	   <a href="requisitos-cita-medica.php"><button  type="button" class="btn btn-default btn-lg btn-block">Conoce los requisittos para agendar una cita médica <br> vía internet o telefónica</button></a>
+      
+        <br><br><br>
 
-
-Estimado Pensionado: Nos satisface informarle que hemos transformado  el pase de vigencia, 
-<strong>eliminando la modalidad presencial, es decir, usted ya no debe trasladarse a ninguna oficina del ISSSTE a realizar el pase de vigencia,</strong>
- ahora el registro de la supervivencia la realizará el personal del ISSSTE, a través de diversas modalidades como son:
-</p>
-<blockquote>
-  <ul type="disc">
-       <li> Visitas domiciliarias aleatorias</li>
-       <li>A través de la validación de la CURP de los pensionados con la base de datos del Registro Nacional de Población (RENAPO).</li>
-	   </ul>
-</blockquote>
-<p><br>
-  <br>
-  ·         Lo invitamos a registrarse a la oficina virtual del ISSSTE, en:<em><strong> <a class="tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" target="_blank">https://oficinavirtual.issste.gob.mx/</a> </strong></em>si el sistema no le permite ingresar, debe presentar su CURP en la Subdelegación de Prestaciones más cercana a su domicilio.<br>
-</p>
-
-
-		</div>
+	  <a href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="_blank"><button type="button" class="btn btn-default btn-lg btn-block">ACCESSO A DERECHOHABIENTES</button></a>
+	  
+	  <br><br><br>
+	  
+	 <a href="http://187.141.168.70/webclinica/comun/login.aspx" target="_blank"> <button type="button" class="btn btn-default btn-lg btn-block">ACCESO A USUARIOS ADMVOS</button></a>
+      
+       	</div>
 
      </div>
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuPensionados.php');
+		 include('menuAfiliacion.php');
 		 ?>
          
          
