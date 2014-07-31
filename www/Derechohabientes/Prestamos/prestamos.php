@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Préstamos</title>
+        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -44,9 +44,9 @@
  
         <table width="75%" border="0" align="center">
   <tbody><tr class="alt primera">
-    <td width="45%"><div align="center" class="enlaces"><a href="tipos-prestamos.php" class="tooltip_arriba"><img src="../../images/prestamos/1_tipo.gif" border="0" alt="requisitos-tramite" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
+    <td width="45%"><div align="center" class="enlaces"><a href="/index.php/derechohabientes/prestamos/136-derechohabientes/prestamo/121-tipos-prestamo" class="tooltip_arriba"><img src="../../images/prestamos/1_tipo.gif" border="0" alt="requisitos-tramite" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
     <td width="13%">&nbsp;</td>
-    <td width="42%"><div align="center"><a href="requisitos-tramites.php" class="tooltip_arriba"><img src="../../images/prestamos/2_requisitos.gif" border="0" alt="requisitos-tramite" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
+    <td width="42%"><div align="center"><a href="/index.php/derechohabientes/prestamos/136-derechohabientes/prestamo/122-requisitos-tramite" class="tooltip_arriba"><img src="../../images/prestamos/2_requisitos.gif" border="0" alt="requisitos-tramite" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -54,9 +54,9 @@
     <td>&nbsp;</td>
   </tr>
   <tr class="alt ultima">
-    <td><div align="center"><a href="tramite-oficina-virtual.php" class="tooltip_arriba"><img src="../../images/prestamos/3_accesoov.gif" border="0" alt="requisitos-tramite" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
+    <td><div align="center"><a href="/index.php/derechohabientes/prestamos/136-derechohabientes/prestamo/123-tramite-oficina-vitual" class="tooltip_arriba"><img src="../../images/prestamos/3_accesoov.gif" border="0" alt="requisitos-tramite" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
     <td>&nbsp;</td>
-    <td><div align="center"><a href="prestamos-rechazados.php" class="tooltip_arriba"><img src="../../images/prestamos/4_rechazados.gif" border="0" alt="rechazados" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
+    <td><div align="center"><a href="/index.php/derechohabientes/prestamos/136-derechohabientes/prestamo/221-motivos-de-rechazo-de-prestamos-personales" class="tooltip_arriba"><img src="../../images/prestamos/4_rechazados.gif" border="0" alt="rechazados" width="200" height="170" style="display: block; margin-left: auto; margin-right: auto;"></a></div></td>
   </tr>
 </tbody></table>
 <p></p>

@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Préstamos</title>
+        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">

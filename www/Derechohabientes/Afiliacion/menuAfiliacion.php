@@ -20,8 +20,8 @@
 		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
         <li class="item-564"><a class="tooltip_arriba" href="trabajadores-pensionados.php">Trabajadores y Extrabajadores</a></li>
         <li class="item-565"><a class="tooltip_arriba" href="requisitos-inscripcion.php">Requisitos para la inscripción de derechohabientes</a></li>
-        <li class="item-566"><a class="ext tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" target="_blank">Mi oficina virtual</a></li>
-        <li class="item-567 ultima"><a class="tooltip_arriba" href="agenda-cita-medica.php">Agenda tu cita médica</a>
+        <li class="item-566"><a class="ext tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;">Mi oficina virtual</a></li>
+        <li class="item-567 ultima"><a class="tooltip_arriba" href="/index.php/agenda-cita-medica" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes');return false;">Agenda tu cita médica</a>
 </li>
 	</ul> <!-- FIN de <UL> MENU	-->
 

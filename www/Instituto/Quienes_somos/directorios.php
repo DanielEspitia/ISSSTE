@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Instituto</title>
+        <title>ISSSTE GUANAJUATO- Directorios</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -35,17 +35,11 @@
 	  
 	        <div id="text">        
             <div class="item-page">
- <h1>Directorios</h1>  
+  
+<img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" > <!--Imagen en Construccion-->
+      
+       
 
-        <br><br>
-     
- 
-
-        <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
-		<br><br><br>
-<div class="progress progress-striped active">
-  <div class="progress-bar" style="width: 45%"></div>
-</div>
 		</div>
 
      </div>

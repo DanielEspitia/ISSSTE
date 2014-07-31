@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO- Normatividad</title>
+        <title>ISSSTE GUANAJUATO- Afiliaci&oacute;n</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -35,24 +35,21 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Normatividad</h1>  
+  <h1>Afiliación y Vigencia de Derechos</h1>  
 
         <br><br>
-     
+       
+      
+        <h2>Orientación de Servicios y Trámites de Afiliación y Vigencia de Derechos Ante el ISSSTE</h2>
  
 
-        <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
-		<br><br><br>
-<div class="progress progress-striped active">
-  <div class="progress-bar" style="width: 45%"></div>
-</div>
 		</div>
 
      </div>
 	</div>
 	 <div class="col-md-3">
          <?php
-		 include('menuNormatividad.php');
+		 include('menuAfiliacion.php');
 		 ?>
          
          
