@@ -165,7 +165,7 @@
 		 
 
   <div id="contentRight">
-	<a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank"><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="300" height="170" class="img-thumbnail" ></a> 
+	<a href="Derechohabientes/Afiliacion/agenda-cita-medica.php" ><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="300" height="170" class="img-thumbnail" ></a> 
 	<a href="http://www.fovissste.gob.mx/" target="_blank"><img src="images/fovissste.jpg" alt="fovissste" width="300" height="170" class="img-thumbnail" ></a> 
 	<a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="images/pensionissste.jpg" alt="pensionissste" width="300" height="170" class="img-thumbnail" ></a>
     <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="images/turissste.jpg" alt="turissste" width="300" height="170" class="img-thumbnail"></a>

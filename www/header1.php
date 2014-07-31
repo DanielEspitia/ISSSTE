@@ -61,7 +61,7 @@
 			<li class="item-494 deeper parent"><a href="#" class="tooltip_arriba">Servicios en Línea</a>				
                 <ul>
  	                <li class="item-495 primera"><a href="http://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Mi Oficina Virtual</a></li>
-                   <li class="item-496"><a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank" class="ext tooltip_arriba">Agenda TU Cita Médica</a></li>
+                   <li class="item-496"><a href="Derechohabientes/Afiliacion/agenda-cita-medica.php"  class="ext tooltip_arriba">Agenda TU Cita Médica</a></li>
                    <li class="item-497"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servslinea-comppagopensionistas" class="tooltip_arriba">Comprobantes de Pago a Pensionistas</a></li>
                    <li class="item-498"><a href="http://issstenet.issste.gob.mx/cgi353/fglccgi/wa/r/menu_sp" target="_blank" class="ext tooltip_arriba">Consulta TU información</a></li>
                    <li class="item-499"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/serviciosenlinea-curp" target="_blank" class="tooltip_arriba">Consulta e imprime tu CURP</a></li>
