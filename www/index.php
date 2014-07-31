@@ -31,20 +31,20 @@
        
         ?>
         <!-- Carrusel-->
-            <!-- Start WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section -->
 	<div id="wowslider-container1">
 	<div class="ws_images"><ul>
-<li><img src="data1/images/02.jpg" alt="02" title="02" id="wows1_0"/></li>
-<li><img src="data1/images/03.jpg" alt="03" title="03" id="wows1_1"/></li>
-<li><img src="data1/images/01.jpg" alt="01" title="01" id="wows1_2"/></li>
+<li><a href="Instituto/Sala-de-Prensa/21-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_29_img_3.jpg" alt="Un ISSSTE sin rezago educativo" title="Un ISSSTE sin rezago educativo" id="wows1_0"/></a></li>
+<li><a href="Instituto/Sala-de-Prensa/19-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_28_img_1.jpg" alt="Anuncia director general del ISSSTE derrama ecónomica por más de 14 MMDP para EDOMEX" title="Anuncia director general del ISSSTE derrama ecónomica por más de 14 MMDP para EDOMEX" id="wows1_1"/></a></li>
+<li><a href="Instituto/Sala-de-Prensa/17-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_27_img_7.jpg" alt="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada" title="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada" id="wows1_2"/></a></li>
+<li><a href="Instituto/Sala-de-Prensa/16-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_26_img_5.jpg" alt="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014" title="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014" id="wows1_3"/></a></li>
 </ul></div>
 <div class="ws_bullets"><div>
-<a href="#" title="02"><img src="data1/tooltips/02.jpg" alt="02"/>1</a>
-<a href="#" title="03"><img src="data1/tooltips/03.jpg" alt="03"/>2</a>
-<a href="#" title="01"><img src="data1/tooltips/01.jpg" alt="01"/>3</a>
+<a href="#" title="Com_29_img_3"><img src="data1/tooltips/com_29_img_3.jpg" alt="Un ISSSTE sin rezago educativo"/>1</a>
+<a href="#" title="Com_28_img_1"><img src="data1/tooltips/com_28_img_1.jpg" alt="Anuncia director general del ISSSTE derramma ecónomica por más de 14 MMDP para EDOMEX"/>2</a>
+<a href="#" title="Com_27_img_7"><img src="data1/tooltips/com_27_img_7.jpg" alt="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada"/>3</a>
+<a href="#" title="Com_26_img_5"><img src="data1/tooltips/com_26_img_5.jpg" alt="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014"/>4</a>
 </div></div>
-<span class="wsl"><a href="http://wowslider.net">image slider jquery</a> by WOWSlider.com v5.5</span>
-	<div class="ws_shadow"></div>
 	</div>
 	<script type="text/javascript" src="engine1/wowslider.js"></script>
 	<script type="text/javascript" src="engine1/script.js"></script>
