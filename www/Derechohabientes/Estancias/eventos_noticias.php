@@ -35,9 +35,13 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  
+  <h1>Eventos y Noticias</h1>
+  <br>
 <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
-      
+<br><br><br>
+<div class="progress progress-striped active">
+  <div class="progress-bar" style="width: 45%"></div>
+</div>
        
       
         

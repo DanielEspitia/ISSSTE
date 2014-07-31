@@ -38,7 +38,7 @@
             	<ul>
                 	<li class="item-476 primera"><a href="../../Derechohabientes/Afiliacion/afiliacion.php" class="tooltip_arriba">Afiliación</a></li>
                     <li class="item-1498"><a href="../../Derechohabientes/Tramites/tramites.php" class="tooltip_arriba">Trámites</a></li>
-                    <li class="item-477"><a href="../../Derechohabientes/Atencion/atencion.php" target="_blank" class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
+                    <li class="item-477"><a href="../../Derechohabientes/Atencion/atencion.php"  class="ext tooltip_arriba">Atención al Derechohabiente</a></li>
 					<li class="item-478"><a href="../../Derechohabientes/Cultura/cultura.php" class="tooltip_arriba">Cultura, Deporte y Recreación</a></li>
                     <li class="item-480"><a href="../../Derechohabientes/Estancias/estancias.php" class="tooltip_arriba">Estancias Infantiles</a></li>
                     <li class="item-481"><a href="../../Derechohabientes/Pensionados/pensiones.php" class="tooltip_arriba">Pensionados</a></li>

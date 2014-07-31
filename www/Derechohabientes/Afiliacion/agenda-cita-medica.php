@@ -35,15 +35,25 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>Afiliación y Vigencia de Derechos</h1>  
+  <h1>Sistema de Cita Médica Telefónica e Internet </h1>  
 
         <br><br>
        
+	   <p align="center">
+	   <img src="../../images/afiliacion/agenda-tu-cita.jpg" width="560" height="270">
+	   </p>
+	   <br>
+	   <a href="requisitos-cita-medica.php"><button  type="button" class="btn btn-default btn-lg btn-block">Conoce los requisittos para agendar una cita médica <br> vía internet o telefónica</button></a>
       
-        <h2>Orientación de Servicios y Trámites de Afiliación y Vigencia de Derechos Ante el ISSSTE</h2>
- 
+        <br><br><br>
 
-		</div>
+	  <a href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="_blank"><button type="button" class="btn btn-default btn-lg btn-block">ACCESSO A DERECHOHABIENTES</button></a>
+	  
+	  <br><br><br>
+	  
+	 <a href="http://187.141.168.70/webclinica/comun/login.aspx" target="_blank"> <button type="button" class="btn btn-default btn-lg btn-block">ACCESO A USUARIOS ADMVOS</button></a>
+      
+       	</div>
 
      </div>
 	</div>
