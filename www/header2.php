@@ -95,15 +95,18 @@
                     <li class="item-533 ultima"><a href="../../Transparencia/Participacion/participacion-ciudadana.php" class="tooltip_arriba">Participación Ciudadana</a></li>
                     </ul></li>
                     
-			<li class="item-517 deeper parent"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">ISSSTEduca e Investiga</a>
+			<li class="item-517 deeper parent"><a href="#" class="tooltip_arriba">Aplicaciones ISSSTE</a>
             	<ul>
-            		<li class="item-518 primera"><a href="http://www2.issste.gob.mx:8080/images/downloads/derechohabientes/catalogodedescuento.pdf" target="_blank" class="tooltip_arriba">Descuentos en Colegiaturas</a></li>
-                    <li class="item-519"><a href="http://sgm.issste.gob.mx/medica/convocatorias.php" target="_blank" class="ext tooltip_arriba">Convocatorias Áreas Médicas</a></li>
-                    <li class="item-520"><a href="http://edn.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Esc. de Dietética y Nutrición</a></li>
-                    <li class="item-521"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-19-17-11/2012-11-14-19-18-30" target="_blank" class="tooltip_arriba">Formación Internacional Especializada</a></li>
-                    <li class="item-522"><a href="http://sgm.issste.gob.mx/medica/ensenanza.php" target="_blank" class="ext tooltip_arriba">Formación de Rec. Humanos en Salud</a></li>
-                    <li class="item-523"><a href="http://sgm.issste.gob.mx/medica/index.php" target="_blank" class="ext tooltip_arriba">Investigación en Áreas Médicas</a></li>
-                    <li class="item-1197 ultima"><a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-19-17-11/minvestigacion-cacym" class="tooltip_arriba">Consejo Asesor Científico y Médico del ISSSTE</a></li></ul></li>
+            		<li class="item-518 primera"><a href="#"  class="tooltip_arriba">Próximamente</a></li>
+                    <li class="item-519"><a href="#" class="ext tooltip_arriba"></a></li>
+                    <li class="item-520"><a href="#" class="ext tooltip_arriba"></a></li>
+                    <li class="item-521"><a href="#" class="tooltip_arriba"></a></li>
+                    <li class="item-522"><a href="#" class="ext tooltip_arriba"></a></li>
+                    <li class="item-523"><a href="#" class="ext tooltip_arriba"></a></li>
+                    <li class="item-1197 ultima"><a href="#" class="tooltip_arriba"></a></li>
+					</ul>
+			</li>
+			
 				<li class="item-534 deeper parent ultima"><a href="#" class="tooltip_arriba">Contáctanos</a>
                     <ul>
                     <li class="item-535 primera"><a href="../../Contactanos/Comentarios/comentarios-sugerencias.php" target="_blank" class="tooltip_arriba">Comentarios y Sugerencias</a></li>
