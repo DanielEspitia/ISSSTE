@@ -111,13 +111,13 @@
 
 	<br>
 
-<p align="left"><a href="http://portaltransparencia.gob.mx/buscador/search/search.do?method=begin" target="_blank" class="ext tooltip_arriba"><img src="images/portal-transparencia.jpg" class="img-thumbnail" border="0" title="Pulsa aquí para conocer la información que publica el ISSSTE (contratos, directorios, sueldos, etc.). Los servidores públicos responsables de la información publicada en el Portal de Obligaciones de Transparencia, certifican la veracidad de la misma." alt="Banner con liga al POT" width="260px"></a></p>
+<p align="left"><a href="http://portaltransparencia.gob.mx/buscador/search/search.do?method=begin" target="_blank" class="ext tooltip_arriba"><img src="images/portal-transparencia.jpg" class="img-thumbnail" border="0" title="Pulsa aquí para conocer la información que publica el ISSSTE (contratos, directorios, sueldos, etc.). Los servidores públicos responsables de la información publicada en el Portal de Obligaciones de Transparencia, certifican la veracidad de la misma." alt="Banner con liga al POT" width="270px"></a></p>
 
 
-<p align="left"><a href="https://www.infomex.org.mx/gobiernofederal/home.action" target="_blank" class="tooltip_arriba"><img src="images/banner_infomex.png" class="img-thumbnail" border="0" title="Acceso al Sistema Infomex" alt="Banner con liga al sistema INFOMEX" width="260px"></a></p>
+<p align="left"><a href="https://www.infomex.org.mx/gobiernofederal/home.action" target="_blank" class="tooltip_arriba"><img src="images/banner_infomex.png" class="img-thumbnail" border="0" title="Acceso al Sistema Infomex" alt="Banner con liga al sistema INFOMEX" width="270px" ></a></p>
 
 
-<p align="left"><a href="http://inicio.ifai.org.mx/_catalogs/masterpage/ifai.aspx" target="_blank" class="ext tooltip_arriba"><img src="images/banner_ifai.png" class="img-thumbnail" border="0" title="Instituto Federal de Acceso a la Información y Protección de Datos" alt="Banner con liga al sitio del Instituto Federal de Acceso a la Información y Protección de Datos" width="260px" align="left"></a></p>
+<p align="left"><a href="http://inicio.ifai.org.mx/_catalogs/masterpage/ifai.aspx" target="_blank" class="ext tooltip_arriba"><img src="images/banner_ifai.png" class="img-thumbnail" border="0" title="Instituto Federal de Acceso a la Información y Protección de Datos" alt="Banner con liga al sitio del Instituto Federal de Acceso a la Información y Protección de Datos" width="270px" ></a></p>
 
 	</div>
 	
@@ -172,24 +172,17 @@
 	
 	<!--fin noticias-->
 		
-		<div class="col-md-2">
-		<div id="contentRight01">
-		 
-
-  <div id="contentRight">
-	<a href="Derechohabientes/Afiliacion/agenda-cita-medica.php" ><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="300" height="170" class="img-thumbnail" ></a> 
-	<a href="http://www.fovissste.gob.mx/" target="_blank"><img src="images/fovissste.jpg" alt="fovissste" width="300" height="170" class="img-thumbnail" ></a> 
-	<a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="images/pensionissste.jpg" alt="pensionissste" width="300" height="170" class="img-thumbnail" ></a>
-    <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="images/turissste.jpg" alt="turissste" width="300" height="170" class="img-thumbnail"></a>
-	<a href="http://www.superissste.gob.mx/" target="_blank"><img src="images/superissste.jpg" alt="superissste" width="300" height="170" class="img-thumbnail"></a> 	
-	<a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servs-serica" target="_blank"><img src="images/logoserica.jpg" alt="serica" width="300" height="170" class="img-thumbnail"></a> 	
-</div>
-
-		</div>
-    
-		</div>
+<div class="col-md-2">
 		
-		<div class="col-md-2"></div> 
+	<a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank"><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="280" height="80" class="img-rounded" ></a> <br><br>
+	<a href="http://www.fovissste.gob.mx/" target="_blank"><img src="images/fovissste.jpg" alt="fovissste" width="280" height="80"  class="img-rounded"></a> <br><br>
+	<a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="images/pensionissste.jpg" alt="pensionissste" width="280" height="80" class="img-rounded" ></a> <br><br>
+    <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="images/turissste.jpg" alt="turissste" width="280" height="80" class="img-rounded"></a> <br><br>
+	<a href="http://www.superissste.gob.mx/" target="_blank"><img src="images/superissste.jpg" alt="superissste" width="280" height="80" class="img-rounded"></a> <br><br>
+	<a href="http://www2.issste.gob.mx:8080/index.php/2012-11-14-18-49-30/servs-serica" target="_blank"><img src="images/logoserica.jpg" alt="serica" width="280" height="80" class="img-rounded"></a> 	
+
+</div>
+		<div class="col-md-2"></div>
 		
 		</div><!-- Cierre row -->
 		</div><!-- Cierre Contenedor -->
