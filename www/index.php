@@ -142,13 +142,13 @@
 </table>
 </div>
 <div class="info" >
-<p align="center"><a href="/images/redirect/convocatoriasmedicas.html" target="_blank" class="tooltip_arriba"><img src="images/ingreso-residencias-medicas.jpg" border="0" alt="Ingreso a Residencias Médicas" width="350" height="75" ></a></p>
+<p align="center"><a href="http://sgm.issste.gob.mx/medica/convocatorias.php" target="_blank" class="tooltip_arriba"><img src="images/ingreso-residencias-medicas.jpg" border="0" alt="Ingreso a Residencias Médicas" width="350" height="75" ></a></p>
 </div>
 <div class="info">
-<div align="center"><a href="/images/redirect/pensionissste.html" target="_blank" class="tooltip_arriba"><img src="images/estado-de-cuenta-SAR.jpg" border="0" alt="Donde consultar el estado de cuenta del SAR" width="350" height="75" ></a></div>
+<div align="center"><a href="http://www.pensionissste.gob.mx/" target="_blank" class="tooltip_arriba"><img src="images/estado-de-cuenta-SAR.jpg" border="0" alt="Donde consultar el estado de cuenta del SAR" width="350" height="75" ></a></div>
 </div>
 <div class="info">
-<p align="center"><a href="/images/redirect/directorioebdis.html" target="_blank" class="tooltip_arriba"><img src="images/directorio-estancias-infantiles.jpg" border="0" alt="Directorio de Estancias Infantiles" width="350" height="75" ></a></p>
+<p align="center"><a href="http://ebdis.issste.gob.mx/pubconsEBDI.asp" target="_blank" class="tooltip_arriba"><img src="images/directorio-estancias-infantiles.jpg" border="0" alt="Directorio de Estancias Infantiles" width="350" height="75" ></a></p>
 </div></div>
 		<!--</div>-->
 	
