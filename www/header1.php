@@ -108,7 +108,7 @@
 					
 				<li class="item-534 deeper parent ultima"><a href="menuTop/Ubicanos/map.php" class="tooltip_arriba">Contáctanos</a>
                     <ul>
-                    <li class="item-535 primera"><a href="Contactanos/Comentarios/comentarios-sugerencias.php" target="_blank" class="tooltip_arriba">Comentarios y Sugerencias</a></li>
+                    <li class="item-535 primera"><a href="Contactanos/Comentarios/comentarios-sugerencias.php"  class="tooltip_arriba">Comentarios y Sugerencias</a></li>
 					<li class="item-536"><a href="Contactanos/Directorios/directorios-institucionales.php" class="tooltip_arriba">Directorios Institucionales</a></li>
                     <li class="item-537"><a href="Contactanos/ISSSTE-Tel/issste-tel.php" class="tooltip_arriba">ISSSTE-Tel | Orientación e Información</a></li>
                     <li class="item-538"><a href="#" class="ext tooltip_arriba">ISSSTE-Emergencias | Atención Médica Prehospitalaria</a></li>
