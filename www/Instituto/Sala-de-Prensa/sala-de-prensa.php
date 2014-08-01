@@ -23,7 +23,6 @@
 		
         <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="../../css/contenedores.css">
-        <link rel="stylesheet" href="../../menu/styles.css">
 	</head>
 
 	<body>
@@ -40,7 +39,6 @@
 
 		<h1>
 		Sala de Prensa	</h1>
-	
 		<h2>
 							<span class="subheading-category">Comunicados 2014</span>
 			</h2>
@@ -52,10 +50,11 @@
 <form action="sala-de-prensa.php" method="post" name="adminForm" id="adminForm">
 		<fieldset class="filters">
 		
-				<div class="display-limit">
-			Mostrar #&nbsp;
-			<select id="limit" name="limit" class="inputbox" size="1" onchange="this.form.submit()">
-	<option value="5">5</option>
+				<div style="width:150px;">
+			<h3>Mostrar #&nbsp;</h3>
+ 
+        <select class="form-control" id="limit" name="limit" size="1" onchange="this.form.submit()">
+ <option value="5">5</option>
 	<option value="10">10</option>
 	<option value="15">15</option>
 	<option value="20">20</option>
@@ -66,86 +65,47 @@
 	<option value="0" selected="selected">Todas</option>
 </select>
 		</div>
+       
+        
+        
 		
 	<!-- @TODO add hidden inputs -->
 		<input name="filter_order" value="" type="hidden">
 		<input name="filter_order_Dir" value="" type="hidden">
 		<input name="limitstart" value="" type="hidden">
 	</fieldset>
-	
-	<table class="category">
-				<thead>
-			<tr class="alt primera ultima">
-				<th class="list-title" id="tableOrdering">
-					<a class="tooltip_arriba" href="#" onclick="Joomla.tableOrdering('a.title','asc','');" title="Haga clic para ordenar en esta columna.">Título</a>				</th>
-
-								<th class="list-date" id="tableOrdering2">
-											<a class="tooltip_arriba" href="#" onclick="Joomla.tableOrdering('a.created','asc','');" title="Haga clic para ordenar en esta columna.">Fecha de creación</a>									</th>
-				
-				
-							</tr>
-		</thead>
-		
-		<tbody>
-
-									<tr class="cat-list-row0 primera">
-							
-					<td class="list-title">
-						<a class="tooltip_arriba" href="21-07-2014 comsocial.php">
-							UN ISSSTE SIN REZAGO EDUCATIVO </a>
-
-											</td>
-
-										<td class="list-date">
-						21 Julio 2014					</td>
-					
-					
-					
-								</tr>
-									<tr class="cat-list-row1 alt">
-							
-					<td class="list-title">
-						<a class="tooltip_arriba" href="19-07-2014 comsocial.php">
-							ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a>
-
-											</td>
-
-										<td class="list-date">
-						19 Julio 2014					</td>
-					
-					
-					
-								</tr>
-									<tr class="cat-list-row0">
-							
-					<td class="list-title">
-						<a class="tooltip_arriba" href="17-07-2014 comsocial.php">
-							MÁS DE 1773 MDP PARA CRÉDITOS DE VIVIENDA A DERECHOHABIENTES EN VERACRUZ: LERDO DE TEJADA  </a>
-
-											</td>
-
-										<td class="list-date">
-						17 Julio 2014					</td>
-					
-					
-					
-								</tr>
-									<tr class="cat-list-row1 alt">
-							
-					<td class="list-title">
-						<a class="tooltip_arriba" href="16-07-2014 comsocial.php">
-							PARA VERACRUZ, EL ISSSTE DESTINA MÁS DE NUEVE MIL 400 MILLONES DE PESOS EN 2014</a>
-
-											</td>
-
-										<td class="list-date">
-						16 Julio 2014					</td>
-					
-					
-					
-								</tr>									
-				</tbody>
-	</table>
+	 <br><br>
+<table class="table table-striped table-hover ">
+  <thead>
+    <tr>
+      <th><a class="tooltip_arriba" href="#" onclick="Joomla.tableOrdering('a.title','asc','');" title="Haga clic para ordenar en esta columna.">Título</a>	</th>
+      <th><a class="tooltip_arriba" href="#" onclick="Joomla.tableOrdering('a.created','asc','');" title="Haga clic para ordenar en esta columna.">Fecha de creación</a>		</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><a class="tooltip_arriba" href="19-07-2014 comsocial.php">
+							UN ISSSTE SIN REZAGO EDUCATIVO </a></th>
+      <th>21 Julio 2014	</th>
+    </tr>
+    <tr>
+      <th><a class="tooltip_arriba" href="19-07-2014 comsocial.php">
+							ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a></th>
+      <th>19 Julio 2014</th>
+    </tr>
+    <tr>
+      <th><a class="tooltip_arriba" href="17-07-2014 comsocial.php">
+							MÁS DE 1773 MDP PARA CRÉDITOS DE VIVIENDA A DERECHOHABIENTES EN VERACRUZ: LERDO DE TEJADA  </a></th>
+      <th>17 Julio 2014</th>
+    </tr>
+    <tr>
+      <th><a class="tooltip_arriba" href="16-07-2014 comsocial.php">
+							PARA VERACRUZ, EL ISSSTE DESTINA MÁS DE NUEVE MIL 400 MILLONES DE PESOS EN 2014</a></th>
+      <th>16 Julio 2014</th>
+    </tr>
+   
+  </tbody>
+</table> 
 
 
 	</form>
