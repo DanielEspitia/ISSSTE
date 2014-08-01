@@ -65,30 +65,42 @@
 
 
 
-
+<!-- ********************************************************************** -->
 <div class="allmode_itemsbox">
+<table width="260" height="280"  border="0">
+<tr class="alt primera ultima" >
 
-	<div class="allmode_item">
+<td width="80" >
 
-				<div class="allmode_img"><a href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018" class="tooltip_arriba"><img src="images/tb.jpg" width="80" height="60" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt=""></a></div>
+				<a href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018" class="tooltip_arriba">
+				<img src="images/tb.jpg" width="95" height="75" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" class="img-thumbnail"></a>
+</td>
 		
-		
+	<td width="110">
 				<h4 class="allmode_title"><a href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018" class="tooltip_arriba">UN ISSSTE SIN REZAGO EDUCATIVO </a></h4>
+	</td>
 		
 		
-		
-	</div>
 
-	<div class="allmode_item">
+	</tr>
+	
 
-				<div class="allmode_img"><a href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018" class="tooltip_arriba"><img src="images/n2.jpg" width="80" height="60" title="ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX" alt=""></a></div>
-		
-		
+<tr class="alt primera ultima">
+
+<td width="80" >	
+
+				<div class="allmode_img"><a href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018" class="tooltip_arriba">
+				<img src="images/n2.jpg" width="95" height="75" title="ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX" alt="" class="img-thumbnail" ></a></div>
+</td>	
+		<td width="110">
 				<h4 class="allmode_title"><a href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018" class="tooltip_arriba">ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a></h4>
-		
+		</td>
 
-	</div>
+</tr>
+
+</table>
 </div>
+<!-- ********************************************************************** -->
 <br>
 <div class="allmode_showall"><a href="/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Ver más comunicados</a></div></div>		
 </div>
