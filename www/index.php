@@ -72,12 +72,12 @@
 
 <td width="80" >
 
-				<a href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018" class="tooltip_arriba">
+				<a href="Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php" class="tooltip_arriba">
 				<img src="images/tb.jpg" width="95" height="75" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" class="img-thumbnail"></a>
 </td>
 		
 	<td width="110">
-				<h4 class="allmode_title"><a href="/index.php/instituto/comunicacion-social-salaprensa/2130-comsocial-comunicados-com0029-2018" class="tooltip_arriba">UN ISSSTE SIN REZAGO EDUCATIVO </a></h4>
+				<h4 class="allmode_title"><a href="Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php" class="tooltip_arriba">UN ISSSTE SIN REZAGO EDUCATIVO </a></h4>
 	</td>
 		
 		
@@ -89,11 +89,11 @@
 
 <td width="80" >	
 
-				<div class="allmode_img"><a href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018" class="tooltip_arriba">
+				<div class="allmode_img"><a href="Instituto/Sala-de-Prensa/19-07-2014%20comsocial.php" class="tooltip_arriba">
 				<img src="images/n2.jpg" width="95" height="75" title="ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX" alt="" class="img-thumbnail" ></a></div>
 </td>	
 		<td width="110">
-				<h4 class="allmode_title"><a href="/index.php/instituto/comunicacion-social-salaprensa/2128-comsocial-comunicados-com0028-2018" class="tooltip_arriba">ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a></h4>
+				<h4 class="allmode_title"><a href="Instituto/Sala-de-Prensa/19-07-2014%20comsocial.php" class="tooltip_arriba">ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a></h4>
 		</td>
 
 </tr>
@@ -174,7 +174,7 @@
 		
 <div class="col-md-2">
 		
-	<a href="http://www2.issste.gob.mx:8080/index.php/agenda-cita-medica" target="_blank"><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="280" height="80" class="img-rounded" ></a> <br><br>
+	<a href="Derechohabientes/Afiliacion/agenda-cita-medica.php"><img src="images/agenda-cita.jpg" alt="agenda tu cita" width="280" height="80" class="img-rounded" ></a> <br><br>
 	<a href="http://www.fovissste.gob.mx/" target="_blank"><img src="images/fovissste.jpg" alt="fovissste" width="280" height="80"  class="img-rounded"></a> <br><br>
 	<a href="http://www.pensionissste.gob.mx/" target="_blank"><img src="images/pensionissste.jpg" alt="pensionissste" width="280" height="80" class="img-rounded" ></a> <br><br>
     <a href="http://www2.issste.gob.mx:8080/index.php/turissste" target="_blank"><img src="images/turissste.jpg" alt="turissste" width="280" height="80" class="img-rounded"></a> <br><br>
