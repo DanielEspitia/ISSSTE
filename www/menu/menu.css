@@ -265,12 +265,14 @@ li.item-534 ul{
 #menuRight .menu a {
 	
   display: block;
+  
+  color:#900;
 	
   height:33px;
 	
   line-height: 14px;
 	
-  padding-left: 20px;
+  padding-left: 16px;
 	
   padding-top:7px;
 	

@@ -56,7 +56,7 @@ Estamos comprometidos en esta lucha y para ello fortaleceremos los mecanismos or
 
 <p>Requerimos, sin embargo, de la participación de ustedes para hacernos llegar comentarios, sugerencias, quejas y denuncias específicas, que nos permitan avanzar en este proceso de combatir las prácticas irregulares como el cohecho. Pongo a su disposición para ser atendidos en forma personal por el suscrito, el correo electrónico: <a href="mailto:sebastian.lerdodetejada@issste.gob.mx" class="tooltip_arriba">sebastian.lerdodetejada@issste.gob.mx</a> con la seguridad de que en cada caso procederemos en consecuencia.</p>
 
-<p>Seguros de que debemos pasar de la parte conceptual a la instrumental, acompañamos un <a href="/index.php/compromisos-issste-provedores" target="_blank" class="tooltip_arriba">decálogo de compromisos</a> que queremos hacer explícitos ante ustedes, para disponer del punto de partida básico y efectuar los señalamientos respectivos.</p>
+<p>Seguros de que debemos pasar de la parte conceptual a la instrumental, acompañamos un <a href="compromisos-issste-proveedores.php" class="tooltip_arriba">decálogo de compromisos</a> que queremos hacer explícitos ante ustedes, para disponer del punto de partida básico y efectuar los señalamientos respectivos.</p>
 
 <p>Finalmente, reiterar que el ISSSTE se encuentra en un proceso de transformación que pretendemos arraigar en la práctica cotidiana, para el cual, a manera de información, acompañamos un breve texto elaborado por la Secretaría de la Función Pública, que aporta mayores precisiones y posibilidades de acceso a la página Web correspondiente.
 Reciba nuestra consideración, nuestro reconocimiento y aprecio.</p>

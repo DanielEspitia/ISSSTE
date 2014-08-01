@@ -23,7 +23,6 @@
 		
         <link rel="stylesheet" href="../../css/format.css">
         <link rel="stylesheet" href="../../css/contenedores.css">
-        <link rel="stylesheet" href="../../menu/styles.css">
 	</head>
 
 	<body>
@@ -53,10 +52,10 @@ Estimado Pensionado: Nos satisface informarle que hemos transformado  el pase de
  ahora el registro de la supervivencia la realizará el personal del ISSSTE, a través de diversas modalidades como son:
 </p>
 <blockquote>
-  <p><br>
-    o    Visitas domiciliarias aleatorias<br>
+  <ul type="disc">
+<li>  Visitas domiciliarias aleatorias</li>
 <br>
-  o    A través de la validación de la CURP de los pensionados con la base de datos del Registro Nacional de Población (RENAPO).</p>
+<li>    A través de la validación de la CURP de los pensionados con la base de datos del Registro Nacional de Población (RENAPO).</li>
 </blockquote>
 <p><br>
   <br>

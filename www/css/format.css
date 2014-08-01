@@ -395,3 +395,14 @@ line-height: 20px;
 
 }
 
+
+a:link    {
+	color:#C30;
+}
+
+
+
+a:hover
+{ 
+color:#900;
+}  

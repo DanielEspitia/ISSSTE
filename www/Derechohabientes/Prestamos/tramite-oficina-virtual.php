@@ -61,10 +61,10 @@
        
        <p>&nbsp;<img src="../../images/prestamos/ov1.jpg" border="0" alt="oficina-virtual1" width="440" height="280" style="display: block; margin-left: auto; margin-right: auto;"><img src="../../images/prestamos/ov2.jpg" border="0" alt="oficina-virtual2" width="440" height="280" style="display: block; margin-left: auto; margin-right: auto;"><img src="../../images/prestamos/ov3.jpg" border="0" alt="oficina-virtual3" width="440" height="280" style="display: block; margin-left: auto; margin-right: auto;"><img src="../../images/prestamos/ov4.jpg" border="0" alt="oficina-virtual4" width="440" height="280" style="display: block; margin-left: auto; margin-right: auto;"></p>
         
- 
 		<ul class="breadcrumb">
-  <li class="active"><a class=ext tooltip_arriba" target="_blank" href="http://oficinavirtual.issste.gob.mx">Ir a Oficina Virtual</a></li>
+  <li class="active"><a class="tooltip_arriba" target="_blank" href="http://oficinavirtual.issste.gob.mx">Ir a Oficina Virtual</a></li>
 </ul>
+
 		</div>
 
 

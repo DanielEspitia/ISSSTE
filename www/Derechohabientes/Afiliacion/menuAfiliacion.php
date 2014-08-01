@@ -17,7 +17,7 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
+		<li class="item-563 primera"><a href="afiliacion.php">Afiliación y Vigencia de derechos</a></li>
         <li class="item-564"><a class="tooltip_arriba" href="trabajadores-pensionados.php">Trabajadores y Extrabajadores</a></li>
         <li class="item-565"><a class="tooltip_arriba" href="requisitos-inscripcion.php">Requisitos para la inscripción de derechohabientes</a></li>
         <li class="item-566"><a class="ext tooltip_arriba" href="https://oficinavirtual.issste.gob.mx/" target="_blank">Mi oficina virtual</a></li>
