@@ -1,0 +1,44 @@
+1.- CONMUTADOR
+   * Descripción del Proceso(Para que sirve)
+   * Dispositivos que se usan y sus caracteristicas
+   * Software que se utiliza
+   * Directoio Telefonico: numeros que maneja
+   * Contacto de Soporte a Mexico
+   * Problemas de comunicacion que han surgido 
+   * Solucion a esos problemas
+   * Datos a tener en cuenta para:
+     - Cambio de nombre de usuario
+     - Asignacion de privilegios en telefonia
+     - Asignar o cambiar claves telefónicas
+     - Reubicacion o cambio de enlaces(ej: cambio de num. de extension)
+
+2.- DISTRIBUCION DE RED
+   * Descripcion general de la distribución
+   * Croquis de segmentos de red
+   * Dispositivos utilizados en la red y caracteristicas(routers, switches,etc)
+   * Distribucion de las direcciones ip
+   * Contacto de Soporte a Mexico
+   * Problemas de Virus reportados por Mexico
+   * Soluciones aplicables a esos problemas
+
+3.- FIREWALL
+   * Cuantos firewall existen en el issste
+   * Caracteristicas de  cada firewall
+   * Que software se Utiliza
+   * Bloqueos de ip(rango de direcciones ip bloqueados o direccion ip especifica )
+   * Bloqueo de paginas web(que paginas especificas se bloquean)
+   * Que puertos estan habilitados y bloqueados
+   * Usuarios y contraseñas cargados en el firewall
+   * Problemas que ha presentado el firewall
+   * cual fue o es la solucion a esos problemas
+
+4.- SERVIDORES
+   * Caracteristicas (Que sistema operativo tienen)
+   * Para que se utilizan los servidores, que aplicaciones o softwares tiene cargados.
+   * Usuarios y Contraseñas cargados en los servidores
+   * Proceso para levantar los servicios(que se debe hacer)
+   * proceso para cerrar el servicio, cerrar el sistema(que se debe hacer)
+   * Cuanto tiempo duran los servicios
+   * Que problemas que han tenido los servidores
+   * Que decisiones se han tomado para solucionar algun problema con los servidores
+
