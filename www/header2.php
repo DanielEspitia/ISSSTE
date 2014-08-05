@@ -68,7 +68,7 @@
                    <li class="item-500"><a href="#" class="tooltip_arriba">Pago de Cuotas y Aportaciones</a></li>
                    <li class="item-501"><a href="https://oficinavirtual.issste.gob.mx/" target="_blank" class="ext tooltip_arriba">Trámite de Préstamos Personales</a></li>
                    <li class="item-502"><a href="http://www.silodisa.com/ConteoPorUMU.aspx" target="_blank" class="ext tooltip_arriba">Inventario Medicamentos y Mat. de Curación</a></li>
-                   <li class="item-503"><a href="http://www2.issste.gob.mx:8080/index.php#" class="tooltip_arriba">Ventanilla Electrónica de Servicios</a></li>
+                   <li class="item-503"><a href="http://www2.issste.gob.mx:8080/index.php#" target="_blank" class="tooltip_arriba">Ventanilla Electrónica de Servicios</a></li>
                    <li class="item-504 ultima"><a href="#" class="tooltip_arriba">Ver más servicios</a></li></ul></li>
             <li class="item-505 deeper parent"><a href="#" class="tooltip_arriba">Instituto</a>
             	<ul>
