@@ -3,7 +3,11 @@
    * Dispositivos que se usan y sus caracteristicas
    * Software que se utiliza
    * Directoio Telefonico: numeros que maneja
-   * Contacto de Soporte a Mexico
+   * Contacto de Soporte a Mexico (18018)
+       - ¿De Donde es la Extensión? ¿Qué oficina?
+       - Persona que Atiende (En caso de ser un departamento especifico)
+       - Datos previos que se tienen que tener al hablar a México
+       
    * Problemas de comunicacion que han surgido 
    * Solucion a esos problemas
    * Datos a tener en cuenta para:
