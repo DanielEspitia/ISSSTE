@@ -50,7 +50,7 @@
     <blockquote>
        <ul type="disc">
          <li><strong>Vía Telefónica:</strong> Lada sin costo 01 -800-20-00-128 </li>
-         <li><strong>Vía Internet: </strong><a style="color:#F00;" href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="_blank" class="ext tooltip_arriba"> http://187.141.168.70:8080/issste/comun/Home.aspx </a></li>
+         <li><strong>Vía Internet: </strong><a href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="_blank" class="ext tooltip_arriba"> http://187.141.168.70:8080/issste/comun/Home.aspx </a></li>
       
        </ul>
     </blockquote>
@@ -102,7 +102,7 @@
     <p><strong>Vía Internet: </strong></p>
     <blockquote>
        <ol type="1">
-  <li>Ingresar a la página <a style="color:#F00" href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="blank" class="ext tooltip_arriba">http://187.141.168.70:8080/issste/comun/Home.aspx </a> </li>
+  <li>Ingresar a la página <a href="http://187.141.168.70:8080/issste/comun/Home.aspx" target="blank" class="ext tooltip_arriba">http://187.141.168.70:8080/issste/comun/Home.aspx </a> </li>
   <li> Proporcionar el RFC o CURP y Nombre completo del trabajador, pensionado o jubilado. </li>
   <li>Seleccionar en la agenda que aparece en la pantalla, el horario y día de atención. </li>
   <li>El sistema le proporciona una clave de cita. </li>

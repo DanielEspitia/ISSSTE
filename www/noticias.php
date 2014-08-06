@@ -43,7 +43,7 @@
 		
 	</div>
 </div>
-<div class="allmode_showall"><a class="tooltip_arriba" href="/index.php/instituto/comunicacion-social-salaprensa">Ver más comunicados</a></div></div>		</div>
+<div class="allmode_showall"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/sala-de-prensa.php">Ver más comunicados</a></div></div>		</div>
 	
            </div>
                          
