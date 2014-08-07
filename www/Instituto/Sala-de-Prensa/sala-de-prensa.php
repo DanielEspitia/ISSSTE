@@ -83,6 +83,11 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <th><a class="tooltip_arriba" href="05-08-2014 comsocial.php">
+							EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE </a></th>
+      <th>05 Agosto 2014 </th>
+    </tr>
     <tr>
       <th><a class="tooltip_arriba" href="19-07-2014 comsocial.php">
 							UN ISSSTE SIN REZAGO EDUCATIVO </a></th>
