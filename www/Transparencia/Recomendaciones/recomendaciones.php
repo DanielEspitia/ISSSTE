@@ -37,35 +37,32 @@
             <div class="item-page">
   <h1>Recomendaciones emitidas por la CNDH, INMUJERES Y CONAPRED</h1>  
 
-        <br><br>
-     
+ <br><br>
  
+ <p>Recomendaciones que en materia de Derechos Humanos, No Discriminación y Equidad y Género ha recibido el ISSSTE </p>
 
-        <img  src="../../images/enconstruccion.png" border="" alt="Pagina en Construccion" >
-		<br><br><br>
-<div class="progress progress-striped active">
-  <div class="progress-bar" style="width: 45%"></div>
+<br>
+<a href="http://www2.issste.gob.mx:8080/images/downloads/transparencia/recomendaciones-al-issste/recomendaciones_cndh_2013.pdf" target="_blank"><img src="../../images/transparencia/recomendaciones.jpg" alt="Recomendaciones que en materia de Derechos Humanos, No Discriminación y Equidad y Género ha recibido el ISSSTE" border="0" height="400" width="560"></a>
+ </div>
+
+ </div>
+ </div>
+ <div class="col-md-3">
+ <?php
+ include('../Normatividad/menuNormatividad.php');
+ ?>
+
+
+ </div>
 </div>
-		</div>
 
-     </div>
-	</div>
-	 <div class="col-md-3">
-         <?php
-		 include('menuRecomendaciones.php');
-		 ?>
-         
-         
-         </div>
-</div>
-	  
-	  
-	  
 
-	   
-      <?php
-         include('../../footer2.php');
-       
-        ?>	
+
+
+
+ <?php
+ include('../../footer2.php');
+
+ ?>
 </body>
 </html>

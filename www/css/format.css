@@ -406,3 +406,7 @@ a:hover
 { 
 color:#900;
 }  
+
+a:visited{
+	color:#903;
+}

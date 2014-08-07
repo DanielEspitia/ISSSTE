@@ -17,11 +17,14 @@
          <div id="menuRight">
                   
 	<ul class="menu">
-		<li class="item-563 primera"><a class="tooltip_arriba" href=""></a></li>
-        <li class="item-564"><a class="tooltip_arriba" href=""></a></li>
-        <li class="item-566"><a class="ext tooltip_arriba" href=""></a></li>
-        <li class="item-567 ultima"><a class="tooltip_arriba" href=""></a>
-</li>
+		<li class="item-563 primera"><a class="tooltip_arriba" href="../Normatividad/normatividad.php">Normatividad</a></li>
+        <li class="item-564"><a class="tooltip_arriba" href="../ComiteInformacion/comite-informacion.php">Comité de Información</a></li>
+		<li class="item-564"><a class="tooltip_arriba" href="../TransparenciaFocalizada/transparencia-focalizada.php">Transparencia Focalizada</a></li>
+		<li class="item-564"><a class="tooltip_arriba" href="../IndicadoresProgramas/indicadores-programas.php">Indicadores de Programas Presupuestarios</a></li>
+		<li class="item-564"><a class="tooltip_arriba" href="../Recomendaciones/recomendaciones.php">Recomendaciones emitidas por la CNDH, INMUJERES y CONAPRED</a></li>
+		<li class="item-564"><a class="tooltip_arriba" href="">Estudios y Opiniones</a></li>
+        <li class="item-566"><a class="ext tooltip_arriba" href="../RendicionCuentas/rendicion-cuentas.php">Rendición de Cuentas</a></li>
+        <li class="item-567 ultima"><a class="tooltip_arriba" href="../Participacion/participacion-ciudadana.php">Participación Ciudadana</a></li>
 	</ul> <!-- FIN de <UL> MENU	-->
 
            </div>
