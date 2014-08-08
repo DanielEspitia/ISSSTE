@@ -23,7 +23,7 @@
 
 <div class="allmode_item">
 
-				<div class="allmode_img"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php"><img src="../../images/Com_1.jpg" title="EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE" alt="" height="60" width="80"></a></div>
+				<div class="allmode_img"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php"><img src="/images/Com_1.jpg" title="EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE" alt="" height="60" width="80"></a></div>
 		
 		
 				<h4 class="allmode_title"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php">EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE</a></h4>
@@ -34,7 +34,7 @@
 
 	<div class="allmode_item">
 
-				<div class="allmode_img"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php"><img src="../../images/tb.jpg" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" height="60" width="80"></a></div>
+				<div class="allmode_img"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php"><img src="/images/tb.jpg" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" height="60" width="80"></a></div>
 		
 		
 				<h4 class="allmode_title"><a class="tooltip_arriba" href="../../Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php">UN ISSSTE SIN REZAGO EDUCATIVO</a></h4>

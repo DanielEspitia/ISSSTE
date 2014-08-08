@@ -21,7 +21,7 @@
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		<link rel="stylesheet" href="css/format.css">
         <link rel="stylesheet" href="css/contenedores.css">
-
+        <link rel="stylesheet" href="menu/styles.css">
       	<link rel="stylesheet" type="text/css" href="engine1/style.css" />	<!--	css de wow slider	-->
 		<script type="text/javascript" src="engine1/jquery.js"></script>	<!--	css de wow slider	-->            
     </head>
@@ -66,10 +66,25 @@
 					<div class="allmode_box allmode-default News">
 
 
-
 <!-- ********************************************************************** -->
 <div class="allmode_itemsbox">
 <table width="260" height="280"  border="0">
+<tr class="alt primera ultima" >
+
+<td width="80" >
+
+				<a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">
+				<img src="images/photos/Comunicados2014/05-08-14/Com_1.jpg" width="95" height="75" title="EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE " alt="" class="img-thumbnail"></a>
+</td>
+		
+	<td width="110">
+				<h4 class="allmode_title"><a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE</a></h4>
+	</td>
+		
+		
+
+	</tr>	<!--	Noticia más reciente (última)	-->
+
 <tr class="alt primera ultima" >
 
 <td width="80" >
@@ -86,20 +101,6 @@
 
 	</tr>
 	
-
-<tr class="alt primera ultima">
-
-<td width="80" >	
-
-				<div class="allmode_img"><a href="Instituto/Sala-de-Prensa/19-07-2014%20comsocial.php" class="tooltip_arriba">
-				<img src="images/n2.jpg" width="95" height="75" title="ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX" alt="" class="img-thumbnail" ></a></div>
-</td>	
-		<td width="110">
-				<h4 class="allmode_title"><a href="Instituto/Sala-de-Prensa/19-07-2014%20comsocial.php" class="tooltip_arriba">ANUNCIA DIRECTOR GENERAL DEL ISSSTE DERRAMA ECONÓMICA POR MÁS DE 14 MMDP PARA EDOMEX</a></h4>
-		</td>
-
-</tr>
-
 </table>
 </div>
 <!-- ********************************************************************** -->
