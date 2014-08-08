@@ -42,12 +42,7 @@
  <p>En este espacio encontrarás información de calidad, oportuna y accesible que puede ser de utilidad en tu vida cotidiana.</p>
 <br>
 <table class="table table-striped table-hover ">
-    <tr class="active">
-  <thead bgcolor="#000000">
-    <tr>
-      <th colspan="2"></th>
-    </tr>
-  </thead>
+  
   <tbody>
     <tr>
       <td><img src="../../images/transparencia/transparencia_proactiva.jpg"/></td>
@@ -72,10 +67,6 @@
          <tr>
       <td><img src="../../images/transparencia/Compr_pag_pen.jpg"/></td>
       <td><a href="http://www2.issste.gob.mx:8080/images/downloads/servicios-en-linea/issstenet/impresioncomprobantes.pdf" target="_blank"><b>Guía para imprimir comprobantes de pago de pensión</b></a></td>
-    </tr>
-  <tr>
-      <td><img src="../../images/transparencia/yaoissste.jpg"/></td>
-      <td><a href=""><b>Programa de Radio YA OISSSTE</b></a></td>
     </tr>
 
   </tbody>

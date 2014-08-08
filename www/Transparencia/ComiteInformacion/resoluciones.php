@@ -39,26 +39,71 @@
 
  <br><br>
 
- <blockquote>
-<ul>
- <li><a style="font-size:20px" href="http://inicio.ifai.org.mx/_catalogs/masterpage/Criterios-emitidos-por-el-IFAI.aspx" target="_blank" class="tooltip_arriba">Criterios</a></li>
-</ul>
-</blockquote>
-<p>El Comité de información del ISSSTE se apega a los criterios emitidos por el IFAI. </p>
- <br><br>
+ <h2>Acuerdos del Comité de Información</h2>
+ <br>
+ <h3>Resoluciones</h3>
+ <br>
  
- <blockquote>
-<ul>
- <li><a style="font-size:20px" href="acuerdos.php"  class="tooltip_arriba">Acuerdos</a></li>
-</ul>
-</blockquote>
+ <table style="border-spacing:2px; border-collapse:separate;"  cellpadding="0" border="2" width="550px">
+<tbody>
+<tr >
+<td scope="col" colspan="4" bgcolor="#C0C0C0">
+<div align="center"><strong>2014</strong></div>
+</td>
+</tr>
+<tr>
+<td scope="col" bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-enero-2014.php">Enero </a></div>
+</td>
+<td scope="col" bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-febrero-2014.php">Febrero</a></div>
+</td>
+<td scope="col" bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-marzo-2014.php">Marzo</a></div>
+</td>
+<td scope="col" bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-abril-2014.php">Abril</a></div>
+</td>
+</tr>
+<tr >
+<td scope="col" bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-mayo-2014.php">Mayo </a></div>
+</td>
+<td bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-junio-2014.php">Junio </a></div>
+</td>
+<td bgcolor="#EAEAEA">
+<div align="center"><a href="resoluciones-julio-2014.php">Julio</a></div>
+</td>
+<td bgcolor="#EAEAEA">
+<div align="center">Agosto</div>
+</td>
+</tr>
+<tr >
+<td bgcolor="#EAEAEA">
+<div align="center">Septiembre</div>
+</td>
+<td bgcolor="#EAEAEA">
+<div align="center">Octubre</div>
+</td>
+<td bgcolor="#EAEAEA">
+<div align="center">Noviembre</div>
+</td>
+<td bgcolor="#EAEAEA">
+<div align="center">Diciembre</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <br><br>
 
- <blockquote>
-<ul>
- <li><a style="font-size:20px" href="resoluciones.php" class="tooltip_arriba">Resoluciones</a></li>
-</ul>
-</blockquote>
+
+
+<br><br>
+
+
 
  </div>
 
