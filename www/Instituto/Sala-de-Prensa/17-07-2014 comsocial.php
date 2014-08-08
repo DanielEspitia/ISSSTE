@@ -62,22 +62,22 @@
 </ul>
 </blockquote>
 <p>Como parte de la nueva política de vivienda que impulsa el Gobierno de la República, el Director General del ISSSTE, Sebastián Lerdo de Tejada, y el Gobernador Constitucional de Veracruz, Javier Duarte de Ochoa, presidieron en este puerto el acto de entrega de escrituras, llaves de casas y cancelación de hipotecas en beneficio de los derechohabientes del Instituto.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_1.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/17-07-14/Com_27_img_1.jpg" alt="" border="0" width="580"></p>
 <p>En presencia del vocal ejecutivo de FOVISSSTE, José Reyes Baeza y ante representantes de los organismos desarrolladores de vivienda en el estado; de la presidenta del Congreso estatal, Anilú Ingram Ballinas, y de dirigentes locales de organizaciones sindicales como la Federación de Sindicatos de Trabajadores al Servicio del Estado (FSTSE), del Sindicato Nacional de Trabajadores de la Educación (SNTE) y de la Federación Democrática de Sindicatos de Servidores Públicos (FEDESSP), Lerdo de Tejada señaló:</p>
 <p>“Quienes reciben hoy escrituras, cancelación de hipotecas y llaves de sus casas, lo que están recibiendo es el producto de un esfuerzo de toda una vida, un esfuerzo de todos los días al servicio del Estado mexicano”.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_2.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_2.jpg" alt="" border="0" width="580"></p>
 <p>Agregó que el compromiso asumido con los trabajadores del Estado y la instrucción que tiene del Presidente Enrique Peña Nieto, es mejorar y acercar los servicios, transparentar la administración y coordinarnos plenamente con los tres órdenes de gobierno.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_3.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_3.jpg" alt="" border="0" width="580"></p>
 <p>Dijo, además, que “estamos haciendo un esfuerzo coordinado y transversal para cumplirle a nuestro jefe, el Presidente de la República, y para cumplirle a México y cumplirle así a todos y cada uno de los veracruzanos”.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_4.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_4.jpg" alt="" border="0" width="580"></p>
 <p>Por su parte, el titular de FOVISSSTE, José Reyes Baeza Terrazas, anunció que en breve se pondrá a disposición de la derechohabiencia un nuevo producto de crédito, denominado “FOVISSSTE en Pesos”, que será fondeado con recursos de la Sociedad Hipotecaria Federal a un plazo de 25 años y con una tasa de interés anual del 10.25 por ciento.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_5.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_5.jpg" alt="" border="0" width="580"></p>
 <p>En su oportunidad, el gobernador de Veracruz, Javier Duarte de Ochoa, reconoció las acciones que desarrolla el ISSSTE a favor de más de 500 mil derechohabientes, entre ellos 128 mil cotizantes, 53 mil pensionados y 325 mil familiares.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_6.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_6.jpg" alt="" border="0" width="580"></p>
 <p>El mandatario señaló que el Hospital Regional de Alta Especialidad de Veracruz, el cual recorrió minutos antes junto con el Director General de la institución, Sebastián Lerdo de Tejada, “es una muestra de sus esfuerzos para mejorar la actitud y la calidad de los servicios sanitarios y es el más importante del Instituto y de todo el sector salud en el sureste del país”.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_7.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_7.jpg" alt="" border="0" width="580"></p>
 <p>En su gira de trabajo por este puerto, el titular del ISSSTE estuvo acompañado por integrantes de su cuerpo directivo y el Delegado estatal, Renato Alarcón Guevara.</p>
-<p align="center"><img src="../../images/photos/Comunicados2014/Com_27_img_8.jpg" alt="" border="0" width="580"></p>
+<p align="center"><img src="../../images/photos/Comunicados2014/17-07-14/Com_27_img_8.jpg" alt="" border="0" width="580"></p>
 </div>
 
 		</div>
