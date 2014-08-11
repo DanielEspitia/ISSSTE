@@ -68,10 +68,11 @@
 
 <!-- ********************************************************************** -->
 <div class="allmode_itemsbox">
-<table width="260" height="280"  border="0">
+<table width="260"   border="0">
 <tr class="alt primera ultima" >
 
 <td width="80" >
+                <!--	Noticia 1	-->
 
 				<a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">
 				<img src="images/photos/Comunicados2014/05-08-14/Com_1.jpg" width="95" height="75" title="EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE " alt="" class="img-thumbnail"></a>
@@ -83,7 +84,10 @@
 		
 		
 
-	</tr>	<!--	Noticia más reciente (última)	-->
+</tr>	
+<tr height="30"></tr>
+	
+				<!--	Noticia 2	-->
 
 <tr class="alt primera ultima" >
 
