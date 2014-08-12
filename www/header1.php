@@ -24,10 +24,12 @@
                 <!-- Logo Module -->
                          
 <div class="custom">
-<a href="http://www2.issste.gob.mx:8080" class="tooltip_arriba"><img id="logo_pos" src="images/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>
-
+<a href="http://www2.issste.gob.mx:8080" class="tooltip_arriba"><img id="logo_pos" src="images/issste2013-header_2.jpg" border="" alt="Logo ISSSTE"></a></div>	<!--	div Custom	-->
                           </div>
-
+<div align="right" >
+<a href="#" target="_Blank" title="Contador de visitas">Contador de visitas</a><br>
+<script type="text/javascript" src="http://counter6.statcounterfree.com/private/countertab.js?c=818527635622ea84876f5f4da916136a"></script>
+</div>
           <br class="clear">
     
           <div id="menu">
