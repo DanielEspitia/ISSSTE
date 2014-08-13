@@ -29,8 +29,7 @@
     <body>
 
      <?php
-         include('header1.php');
-       
+         include('header1.php');       
         ?>
         <!-- Carrusel-->
 	<!-- Start WOWSlider.com BODY section -->

@@ -30,7 +30,7 @@
 <hr>
 </div>
 	<div class="col-md-12"><strong>ISSSTE, GUANAJUATO - ALGUNOS DERECHOS RESERVADOS © 2014</strong><p></p></div>
-    
+
 
                     </div>
 </div>
