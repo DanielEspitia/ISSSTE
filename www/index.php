@@ -23,7 +23,24 @@
         <link rel="stylesheet" href="css/contenedores.css">
         <link rel="stylesheet" href="menu/styles.css">
       	<link rel="stylesheet" type="text/css" href="engine1/style.css" />	<!--	css de wow slider	-->
-		<script type="text/javascript" src="engine1/jquery.js"></script>	<!--	css de wow slider	-->            
+		<script type="text/javascript" src="engine1/jquery.js"></script>	<!--	css de wow slider	--> 
+
+		<!--	Rotador de Noticias	-->
+		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script src="plugins/jquery.cycle.all.js"></script>
+		
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#rotar').cycle({
+			fx:     'scrollUp',
+			timeout: 6000,
+			delay:  -2000
+		});
+	});    
+</script>
+<!--Rotador de Noticias-->
+		
     </head>
 
     <body>
@@ -67,57 +84,33 @@
 		
 		<!--<div id="contentLeft">-->
 		<div id="contentLeft01">
-                  	<div class="moduletableNews">
-					<h3 align="center">Noticias</h3>
+         <h3 align="center">Noticias</h3>
 					<br>
-					<div class="allmode_box allmode-default News">
-
 
 <!-- ********************************************************************** -->
-<div class="allmode_itemsbox">
-<table width="260"   border="0">
-<tr class="alt primera ultima" >
+ <div class="cycle-main" onmouseover="$('#rotar').cycle('pause');" onmouseout="$('#rotar').cycle('resume');">
+    	
+        <div id="rotar" class="cycle-content"> 
 
-<td width="80" >
-                <!--	Noticia 1	-->
-
-				<a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">
-				<img src="images/photos/Comunicados2014/05-08-14/Com_1.jpg" width="95" height="75" title="EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE " alt="" class="img-thumbnail"></a>
-</td>
+			<div><a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">
+				<img src="images/photos/Comunicados2014/05-08-14/Com_1.jpg"  width="110" height="90" title="EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE " alt="" class="img-thumbnail"></a>
+				<br><br><h4 class="allmode_title" ><a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">
+				EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE </a></div>
+			
+			<div><a href="Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php" class="tooltip_arriba">
+				<img src="images/tb.jpg"  width="110" height="90" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" class="img-thumbnail"></a>
+				<br><br><h4 class="allmode_title" ><a href="Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php" class="tooltip_arriba">
+				UN ISSSTE SIN REZAGO EDUCATIVO </a></div>
+			
 		
-	<td width="110">
-				<h4 class="allmode_title"><a href="Instituto/Sala-de-Prensa/05-08-2014%20comsocial.php" class="tooltip_arriba">EL PRESIDENTE DE LA CORTE INTERAMERICANA DE DERECHOS HUMANOS VISITA EL ISSSTE</a></h4>
-	</td>
-		
-		
+        </div> 
+        
+    </div>          
 
-</tr>	
-<tr height="30"></tr>
-	
-				<!--	Noticia 2	-->
-
-<tr class="alt primera ultima" >
-
-<td width="80" >
-
-				<a href="Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php" class="tooltip_arriba">
-				<img src="images/tb.jpg" width="95" height="75" title="UN ISSSTE SIN REZAGO EDUCATIVO" alt="" class="img-thumbnail"></a>
-</td>
-		
-	<td width="110">
-				<h4 class="allmode_title"><a href="Instituto/Sala-de-Prensa/21-07-2014%20comsocial.php" class="tooltip_arriba">UN ISSSTE SIN REZAGO EDUCATIVO </a></h4>
-	</td>
-		
-		
-
-	</tr>
-	
-</table>
-</div>
 <!-- ********************************************************************** -->
 <br>
-<div class="allmode_showall"><a href="/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Ver más comunicados</a></div></div>		
-</div>
+<div class="allmode_showall"><a href="/index.php/instituto/comunicacion-social-salaprensa" class="tooltip_arriba">Ver más comunicados</a></div>		
+
 <br>
 	<div class="moduletable">
 			<h3>Obligaciones de Transparencia</h3>
