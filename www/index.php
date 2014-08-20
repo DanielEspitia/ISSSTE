@@ -39,14 +39,22 @@
 <li><a href="Instituto/Sala-de-Prensa/21-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_29_img_3.jpg" alt="Un ISSSTE sin rezago educativo" title="Un ISSSTE sin rezago educativo" id="wows1_1"/></a></li>
 <li><a href="Instituto/Sala-de-Prensa/19-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_28_img_1.jpg" alt="Anuncia director general del ISSSTE derrama ecónomica por más de 14 MMDP para EDOMEX" title="Anuncia director general del ISSSTE derrama ecónomica por más de 14 MMDP para EDOMEX" id="wows1_2"/></a></li>
 <li><a href="Instituto/Sala-de-Prensa/17-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_27_img_7.jpg" alt="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada" title="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada" id="wows1_3"/></a></li>
-<li><a href="Instituto/Sala-de-Prensa/16-07-2014 comsocial.php" title="Ver Noticia"><img src="data1/images/com_26_img_5.jpg" alt="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014" title="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014" id="wows1_4"/></a></li>
+<li><a href="http://www.prevenissste.gob.mx/" target="blank_" title="Ver Noticia"><img src="data1/images/02.jpg" alt="En preveniSSSTE te decimos como cuidar tu salud" title="En preveniSSSTE te decimos como cuidar tu salud" id="wows1_4"/></a></li>
+<li><a href="Instituto/Novedades/ebola-verde.php" title="Ver Noticia"><img src="data1/images/ebola.jpg" alt="Enfermedad del Virus Ébola " title="Aviso Preventivo de Viaje a Países Africanos Guinea, Liberia, Sierra Leona y Nigeria" id="wows1_5"/></a></li>
+<li><a href="http://todosobrefiebrechikungunya.mx/" target="blank_" title="Ver Noticia"><img src="data1/images/fiebre.jpg" alt="Todo sobre fiebre Chikungunya" title="Todo sobre fiebre Chikungunya " id="wows1_6"/></a></li>
+<li><a href="Instituto/Novedades/elimina-pase-jubilado.php" title="Ver Noticia"><img src="data1/images/jubilado.jpg" alt="El ISSSTE elimina el pase de vigencia presencial" title="El ISSSTE elimina el pase de vigencia presencial" id="wows1_7"/></a></li>
+
 </ul></div>
 <div class="ws_bullets"><div>
 <a href="#" title="El Presidente de la Corte Interamericana de Derechos Humanos visita el ISSSTE"><img src="data1/tooltips/com_30_img_2.jpg" alt="El Presidente de la Corte Interamericana de Derechos Humanos visita el ISSSTE"/>1</a>
 <a href="#" title="Un ISSSTE sin rezago educativo"><img src="data1/tooltips/com_29_img_3.jpg" alt="Un ISSSTE sin rezago educativo"/>2</a>
 <a href="#" title="Anuncia director general del ISSSTE derrama ecónomica por más de 14 MMDP para EDOMEX"><img src="data1/tooltips/com_28_img_1.jpg" alt="Anuncia director general del ISSSTE derramma ecónomica por más de 14 MMDP para EDOMEX"/>3</a>
 <a href="#" title="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada"><img src="data1/tooltips/com_27_img_7.jpg" alt="Más de 1773 MDP para créditos de vivienda a derechohabientes en Veracruz: Lerdo de Tejada"/>4</a>
-<a href="#" title="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014"><img src="data1/tooltips/com_26_img_5.jpg" alt="Para Veracruz, el ISSSTE destina más de 9 mil 400 millones de pesos en 2014"/>5</a>
+<a href="#" title="En preveniSSSTE te decimos como cuidar tu salud"><img src="data1/tooltips/02.jpg" alt="En preveniSSSTE te decimos como cuidar tu salud"/>5</a>
+<a href="#" title="Aviso Preventivo de Viaje a Países Africanos Guinea, Liberia, Sierra Leona y Nigeria"><img src="data1/tooltips/ebola.jpg" alt="Aviso Preventivo de Viaje a Países Africanos Guinea, Liberia, Sierra Leona y Nigeria"/>6</a>
+<a href="#" title="Todo sobre fiebre Chikungunya"><img src="data1/tooltips/fiebre.jpg" alt="Todo sobre fiebre Chikungunya"/>7</a>
+<a href="#" title="El ISSSTE elimina el pase de vigencia presencial"><img src="data1/tooltips/jubilado.jpg" alt="El ISSSTE elimina el pase de vigencia presencial"/>8</a>
+
 </div></div>
 	</div>
 	<script type="text/javascript" src="engine1/wowslider.js"></script>
