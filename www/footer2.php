@@ -18,7 +18,7 @@
                   
 
 
-<div class="col-md-6"> <font size="-2"> AV. FRANCISCO JUÁREZ SIN ESQ. AMERICAS, COL. LOS LAURELES, PLAZA XOCHIPILLI </font></div>
+<div class="col-md-6"> <font size="-2"> AV. FRANCISCO JUÁREZ S/N ESQ. AMERICAS, COL. LOS LAURELES, PLAZA XOCHIPILLI </font></div>
 <div class="col-md-2"></div>
 <div class="col-md-6"> <font size="-2">CONMUTADOR: (01-461) 609-36-91, 609-35-08, 609-21-66, 609-25-29 </font></div>
 

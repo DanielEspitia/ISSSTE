@@ -11,7 +11,7 @@
 		<link rel="icon" type="image/ico" href="../../images/logo.jpg" />
 		<link rel="alternate" type="application/rss+xml" title="Plantillas 2010" href="index.rss" />
         
-        <title>ISSSTE GUANAJUATO - EL ISSSTE ELIMINA EL PASE DE VIGENCIA PRESENCIAL</title>
+        <title>ISSSTE GUANAJUATO - CONVIVENCIA NACIONAL DEPORTISSSTE 2014</title>
 		
 		 <!--loading Bootstrap  -->
         <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
@@ -36,15 +36,17 @@
 	  
 	        <div id="text">        
             <div class="item-page">
-  <h1>El ISSSTE elimina pase de vigencia presencial </h1>
+  <h1>Convivencia Nacional DeportISSSTE 2014</h1>
   <br>
-  <h1>SI ERES JUBILADO O PENSIONADO </h1>
-
-<h3>A partir del 1° de Agosto ya no tendrás que ir al ISSSTE a verificar tu vigencia para poder recibir tu pensión</h3>
+  <h1>Para pensionados y jubilados </h1>
 <br>
-    <a href="http://www2.issste.gob.mx:8080/images/downloads/home/e-book_comic_vigenciadeerechos.pdf" class="btn btn-default btn-lg btn-block"  target="_blank">FOLLETO INFORMATIVO</a>
+<h3>Del 9 al 12 de septiembre; Delegación Estatal del ISSSTE en Guanajuato. <br> Calle Alhondiga s/n, Zona Centro.</h3>
+<h2>Ceremonia de Inauguración 9 de septiembre, 18:00 h.</h2>
+
+<br>
+    <a href="../../Archivos/DeportISSSTE.pdf" class="btn btn-default btn-lg btn-block"  target="_blank">VER EN PDF</a>
      <br>
-<img src="../../images/novedades/carteleliminapase.jpg" width="550" height="800"/>
+<img src="../../images/novedades/cartel_DeportISSSTE.jpg" width="550" height="815"/>
 
 		</div>
 
