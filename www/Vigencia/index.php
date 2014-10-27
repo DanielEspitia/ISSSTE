@@ -63,7 +63,7 @@
  </div>
  </div>
  <div class="col-md-3">
-
+<!--Aqui iria el panel de instruciones para abrir los archivos-->
 
  </div>
 </div>
