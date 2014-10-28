@@ -1,0 +1,14 @@
+analisis_medula
+Es necesaria la realización de análisis de sangre y de medúla ósea a fin de obtener resultados concretos de la presencia o no de LEUCEMIA.
+--
+Debido a la ausencia de uno o más de los síntomas característicos de la LEUCEMIA, se llega a la conclusión de que el paciente no presenta la enfermedad, por lo cual se sugiere acudir a otro especialista.
+leucemia
+Con base en los resultados obtenidos de los analisis previamente realizados, se ha encontrado la preencia de LEUCEMIA en el paciente, por tanto es necesario que se someta al tratamiento de QUIMIOTERAPIA y RADIOTERAPIA.
+--
+Con base en los resultados obtenidos de los analisis previamente realizados, no se ha encontrado la preencia de LEUCEMIA en el paciente, sin embargo, debido a la presencia de los síntomas mostrados por el paciente se recomienda visitar a otro especialista.
+continua
+Gracias al tratamiento se han obtenido resultados favorables, es decir, la enfermedad ha cedido, sin embargo recomendamos continuar en seguimiento con su médico personal.
+transplante_medula
+A pesar de someterse al tratamiento de QUIMIOTERAPIA y RADIOTERAPIA no fue posible contrarrestar la LEUCEMIA, por lo tanto le sugerimos que se realice un transplante de medula osea a fin de combatir la enfermedad.
+otra_alternativa
+A pesar de someterse al tratamiento de TRANSPLANTE DE MÉDULA ÓSEA no fue posible contrarrestar la LEUCEMIA con lo cual hemos agotado nuestras opciones, le sugerimos buscar otra alternativa.

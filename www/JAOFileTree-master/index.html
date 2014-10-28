@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>JAO File Tree </title>
+	<link rel="stylesheet" href="jaofiletree.css">
+	<script type="text/javascript" src="jquery-1.8.3.js"></script>
+	<script type="text/javascript" src="jaofiletree.js"></script>
+	<script type="text/javascript">
+            jQuery.noConflict();
+            jQuery(document).ready(function($) {
+                $('#jao').jaofiletree({ 
+                    script  : 'connectors/jaoconnector.php',
+                    onclick : function(elem,type,file){}
+                });
+            });
+	</script>
+        <link href='http://fonts.googleapis.com/css?family=Archivo+Black' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow' rel='stylesheet' type='text/css'>
+  </head>
+  <body>      
+      <div id="wrapper">
+        <h1>ISSSTE/VIGENCIA</h1>
+        <div id="jao"></div>        
+      </div>      
+  </body>
+</html>
