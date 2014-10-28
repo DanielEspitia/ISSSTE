@@ -22,7 +22,7 @@
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		
         <link rel="stylesheet" href="../css/format.css">
-        <link rel="stylesheet" href="../css/contenedores.css">
+        <link rel="stylesheet" href="../css/contenedor.css">
 	
 	<link rel="stylesheet" href="../JTree/jaofiletree.css">
 	<script type="text/javascript" src="../JTree/jquery-1.8.3.js"></script>
@@ -50,17 +50,17 @@
         <div class="col-md-2"></div>
         <div id="contentLeft">
 	  
-	        <div id="text">        
+	              
             <div class="item-page">
-     <h2>Archivos Vigencia</h2>
-   <hr>
+     <!--<h2>Archivos Vigencia</h2>-->
+<br><br><br><br><br><br><br>
+   
     <div id="jao"></div> 
  
- 
- 
- </div>
 
  </div>
+
+
  </div>
  <div class="col-md-3">
 <!--Aqui iria el panel de instruciones para abrir los archivos-->

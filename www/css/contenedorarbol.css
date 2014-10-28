@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+#contentLeft {
+float: left;
+padding-left: 10px;
+width:900px;
+/*border: 1px solid #F5F5F5;  */
+}
+
+#contentRight {
+float: right;
+width: 300px;
+padding-right: 10px;
+}
+
+#tableHeader {
+  text-transform: uppercase;
+  color: #FFF;
+  background-color: #7E7E7E;
+  font-size: 11px;
+  font-weight: bold;
+}
+.tableHeader:hover {
+  background-color: #333333;
+}
+.table tr.tableHeader td {
+}
+
+td{
+	text-align:justify;
+}
+
+#centrar{
+text-align:center;	
+}
+
+#logoheader {
+    background: url(../images/derechohabiente.png) no-repeat scroll center bottom #FFF;
+    color: #FFF;
+    min-height: 100px;
+    margin: 0em 10px 0px !important;
+}

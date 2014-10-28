@@ -4,23 +4,7 @@
 <div id="container">
 <!-- Header -->
   <div id="header">
-
-          <div id="menuTop">
-        
-            <!-- Menu Top Module -->                            
-			<ul class="menu" id="navTop">
-				<li class="item-468 primera"><a href="../index.php" class="tooltip_arriba">Inicio</a></li>
-                 <li class="item-470"><a href="../Contactanos/Comentarios/comentarios-sugerencias.php" class="tooltip_arriba">Contacto</a></li>
-                <li class="item-471"><a href="../Contactanos/Directorios/directorios-institucionales.php" class="tooltip_arriba">Directorios</a></li>
-				<li class="item-472"><a href="../menuTop/Ubicanos/map.php" class="tooltip_arriba">Ubicanos</a></li>
-                <li class="item-473 ultima"><a href="#" class="tooltip_arriba">Mapa del sitio</a></li>
-			</ul>
-
-			<br class="clear"> 
-								
-            </div>
-            
-             <div id="issste">
+   <div id="issste">
                 <!-- Logo Module -->
                          
 <div class="custom">
