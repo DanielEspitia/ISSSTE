@@ -14,10 +14,10 @@
         <title>ISSSTE GUANAJUATO- Vigencia</title>
 		
 		 <!--loading Bootstrap  -->
-        <link rel="stylesheet" href="../bootstrap-3.2.0-dist/css/bootstrap.css">
-        <link rel="stylesheet" href="../bootstrap-3.2.0-dist/css/bootstrap.min.css">
-        <link rel="stylesheet" href="../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
-        <script src="../bootstrap-3.2.0-dist/js/jquery.js"></script>
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.css">
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../../bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
+        <script src="../../bootstrap-3.2.0-dist/js/jquery.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.js"> </script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"> </script>
 		
@@ -25,13 +25,13 @@
         <link rel="stylesheet" href="../css/contenedor.css">
 	
 	<link rel="stylesheet" href="../JTree/jaofiletree.css">
-	<script type="text/javascript" src="../JTree/jquery-1.8.3.js"></script>
-	<script type="text/javascript" src="../JTree/jaofiletree.js"></script>
+	<script type="text/javascript" src="../JFileTree-master/jquery-1.8.3.js"></script>
+	<script type="text/javascript" src="../JFileTree-master/jaofiletree.js"></script>
 	<script type="text/javascript">
             jQuery.noConflict();
             jQuery(document).ready(function($) {
                 $('#jao').jaofiletree({ 
-                    script  : '../JTree/connectors/jaoconnector.php',
+                    script  : '../JFileTree-master/connectors/jaoconnector.php',
                     onclick : function(elem,type,file){}
                 });
                 $('#jao').bind('afteropen',function(){jQuery('#debugcontent').prepend('A folder has been opened<br/>');});
@@ -44,7 +44,7 @@
 
 	<body>
 	<?php
-         include('../headerVigencia.php');
+         include('../../headerVigencia.php');
       ?>
 	  <div class="container-fluid">
         <div class="col-md-2"></div>
@@ -73,7 +73,7 @@
 
 
  <?php
- include('../footerVigencia.php');
+ include('../../footerVigencia.php');
 
  ?>
 </body>

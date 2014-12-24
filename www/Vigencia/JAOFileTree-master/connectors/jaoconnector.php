@@ -9,7 +9,7 @@ if(!empty($_GET['dir'])){
 
 }
 $dir = str_replace('..', '', $dir);
-$root = dirname(dirname(dirname(__FILE__))).'/../Vigencia';
+$root = dirname(dirname(dirname(__FILE__))).'/../Vigencia/Documentos';
 //$root = dirname(__FILE__).'/../';
 
 $return = $dirs = $fi = array();
